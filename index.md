@@ -122,9 +122,10 @@ sections:
         image_has_padding: true
       - title: Groups
         title_align: left
-        content: >
-          Get support and learn from someone with experience in area that's
-          relevant to you.
+        content: >+
+          Join or create a group with industry peers to connect monthly to stay
+          current on industry trends and best practices.
+
         content_align: left
         image: images/icon-4.svg
         image_alt: Section item 4 icon
