@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'If you want to make an impact, you need to act boldly'
 subtitle: lorem-ipsum
 date: '2021-08-20'
 categories: []
