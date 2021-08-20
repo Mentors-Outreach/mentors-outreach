@@ -41,6 +41,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
+    author: _data/team/person-bjfmxhc5b.json
 seo:
   title: ''
   description: ''
