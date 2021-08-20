@@ -54,7 +54,7 @@ sections:
           limitless potential. Think you have what it takes?Join Us
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Join Us
             url: '#'
             style: link
             has_icon: false
