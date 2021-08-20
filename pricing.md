@@ -124,7 +124,9 @@ seo:
     - name: 'twitter:title'
       value: Pricing
     - name: 'twitter:description'
-      value: This is the pricing page
+      value: >-
+        Join now to participate in thoughtful conversations, attend events, and
+        access exclusive deals and content.
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
