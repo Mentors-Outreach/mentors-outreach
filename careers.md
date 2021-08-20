@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Careers
 seo:
   title: ''
   description: ''
