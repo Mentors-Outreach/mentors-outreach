@@ -48,7 +48,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'twitter:title'
-      value: Introducing Membership
+      value: Posts by Bakari Mustafa
       keyName: name
       relativeUrl: false
     - name: 'og:description'
