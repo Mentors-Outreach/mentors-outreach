@@ -2,7 +2,6 @@
 title: lorem-ipsum
 sections:
   - title: Drop-in audio chat
-    subtitle: lorem-ipsum
     content: >
       Join like-minded people around the world come together to talk, listen and
       learn from each other in real-time.Join Space
