@@ -103,7 +103,7 @@
             },
             {
                 "label": "Founding Membership",
-                "url": "founding-membership",
+                "url": "/founding-membership",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
