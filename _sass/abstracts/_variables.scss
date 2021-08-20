@@ -4,8 +4,8 @@
 $theme-styles: (
 	classic: (
 		fonts: (
-			serif: ("IBM Plex Sans",serif),
-			sans-serif: ("IBM Plex Sans",serif)
+			serif: ("Inter", sans-serif),
+			sans-serif: ("Inter", sans-serif)
 		),
 		colors: (
 			blue:  #7076f0,
@@ -15,7 +15,7 @@ $theme-styles: (
 	),
 	bold: (
 		fonts: (
-			serif: ("IBM Plex Sans",serif),
+			serif: (""Inter", sans-serif),
 			sans-serif: ("IBM Plex Sans",serif)
 		),
 		colors: (
