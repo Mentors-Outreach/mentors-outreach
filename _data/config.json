@@ -108,11 +108,6 @@
                 "type": "action"
             },
             {
-                "label": "FAQ",
-                "url": "/faq",
-                "style": "link"
-            },
-            {
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link",
@@ -122,6 +117,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "FAQ",
+                "url": "/faq",
+                "style": "link"
             }
         ],
         "has_secondary_nav": true,
