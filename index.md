@@ -45,7 +45,6 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/crunchbase.png
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
