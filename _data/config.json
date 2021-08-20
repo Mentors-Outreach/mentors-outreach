@@ -108,6 +108,17 @@
                 "type": "action"
             },
             {
+                "label": "Get Involved",
+                "url": "/get-involved",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link",
@@ -122,17 +133,6 @@
                 "label": "FAQ",
                 "url": "/faq",
                 "style": "link"
-            },
-            {
-                "label": "Get Involved",
-                "url": "/get-involved",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "has_secondary_nav": true,
