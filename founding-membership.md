@@ -5,7 +5,7 @@ sections:
     subtitle: Become a Founding Member and support this community.
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Founding Member badge
         subtitle: lorem-ipsum
         title_align: left
         content: >-
