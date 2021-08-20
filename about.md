@@ -30,7 +30,7 @@ layout: page
 ---
 ![](https://d33wubrfki0l68.cloudfront.net/b73da976210231c8d4612f536da6695fe7df753d/3a191/assets/image/christina-wocintechchat-com-utw3j_aoikm-unsplash.jpg)
 
-###### Invest in your mind. Join the community to participate in thoughtful conversations, attend events, and access exclusive deals and content.
+Invest in your mind. Join the community to participate in thoughtful conversations, attend events, and access exclusive deals and content.
 
 # Our Mission
 
