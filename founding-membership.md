@@ -119,6 +119,10 @@ seo:
       value: images/brooke-cagle-uhvrvdr7pg-unsplash.jpeg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: images/brooke-cagle-uhvrvdr7pg-unsplash.jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: advanced
 ---
