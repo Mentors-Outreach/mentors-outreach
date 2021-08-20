@@ -11,7 +11,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Seedling
+      - title: Personal
         subtitle: Optional subtitle
         title_align: left
         content: |-
