@@ -19,9 +19,12 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+As 2020 nears the end, we want to take a moment to say thank you. It has been a year like no other, and It’s a perfect time to show our gratitude to our entire community.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This is a space dedicated to nurture meaningful conversation and to help you connect with each other. What you share matters. We appreciate how you share your knowledge openly with others in the community and with the world.
 
-- Lorem ipsum
-- dolor sit amet
+we are so grateful for your creation, your sharing, your feedback, and your generosity. Thank you!
+
+With gratitude,
+
+Mentors Outreach Team
