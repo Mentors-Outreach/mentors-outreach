@@ -64,7 +64,9 @@ seo:
     - name: 'twitter:title'
       value: Blog
     - name: 'twitter:description'
-      value: This is the blog page
+      value: >-
+        Tips and advice to grow your career and in life. This is the Mentors
+        Outreach Blog.
     - name: 'twitter:image'
       value: images/post-5.png
       relativeUrl: true
