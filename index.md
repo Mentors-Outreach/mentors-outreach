@@ -35,7 +35,7 @@ sections:
         image: images/Product Hunt.png
         image_alt: Product Hunt
     grid_cols: two
-    grid_gap_vert: small
+    grid_gap_vert: medium
     grid_gap_horiz: small
     enable_cards: false
     align: center
