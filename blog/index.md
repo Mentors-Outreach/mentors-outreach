@@ -56,7 +56,7 @@ seo:
         Outreach Blog.
       keyName: property
     - name: 'og:image'
-      value: images/post-5.png
+      value: images/brooke-cagle-g1Kr4Ozfoac-unsplash.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
