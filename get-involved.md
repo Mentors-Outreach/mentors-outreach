@@ -1,7 +1,7 @@
 ---
 title: Become a Mentor
 seo:
-  title: ''
+  title: Become a Mentor
   description: ''
   robots: []
   extra:
