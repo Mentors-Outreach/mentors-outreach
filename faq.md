@@ -16,10 +16,8 @@ sections:
           build confidence and help challenge, motivate, inspire you at all
           stages of your career.
       - title: Is Mentors Outreach Free?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          Yes!
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
