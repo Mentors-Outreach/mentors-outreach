@@ -38,6 +38,8 @@ sections:
           per month, billed yearly
 
           *   For students, explorers, and creators.
+
+          *   Live events & meetups
         content_align: left
         actions:
           - label: Start with Premium
