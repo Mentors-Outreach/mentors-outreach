@@ -2,7 +2,10 @@
 title: Mentors Outreach helps you become the best version of yourself.
 seo:
   title: About
-  description: This is the about us page
+  description: >+
+    Join the community to participate in thoughtful conversations, attend
+    events, and access exclusive deals and content.
+
   extra:
     - name: 'og:type'
       value: website
