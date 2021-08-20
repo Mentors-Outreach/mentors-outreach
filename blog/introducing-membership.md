@@ -1,6 +1,6 @@
 ---
 title: Introducing Membership
-date: '2020-09-20'
+date: '2020-09-23'
 categories: []
 tags: []
 excerpt: lorem-ipsum
