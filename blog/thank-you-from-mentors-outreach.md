@@ -5,7 +5,8 @@ subtitle: >-
   members and supporting the community. Mentors Outreach is made of thousands of
   professionals!
 date: '2020-12-24'
-categories: []
+categories:
+  - _data/categories/news.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: Thank You
