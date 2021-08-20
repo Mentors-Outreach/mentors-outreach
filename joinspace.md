@@ -98,7 +98,13 @@ seo:
     Join like-minded people around the world come together to talk, listen and
     learn from each other in real-time.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: >-
+        Join like-minded people around the world come together to talk, listen
+        and learn from each other in real-time.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
