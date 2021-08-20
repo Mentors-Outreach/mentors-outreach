@@ -97,8 +97,8 @@ sections:
     image_alt: lorem-ipsum
     video_embed_html: >-
       Please note your membership is non-refundable. Want to give it a try
-      first? You can join with a monthly membership. We hope to see you soon in
-      the Mentors Outreach community!
+      first? You can join with a free membership. We hope to see you soon in the
+      Mentors Outreach community!
     media_position: top
     media_width: fifty
     align: left
