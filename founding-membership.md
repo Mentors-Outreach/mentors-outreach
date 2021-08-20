@@ -69,7 +69,11 @@ seo:
   title: ''
   description: Become a Founding Member and support our online community.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: Become a Founding Member and support our online community.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
