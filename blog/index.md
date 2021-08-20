@@ -41,8 +41,8 @@ sections:
 seo:
   title: Blog - Mentors Outreach
   description: >-
-    Tips and advice to grow your career and in life. This is the Hungry
-    Innovators Blog.
+    Tips and advice to grow your career and in life. This is the Mentors
+    Outreach Blog.
   extra:
     - name: 'og:type'
       value: website
