@@ -2,7 +2,6 @@
 title: Posts by Bakari Mustafa
 sections:
   - title: Bakari Mustafa
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
