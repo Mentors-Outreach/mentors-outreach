@@ -65,6 +65,10 @@ seo:
         post.
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: Introducing Membership
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
