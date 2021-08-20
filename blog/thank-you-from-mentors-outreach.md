@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Thank you from Mentors Outreach
 subtitle: lorem-ipsum
 date: '2021-08-20'
 categories: []
