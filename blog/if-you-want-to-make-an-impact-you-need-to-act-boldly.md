@@ -27,6 +27,14 @@ seo:
 
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >+
+        Make a list of leaders you admire and who have made a difference in the
+        world. They could be living or dead. The chances are they all have one
+        outstanding quality in common: they are bold.
+
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_image: images/oleg-laptev-qrkjwe6yfjo-unsplash.jpeg
