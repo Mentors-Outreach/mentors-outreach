@@ -1,5 +1,7 @@
 ---
-title: lorem-ipsum
+title: >-
+  We’re looking for dreamers and builders with remarkable talent and limitless
+  potential. Think you have what it takes?
 sections:
   - title: Drop-in audio chat
     content: >
