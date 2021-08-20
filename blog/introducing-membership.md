@@ -4,7 +4,9 @@ date: '2020-09-23'
 categories:
   - _data/categories/category-adv07ytw3.json
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  With Mentors Outreach Membership you’ll be able to earn a badge. It’s
+  displayed on your profile, as well as next to your name every time you post.
 thumb_image_alt: Mentors Outreach Membership
 image_alt: Mentors Outreach Membership
 image_position: top
