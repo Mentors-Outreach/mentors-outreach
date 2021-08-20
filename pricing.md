@@ -116,7 +116,7 @@ seo:
         access exclusive deals and content.
       keyName: property
     - name: 'og:image'
-      value: images/about-3.jpg
+      value: images/brooke-cagle-uhvrvdr7pg-unsplash.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
