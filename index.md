@@ -278,7 +278,7 @@ seo:
         Join Mentors Outreach to upgrade your professional network. It’s simple;
         Ask, Share, Join groups & discussions, and receive support.
     - name: 'twitter:image'
-      value: images/feature-1.png
+      value: images/5f2acb2cbba8032240f4d5dd_creators-right@2x-p-1080.jpeg
       relativeUrl: true
 layout: advanced
 ---
