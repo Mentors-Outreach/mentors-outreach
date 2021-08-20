@@ -67,7 +67,7 @@ sections:
     type: grid_section
 seo:
   title: ''
-  description: ''
+  description: Become a Founding Member and support our online community.
   robots: []
   extra: []
   type: stackbit_page_meta
