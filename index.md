@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Get answers and share your expertise.
     actions:
       - label: Try for free
         url: /pricing
