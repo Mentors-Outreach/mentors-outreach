@@ -58,6 +58,13 @@ seo:
         post.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        With Mentors Outreach Membership you’ll be able to earn a badge. It’s
+        displayed on your profile, as well as next to your name every time you
+        post.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
