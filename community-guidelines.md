@@ -4,7 +4,7 @@ seo:
   title: Community Guidelines
   description: >+
     As a member of Mentors Outreach, we want you to get immediate value from
-    being here. That’s why we’re aiming to offer 4 simple things:
+    being here.
 
 
   robots: []
