@@ -29,6 +29,17 @@
                 "type": "action"
             },
             {
+                "label": "Founding Membership",
+                "url": "/founding-membership",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Pricing",
                 "url": "/pricing",
                 "style": "link"
@@ -52,17 +63,6 @@
                 "label": "Get Started",
                 "url": "/thank-you",
                 "style": "primary"
-            },
-            {
-                "label": "Founding Membership",
-                "url": "/founding-membership",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "has_anncmnt": false
