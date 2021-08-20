@@ -42,9 +42,10 @@ sections:
     title: Why Choose YourGoal?
     features:
       - title: Meet a supportive and inspiring group of peers
-        content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+        content: >
+          You’ll all grow through the creative journey together, exchanging
+          support, encouragement, and inspiration. Take classes with your
+          friends and make new ones from all over the world.
         actions:
           - label: Learn More
             url: /thank-you
