@@ -19,25 +19,6 @@ sections:
     background_image_opacity: 60
     title: Join a community that fosters greatness
     image: images/5f306b8ef273cf393ba00e6e_hero-photos-right.png
-  - type: grid_section
-    title: Featured On
-    align: center
-    grid_items:
-      - image: images/logo-1.svg
-        image_alt: Logo 1
-        image_align: center
-      - image: images/logo-2.svg
-        image_alt: Logo 2
-        image_align: center
-      - image: images/logo-3.svg
-        image_alt: Logo 3
-        image_align: center
-    grid_cols: three
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    padding_top: small
-    padding_bottom: medium
-    background_color: none
   - type: features_section
     title: Why Choose Mentors Outreach?
     features:
