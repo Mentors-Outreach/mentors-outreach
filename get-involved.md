@@ -4,7 +4,11 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Become a Mentor
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
