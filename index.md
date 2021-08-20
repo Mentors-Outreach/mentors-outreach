@@ -252,7 +252,7 @@ seo:
   title: Mentors Outreach - Get answers and share your expertise.
   description: >
     Join Mentors Outreach to upgrade your professional network. It’s simple;
-    Ask, Share, Share what you know, learn what you don't.
+    Ask, Share what you know, learn what you don't.
   extra:
     - name: 'og:type'
       value: website
