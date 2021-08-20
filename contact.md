@@ -47,8 +47,7 @@ seo:
   title: Contact
   description: >+
     Please feel free to drop a message if you want to talk about business
-    opportunities. Fill the contact form below or send us an email at
-    support@mentorsoutreach.org.
+    opportunities. 
 
   robots: []
   extra:
