@@ -56,13 +56,7 @@ sections:
           You’ll all grow through the creative journey together, exchanging
           support, encouragement, and inspiration. Discover resources and make
           friends and so much more.
-        actions:
-          - label: Learn More
-            url: /thank-you
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/5f306b75e0a2e4e72f293313_hero-photos-left-p-500.png
         image_alt: Feature 1 placeholder image
         media_position: right
