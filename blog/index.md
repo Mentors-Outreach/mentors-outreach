@@ -39,7 +39,7 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Blog
+  title: Blog - Mentors Outreach
   description: This is the blog page
   extra:
     - name: 'og:type'
