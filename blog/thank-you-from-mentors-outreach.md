@@ -4,7 +4,7 @@ subtitle: >-
   This was an eventful year for Mentors Outreach. We grew as team, adding new
   members and supporting the community. Mentors Outreach is made of thousands of
   professionals!
-date: '2021-08-20'
+date: '2020-12-20'
 categories: []
 tags: []
 excerpt: lorem-ipsum
