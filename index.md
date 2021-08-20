@@ -39,7 +39,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: features_section
-    title: Why Choose YourGoal?
+    title: Why Choose Mentors Outreach?
     features:
       - title: Meet a supportive and inspiring group of peers
         content: >
