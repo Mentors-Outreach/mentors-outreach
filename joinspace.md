@@ -30,7 +30,7 @@ sections:
           supportive community of peers and mentors, and more.Join the community
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Careers
             url: '#'
             style: link
             has_icon: false
