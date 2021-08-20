@@ -30,7 +30,7 @@ sections:
           supportive community of peers and mentors, and more.Join the community
         content_align: left
         actions:
-          - label: Careers
+          - label: Join the Community
             url: /careers
             style: link
             has_icon: false
