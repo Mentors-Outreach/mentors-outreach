@@ -35,6 +35,10 @@ seo:
 
       keyName: name
       relativeUrl: false
+    - name: 'twitter:title'
+      value: 'If you want to make an impact, you need to act boldly'
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_image: images/oleg-laptev-qrkjwe6yfjo-unsplash.jpeg
