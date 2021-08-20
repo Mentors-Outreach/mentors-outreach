@@ -29,7 +29,7 @@ sections:
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
-    enable_cards: true
+    enable_cards: false
     padding_top: small
     padding_bottom: medium
     has_border: false
