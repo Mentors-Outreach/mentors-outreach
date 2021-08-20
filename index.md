@@ -85,7 +85,7 @@ sections:
   - type: grid_section
     title: How it works
     grid_items:
-      - title: Set News Goals
+      - title: Weekly Introductions
         title_align: left
         content: >+
           Hand-curated introductions to others with shared interests and goals
