@@ -37,6 +37,10 @@ seo:
         post.
       keyName: property
       relativeUrl: false
+    - name: 'og:type'
+      value: article
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 author: _data/team/person-bjfmxhc5b.json
