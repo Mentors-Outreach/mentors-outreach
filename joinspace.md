@@ -5,7 +5,16 @@ sections:
     content: >
       Join like-minded people around the world come together to talk, listen and
       learn from each other in real-time.Join Space
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     image_alt: lorem-ipsum
     media_position: top
     media_width: fifty
