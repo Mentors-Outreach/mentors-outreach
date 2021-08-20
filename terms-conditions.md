@@ -45,7 +45,7 @@ Except for changes by us as described here, no other amendment or modification o
 
 ## What about my privacy?
 
-Mentors Outreach takes the privacy of its users very seriously. For the current Mentors Outreach Privacy Policy, please [click here.](https://mentorsoutreach.org/legal/privacy)
+Mentors Outreach takes the privacy of its users very seriously. For the current Mentors Outreach Privacy Policy, please [click here.](https://mentorsoutreach.org/privacy-policy/)
 
 ## What are the basics of using Mentors Outreach?
 
