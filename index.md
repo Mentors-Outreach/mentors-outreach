@@ -107,10 +107,9 @@ sections:
     grid_items:
       - title: Set News Goals
         title_align: left
-        content: >-
-          Goals take time, hard work, perseverance and commitment to achieve it.
-          With **YourGoal** you can list positive task what helps you to create
-          good habbits.
+        content: >
+          Want a raise? In line for a promotion? Making a career switch? Choose
+          where you want to improve.
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
