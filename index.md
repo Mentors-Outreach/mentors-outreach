@@ -20,7 +20,6 @@ sections:
     title: Join a community that fosters greatness
     image: images/5f306b8ef273cf393ba00e6e_hero-photos-right.png
   - title: As Featured In
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title_align: left
