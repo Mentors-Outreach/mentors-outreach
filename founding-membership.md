@@ -20,7 +20,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Recieve extra attention and Support
+      - title: Receive extra attention and Support
         subtitle: lorem-ipsum
         title_align: left
         content: >-
