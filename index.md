@@ -34,18 +34,6 @@ sections:
         type: grid_item
         image: images/Product Hunt.png
         image_alt: Product Hunt
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: crunchbase
-        image_position: top
-        image_width: fourty
-        image_align: center
-        image_has_padding: true
-        type: grid_item
-        image: images/Screen-Shot-2020-01-23-at-5.24.44-PM.png
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
