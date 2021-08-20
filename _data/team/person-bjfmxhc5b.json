@@ -4,5 +4,6 @@
     "first_name": "Bakari",
     "last_name": "Mustafa",
     "photo_alt": "Bakari Mustafa",
-    "type": "person"
+    "type": "person",
+    "photo": "images/bakari-mustafa.jpeg"
 }
