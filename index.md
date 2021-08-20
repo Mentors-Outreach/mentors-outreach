@@ -275,7 +275,9 @@ seo:
     - name: 'twitter:title'
       value: Mentors Outreach - Get answers and share your expertise.
     - name: 'twitter:description'
-      value: The preview of the Startup theme
+      value: >-
+        Join Mentors Outreach to upgrade your professional network. It’s simple;
+        Ask, Share, Join groups & discussions, and receive support.
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
