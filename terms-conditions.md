@@ -22,7 +22,9 @@ seo:
     - name: 'twitter:title'
       value: Terms and Conditions
     - name: 'twitter:description'
-      value: This is the terms and conditions page
+      value: >-
+        Please read on to learn the rules and restrictions that govern your use
+        of our website(s), products, services and applications (the “Services”).
 layout: page
 ---
 *Last updated: February 11, 2020*
