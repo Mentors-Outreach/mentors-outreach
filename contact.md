@@ -1,7 +1,7 @@
 ---
 title: Contact
 sections:
-  - title: lorem-ipsum
+  - title: Get in Touch
     subtitle: lorem-ipsum
     title_align: left
     content: >-
