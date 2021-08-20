@@ -182,6 +182,15 @@
         "has_social": true,
         "social_links": [
             {
+                "label": "Facebook",
+                "url": "https://www.facebook.com/mentorsoutreach",
+                "style": "link",
+                "has_icon": true,
+                "icon": "facebook",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
                 "label": "Twitter",
                 "url": "https://twitter.com/mentorsoutreach",
                 "style": "link",
@@ -205,15 +214,6 @@
                 "style": "link",
                 "has_icon": true,
                 "icon": "linkedin",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "Facebook",
-                "url": "https://www.facebook.com/mentorsoutreach",
-                "style": "link",
-                "has_icon": true,
-                "icon": "facebook",
                 "icon_position": "center",
                 "new_window": true
             }
