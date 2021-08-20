@@ -37,7 +37,7 @@ sections:
     type: blog_feed_section
     author: _data/team/person-bjfmxhc5b.json
 seo:
-  title: ''
+  title: Introducing Membership
   description: ''
   robots: []
   extra: []
