@@ -10,10 +10,11 @@ sections:
   - type: grid_section
     grid_items:
       - title: What is Mentors Outreach?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Mentors Outreach a space to get inspired, ask questions, and share
+          professional and personal skills and experiences, enabling you to
+          build confidence and help challenge, motivate, inspire you at all
+          stages of your career.
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
