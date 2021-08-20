@@ -42,7 +42,7 @@ seo:
   robots: []
   extra:
     - name: 'og:title'
-      value: Posts by Bakari Mustafa
+      value: Bakari Mustafa
       keyName: property
       relativeUrl: false
     - name: 'twitter:title'
