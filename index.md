@@ -104,7 +104,6 @@ sections:
           so you can help each other make progress.
 
         content_align: left
-        image: images/icon-1.svg
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
