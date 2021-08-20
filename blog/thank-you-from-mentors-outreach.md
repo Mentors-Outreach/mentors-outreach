@@ -46,6 +46,10 @@ seo:
       value: summary_large_image
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: images/thank-you.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 thumb_image: images/thank-you.png
