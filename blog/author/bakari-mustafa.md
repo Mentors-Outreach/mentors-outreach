@@ -1,5 +1,5 @@
 ---
-title: Bakari Mustafa
+title: Posts by Bakari Mustafa
 sections: []
 seo:
   title: ''
