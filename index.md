@@ -169,17 +169,9 @@ sections:
       - title: Access and Support
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          You'll have access and support from the entire Mentors Outreach team,
+          including monthly challenges and AMAs hosted by Bakari Mustafa.
         content_align: left
         actions: []
         actions_align: left
