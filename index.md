@@ -183,17 +183,9 @@ sections:
         type: grid_item
       - title: Live Events
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Find Events & Discuss. These feature subject matter experts, members
+          of the community, and other meetups just for fun and networking.
         content_align: left
         actions: []
         actions_align: left
