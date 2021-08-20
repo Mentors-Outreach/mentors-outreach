@@ -87,9 +87,10 @@ sections:
     grid_items:
       - title: Set News Goals
         title_align: left
-        content: >
-          Want a raise? In line for a promotion? Making a career switch? Choose
-          where you want to improve.
+        content: >+
+          Hand-curated introductions to others with shared interests and goals
+          so you can help each other make progress.
+
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
