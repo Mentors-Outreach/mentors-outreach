@@ -266,7 +266,9 @@ seo:
       value: Mentors Outreach - Get answers and share your expertise.
       keyName: property
     - name: 'og:description'
-      value: The preview of the Startup theme
+      value: >-
+        Join Mentors Outreach to upgrade your professional network. It’s simple;
+        Ask, Share, Join groups & discussions, and receive support.
       keyName: property
     - name: 'og:image'
       value: images/feature-1.png
