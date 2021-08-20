@@ -18,7 +18,7 @@ sections:
       - title: Is Mentors Outreach Free?
         content: |
           Yes!
-      - title: Viverra nam libero justo laoreet sit?
+      - title: Why do you need my email address and other personal information?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
           posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
