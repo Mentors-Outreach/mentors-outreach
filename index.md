@@ -233,7 +233,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Ready to make the most of your mind?
+    title: Ready to make the most of our community?
     content: Start achieving your goals today!
     actions:
       - label: Try for free
