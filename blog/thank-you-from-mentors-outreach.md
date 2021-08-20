@@ -12,7 +12,7 @@ thumb_image_alt: Thank You
 image_alt: lorem-ipsum
 image_position: top
 seo:
-  title: ''
+  title: Thank you from Mentors Outreach
   description: ''
   robots: []
   extra: []
