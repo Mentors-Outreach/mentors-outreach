@@ -2,7 +2,9 @@
 title: Careers
 seo:
   title: ''
-  description: ''
+  description: >-
+    Join our Team! We're looking for creative and curious people who believe
+    everyone deserves the opportunity to learn and grow.
   robots: []
   extra: []
   type: stackbit_page_meta
