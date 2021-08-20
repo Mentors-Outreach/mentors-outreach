@@ -93,7 +93,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
 seo:
-  title: ''
+  title: Join Space
   description: ''
   robots: []
   extra: []
