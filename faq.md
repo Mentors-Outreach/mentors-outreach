@@ -53,5 +53,9 @@ seo:
       value: FAQ
     - name: 'twitter:description'
       value: Answers to common questions about Mentors Outreach
+    - name: 'og:image'
+      value: images/brooke-cagle-g1Kr4Ozfoac-unsplash.jpeg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
