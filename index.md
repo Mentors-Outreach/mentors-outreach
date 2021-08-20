@@ -18,6 +18,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
     title: Join a community that fosters greatness
+    image: images/5f2acb2cbba8032240f4d5dd_creators-right@2x-p-1080.jpeg
   - type: grid_section
     title: Featured On
     align: center
