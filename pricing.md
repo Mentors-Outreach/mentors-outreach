@@ -16,7 +16,7 @@ sections:
         content: |
           ***
 
-          ### $9
+          ### $0
 
           per month, billed yearly
 
