@@ -40,17 +40,9 @@ sections:
         type: grid_item
       - title: Join Us
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          We’re looking for dreamers and builders with remarkable talent and
+          limitless potential. Think you have what it takes?Join Us
         content_align: left
         actions: []
         actions_align: left
