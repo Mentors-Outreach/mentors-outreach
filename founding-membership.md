@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Mentors Outreach Membership
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
