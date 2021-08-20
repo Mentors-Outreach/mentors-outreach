@@ -215,6 +215,9 @@ sections:
     enable_cards: true
     align: center
     background_color: none
+    subtitle: >-
+      Build a network of meaningful work-life connections based on shared
+      interests such as social impact, tech and entrepreneurship.
   - type: blog_feed_section
     title: What's New
     blog_feed_cols: three
