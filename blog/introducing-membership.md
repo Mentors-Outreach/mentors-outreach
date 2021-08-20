@@ -9,7 +9,7 @@ thumb_image_alt: Mentors Outreach Membership
 image_alt: Mentors Outreach Membership
 image_position: top
 seo:
-  title: ''
+  title: Introducing Membership
   description: ''
   robots: []
   extra: []
