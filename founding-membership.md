@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - title: Mentors Outreach Membership
-    subtitle: lorem-ipsum
+    subtitle: Become a Founding Member and support this community.
     actions: []
     grid_items: []
     grid_cols: three
