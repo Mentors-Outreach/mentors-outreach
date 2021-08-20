@@ -3,7 +3,10 @@ title: 'If you want to make an impact, you need to act boldly'
 date: '2021-08-20'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  Make a list of leaders you admire and who have made a difference in the world.
+  They could be living or dead. The chances are they all have one outstanding
+  quality in common: they are bold.
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
