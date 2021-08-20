@@ -3,7 +3,9 @@ title: Pricing
 sections:
   - type: hero_section
     title: Mentors Outreach Membership
-    subtitle: Optional hero section subtitle
+    subtitle: >-
+      Join now to participate in thoughtful conversations, attend events, and
+      access exclusive deals and content.
     align: center
     padding_top: large
     padding_bottom: small
