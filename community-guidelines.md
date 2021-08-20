@@ -25,6 +25,12 @@ seo:
 
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >
+        As a member of Mentors Outreach, we want you to get immediate value from
+        being here.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
