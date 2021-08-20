@@ -43,6 +43,10 @@ seo:
       value: 'If you want to make an impact, you need to act boldly'
       keyName: property
       relativeUrl: false
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_image: images/oleg-laptev-qrkjwe6yfjo-unsplash.jpeg
