@@ -28,8 +28,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Mission![](https://d33wubrfki0l68.cloudfront.net/b73da976210231c8d4612f536da6695fe7df753d/3a191/assets/image/christina-wocintechchat-com-utw3j_aoikm-unsplash.jpg)Photo by Christina on Unsplash 😀
+![](https://d33wubrfki0l68.cloudfront.net/b73da976210231c8d4612f536da6695fe7df753d/3a191/assets/image/christina-wocintechchat-com-utw3j_aoikm-unsplash.jpg)
 
+# Mission
 
 Our mission is to help everyone reach their career aspirations and achieve their professional goals.
 
@@ -56,7 +57,5 @@ So jump in regardless of your level of experience – everyone’s voice adds va
 ## Careers
 
 **We have lots of open positions**. We are always looking for motivated and collaborative people from around the world who share our *passions and values*.
-
-
 
 Our team understands that life is a marathon, and it's super important to make sure you take care of YOU and your needs. This is why we try to remind our users to take time off, reward themselves after a job well done, and put down the phone every once in a while when there's nowhere you have to be, or nothing you need to do.
