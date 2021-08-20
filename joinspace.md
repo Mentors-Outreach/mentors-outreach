@@ -1,7 +1,5 @@
 ---
-title: >-
-  We’re looking for dreamers and builders with remarkable talent and limitless
-  potential. Think you have what it takes?
+title: Join Space
 sections:
   - title: Drop-in audio chat
     content: >
