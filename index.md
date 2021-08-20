@@ -128,7 +128,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Right answer from the right people
+      - title: Discussions
         title_align: left
         content: >
           When asking or reading questions, request an answer from the most
