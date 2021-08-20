@@ -81,13 +81,13 @@
                 "style": "link"
             },
             {
-                "label": "FAQ",
-                "url": "/faq",
+                "label": "Careers",
+                "url": "/careers",
                 "style": "link"
             },
             {
-                "label": "Careers",
-                "url": "/careers",
+                "label": "FAQ",
+                "url": "/faq",
                 "style": "link"
             }
         ],
