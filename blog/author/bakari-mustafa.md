@@ -3,7 +3,6 @@ title: Posts by Bakari Mustafa
 sections:
   - title: Bakari Mustafa
     actions: []
-    image_alt: lorem-ipsum
     media_position: top
     media_width: fifty
     align: left
