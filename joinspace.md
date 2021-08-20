@@ -105,6 +105,12 @@ seo:
         and learn from each other in real-time.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        Join like-minded people around the world come together to talk, listen
+        and learn from each other in real-time.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
