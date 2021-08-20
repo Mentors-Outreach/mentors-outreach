@@ -19,8 +19,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: Posts by Bakari Mustafa
-    actions: []
+  - actions: []
     blog_feed_cols: three
     enable_cards: false
     show_recent: false
