@@ -155,7 +155,7 @@
             },
             {
                 "label": "Announcement",
-                "url": "/blog/category/Announcement",
+                "url": "/blog/category/announcement",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
