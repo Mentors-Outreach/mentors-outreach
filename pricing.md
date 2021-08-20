@@ -57,6 +57,14 @@ sections:
           per month, billed yearly
 
           *   For knowledge workers and entrepreneurs.
+
+          *   Courses & workshops
+
+          *   Members-only newsletter.
+
+          *   Virtual events.
+
+          *   Special offers.
         content_align: left
         actions:
           - label: Start with Business
