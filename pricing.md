@@ -80,18 +80,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
+  - actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
       Please note your membership is non-refundable. Want to give it a try
