@@ -66,4 +66,4 @@ So jump in regardless of your level of experience – everyone’s voice adds va
 
 ## Careers
 
-**We have lots of open positions**. We are always looking for motivated and collaborative people from around the world who share our *passions and values*. Think you have what it takes? Join Us.
+**We have lots of open positions**. We are always looking for motivated and collaborative people from around the world who share our *passions and values*. Think you have what it takes? [Join Us](mentorsoutreach.org/careers/).
