@@ -15,9 +15,26 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+Hi, I’m very happy to announce Mentors Outreach Membership! You’ll be able to earn a badge. It’s displayed on your profile, as well as next to your name every time you post.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+### Benefits of the Founding Membership
 
-- Lorem ipsum
-- dolor sit amet
+*   Founding Member badge
+
+*   Join a supportive community where you can share what you’re working on and celebrate wins together.
+
+*   Receive extra attention and Support
+
+*   Get advice and feedback from other founders.
+
+*   Help this incredible platform stay online. This project is bootstrapped by a solo founder.
+
+Learn more: [Membership](https://mentorsoutreach.org/founding-membership/)
+
+That’s all folks
+
+I really hope you enjoy this announcement. As always, if you have any feedback, feel free to get in touch and I’ll get back to you.
+
+Cheers,
+
+Bakari Mustafa
