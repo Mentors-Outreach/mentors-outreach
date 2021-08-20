@@ -2,7 +2,7 @@
 title: Blog
 sections:
   - type: hero_section
-    title: Mentors Outreach Blog
+    title: Blog
     subtitle: 'News, tips and highlights'
     align: center
     padding_top: medium
