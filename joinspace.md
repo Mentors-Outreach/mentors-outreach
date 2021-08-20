@@ -31,7 +31,7 @@ sections:
         content_align: left
         actions:
           - label: Careers
-            url: '#'
+            url: /careers
             style: link
             has_icon: false
             icon: arrow-left
