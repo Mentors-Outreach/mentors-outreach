@@ -45,7 +45,7 @@ seo:
       value: FAQ
       keyName: property
     - name: 'og:description'
-      value: This is the faq page
+      value: Answers to common questions about Mentors Outreach
       keyName: property
     - name: 'twitter:card'
       value: summary
