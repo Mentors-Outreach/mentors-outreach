@@ -33,6 +33,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/Product Hunt.png
+        image_alt: Product Hunt
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
