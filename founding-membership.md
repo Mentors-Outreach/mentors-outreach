@@ -21,7 +21,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Receive extra attention and Support
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
