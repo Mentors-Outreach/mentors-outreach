@@ -58,10 +58,10 @@ sections:
         media_position: right
         media_width: sixty
       - title: Community & Resources
-        content: >-
-          Friends are an integral part of our life, a true friend can motivate
-          you to achieve your goals. With Your Goal, you can set goals with your
-          friends and achieve them together.
+        content: >
+          You'll be part of our Community where you can ask questions, get
+          feedback and more. You'll get access to our growing library of
+          projects and career resources.
         actions:
           - label: Learn More
             url: /thank-you
