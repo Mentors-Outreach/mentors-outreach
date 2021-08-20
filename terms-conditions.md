@@ -2,7 +2,9 @@
 title: Terms & Conditions
 seo:
   title: Terms and Conditions
-  description: This is the terms and conditions page
+  description: >-
+    Please read on to learn the rules and restrictions that govern your use of
+    our website(s), products, services and applications (the “Services”).
   extra:
     - name: 'og:type'
       value: website
