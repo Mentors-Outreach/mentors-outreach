@@ -15,7 +15,7 @@ sections:
           professional and personal skills and experiences, enabling you to
           build confidence and help challenge, motivate, inspire you at all
           stages of your career.
-      - title: Sagittis vitae et leo duis ut diam?
+      - title: Is Mentors Outreach Free?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
