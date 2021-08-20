@@ -44,7 +44,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
 seo:
-  title: Contact
+  title: Contact - Mentors Outreach
   description: >+
     Please feel free to drop a message if you want to talk about business
     opportunities. 
