@@ -67,7 +67,16 @@ sections:
     type: grid_section
   - title: Want to support without becoming a member?
     content: "You can support Mentors Outreach by making a donation on\_[**PayPal**](https://www.paypal.com/cgi-bin/webscr?cmd=\\_s-xclick\\&hosted_button_id=2MMNXYXEHYY7J\\&source=url). This gives you the right to appear on our supporters page.[\n](https://forms.gle/cJMZ9sAUyZy5sv4q6)\n"
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     image_alt: lorem-ipsum
     video_embed_html: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
