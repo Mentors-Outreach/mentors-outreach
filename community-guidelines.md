@@ -9,6 +9,10 @@ seo:
       value: Community Guidelines
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Community Guidelines
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
