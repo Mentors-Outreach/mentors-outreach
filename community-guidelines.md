@@ -17,6 +17,14 @@ seo:
       value: Community Guidelines
       keyName: name
       relativeUrl: false
+    - name: 'og:description'
+      value: >+
+        As a member of Mentors Outreach, we want you to get immediate value from
+        being here. That’s why we’re aiming to offer 4 simple things:
+
+
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
