@@ -34,6 +34,10 @@ seo:
       value: Thank you from Mentors Outreach
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Thank you from Mentors Outreach
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_image: images/thank-you.png
