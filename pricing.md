@@ -96,8 +96,9 @@ sections:
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+      Please note your membership is non-refundable. Want to give it a try
+      first? You can join with a monthly membership. We hope to see you soon in
+      the Ness Labs community!
     media_position: top
     media_width: fifty
     align: left
