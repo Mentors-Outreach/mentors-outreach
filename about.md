@@ -42,7 +42,7 @@ Mentors Outreach is a space to get inspired, ask questions, begin discussions, s
 
 Build a network of meaningful work-life connections based on shared interests such as social impact, tech and entrepreneurship, etc.
 
-##### Share what you know, learn what you don't.
+#### Share what you know, learn what you don't.
 
 Our goal is to help everyone to reach a higher level in our abilities. I’m really looking forward to working with you and rapidly developing our community skills together.Invite people who you believe can benefit from joining Mentors Outreach and will elevate our community.
 
