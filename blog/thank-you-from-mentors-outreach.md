@@ -38,6 +38,10 @@ seo:
       value: Thank you from Mentors Outreach
       keyName: name
       relativeUrl: false
+    - name: 'og:type'
+      value: article
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_image: images/thank-you.png
