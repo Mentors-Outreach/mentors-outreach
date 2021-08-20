@@ -38,17 +38,10 @@ sections:
       - title: Support without becoming a member
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          With your help, we will continue to help this incredible platform to
+          stay online and those passionate about helping other to succeed and to
+          prosper.
         content_align: left
         actions: []
         actions_align: left
