@@ -17,7 +17,13 @@ seo:
     This was an eventful year for Mentors Outreach. We grew as team, adding new
     members and supporting the community.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: >-
+        This was an eventful year for Mentors Outreach. We grew as team, adding
+        new members and supporting the community.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_image: images/thank-you.png
