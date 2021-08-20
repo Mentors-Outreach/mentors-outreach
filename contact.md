@@ -60,6 +60,12 @@ seo:
 
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >
+        Please feel free to drop a message if you want to talk about business
+        opportunities. 
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
