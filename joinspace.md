@@ -115,6 +115,10 @@ seo:
       value: Join Space
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Join Space
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
