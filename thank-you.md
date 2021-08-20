@@ -5,7 +5,7 @@ sections:
     title: Sent!
     subtitle: >-
       We have received your message and would like to thank you for writing to
-      us. Please enjoy, we will reply by email as soon as possible.
+      us. We will reply by email as soon as possible.
     actions:
       - label: Back to homepage
         url: /
