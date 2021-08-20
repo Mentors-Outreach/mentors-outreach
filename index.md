@@ -74,9 +74,7 @@ sections:
         media_position: left
         media_width: sixty
       - title: Job Searching
-        content: >-
-          With YourGoal you will be more productive and organized. Overcome
-          procrastination and achieve your goals.
+        content: "Join our space for people who are curious about finding their dream job and want to learn more about becoming a world-class job hunter.\_\n"
         actions:
           - label: Learn More
             url: /thank-you
