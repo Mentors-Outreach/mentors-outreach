@@ -9,7 +9,7 @@ sections:
     form_layout: stacked
     enable_card: true
     form_id: contact-form
-    form_action: submit
+    form_action: /thank
     form_fields:
       - input_type: text
         name: Name
