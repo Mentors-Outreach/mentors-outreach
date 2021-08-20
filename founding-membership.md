@@ -7,17 +7,9 @@ sections:
     grid_items:
       - title: Founding Member badge
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Get your Founding Member badge. It's displayed on your profile, as
+          well as next to your name every time you post.
         content_align: left
         actions: []
         actions_align: left
