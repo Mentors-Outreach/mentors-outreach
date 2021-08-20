@@ -266,7 +266,7 @@ seo:
         Ask, Share, Join groups & discussions, and receive support.
       keyName: property
     - name: 'og:image'
-      value: images/5f2acb2cbba8032240f4d5dd_creators-right@2x-p-1080.jpeg
+      value: images/banner_11274.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
