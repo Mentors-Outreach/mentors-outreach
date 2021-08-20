@@ -65,6 +65,10 @@ seo:
       value: Introducing Membership
       keyName: name
       relativeUrl: false
+    - name: 'og:type'
+      value: profile
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
