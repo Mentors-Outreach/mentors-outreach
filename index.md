@@ -120,7 +120,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Groups
+      - title: Participate and Share
         title_align: left
         content: >+
           Join or create a group with industry peers to connect monthly to stay
