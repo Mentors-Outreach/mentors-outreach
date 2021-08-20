@@ -28,7 +28,9 @@ seo:
     - name: 'twitter:title'
       value: About Us - Mentors Outreach
     - name: 'twitter:description'
-      value: This is the about us page
+      value: >
+        Join the community to participate in thoughtful conversations, attend
+        events, and access exclusive deals and content.
     - name: 'twitter:image'
       value: images/about-1.jpg
       relativeUrl: true
