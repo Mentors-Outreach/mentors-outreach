@@ -44,7 +44,7 @@ seo:
   robots: []
   extra:
     - name: 'og:title'
-      value: Introducing Membership
+      value: Posts by Bakari Mustafa
       keyName: property
       relativeUrl: false
     - name: 'twitter:title'
