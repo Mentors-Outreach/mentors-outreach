@@ -46,7 +46,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'twitter:title'
-      value: Posts by Bakari Mustafa
+      value: Bakari Mustafa
       keyName: name
       relativeUrl: false
     - name: 'og:description'
