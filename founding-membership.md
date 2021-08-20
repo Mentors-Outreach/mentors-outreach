@@ -70,7 +70,7 @@ sections:
     actions:
       - label: Become a Founding Member ✊
         url: 'https://forms.gle/cJMZ9sAUyZy5sv4q6'
-        style: link
+        style: primary
         has_icon: true
         icon: arrow-right
         icon_position: right
