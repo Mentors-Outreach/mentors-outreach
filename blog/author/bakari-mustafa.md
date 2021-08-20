@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Bakari Mustafa
 sections: []
 seo:
   title: ''
