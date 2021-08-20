@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Pick Your Plan
+    title: Mentors Outreach Membership
     subtitle: Optional hero section subtitle
     align: center
     padding_top: large
