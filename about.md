@@ -20,7 +20,7 @@ seo:
 
       keyName: property
     - name: 'og:image'
-      value: images/about-1.jpg
+      value: images/brooke-cagle-uhvrvdr7pg-unsplash.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
