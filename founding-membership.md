@@ -68,7 +68,7 @@ sections:
   - title: Want to support without becoming a member?
     content: "You can support Mentors Outreach by making a donation on\_[**PayPal**](https://www.paypal.com/cgi-bin/webscr?cmd=\\_s-xclick\\&hosted_button_id=2MMNXYXEHYY7J\\&source=url). This gives you the right to appear on our supporters page.[\n](https://forms.gle/cJMZ9sAUyZy5sv4q6)\n"
     actions:
-      - label: lorem-ipsum
+      - label: Becoming a Founding Member
         url: '#'
         style: link
         has_icon: false
