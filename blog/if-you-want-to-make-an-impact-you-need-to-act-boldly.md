@@ -12,7 +12,11 @@ image_alt: lorem-ipsum
 image_position: top
 seo:
   title: ''
-  description: ''
+  description: >+
+    Make a list of leaders you admire and who have made a difference in the
+    world. They could be living or dead. The chances are they all have one
+    outstanding quality in common: they are bold.
+
   robots: []
   extra: []
   type: stackbit_page_meta
