@@ -40,7 +40,7 @@ sections:
       - input_type: textarea
         name: Message
         label: Message
-        default_value: lorem-ipsum
+        default_value: Enter your message
         options: []
         is_required: false
         type: form_field
