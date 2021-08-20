@@ -48,7 +48,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: BlogBlog - Mentors Outreach
       keyName: property
     - name: 'og:description'
       value: >-
