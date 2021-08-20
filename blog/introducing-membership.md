@@ -5,7 +5,7 @@ categories:
   - _data/categories/category-adv07ytw3.json
 tags: []
 excerpt: lorem-ipsum
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Mentors Outreach Membership
 image_alt: lorem-ipsum
 image_position: top
 seo:
