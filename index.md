@@ -196,7 +196,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Members-only newsletter
-        subtitle: lorem-ipsum
         title_align: left
         content: >
           A subscription to our monthly Mentors Outreach Updates with online and
