@@ -144,16 +144,6 @@
                 "style": "link"
             },
             {
-                "label": "Tips",
-                "url": "/blog/category/tips",
-                "style": "link"
-            },
-            {
-                "label": "Use Cases",
-                "url": "/blog/category/use-cases",
-                "style": "link"
-            },
-            {
                 "label": "Announcement",
                 "url": "/blog/category/announcement",
                 "style": "link",
@@ -163,6 +153,16 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Tips",
+                "url": "/blog/category/tips",
+                "style": "link"
+            },
+            {
+                "label": "Use Cases",
+                "url": "/blog/category/use-cases",
+                "style": "link"
             }
         ],
         "has_tertiary_nav": true,
