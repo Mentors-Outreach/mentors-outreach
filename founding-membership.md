@@ -22,17 +22,9 @@ sections:
         type: grid_item
       - title: Receive extra attention and Support
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          There's nothing more rewarding than helping others succeed. Create
+          discussion and help other in their journey!
         content_align: left
         actions: []
         actions_align: left
