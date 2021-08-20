@@ -50,10 +50,7 @@ seo:
       keyName: name
       relativeUrl: false
     - name: 'og:description'
-      value: >-
-        With Mentors Outreach Membership you’ll be able to earn a badge. It’s
-        displayed on your profile, as well as next to your name every time you
-        post.
+      value: Posts by Bakari Mustafa
       keyName: property
       relativeUrl: false
     - name: 'twitter:description'
