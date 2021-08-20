@@ -235,7 +235,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Ready to make the most of our communi?
+    title: Ready to make the most of our community?
     content: >
       We built Mentors Outreach to be a safe space for young professional and
       online business owners to connect with, learn from, and support one
