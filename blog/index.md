@@ -51,7 +51,9 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: >-
+        Tips and advice to grow your career and in life. This is the Mentors
+        Outreach Blog.
       keyName: property
     - name: 'og:image'
       value: images/post-5.png
