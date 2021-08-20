@@ -1,7 +1,7 @@
 ---
 title: Posts by Bakari Mustafa
 sections:
-  - title: Bakari Mustafa
+  - title: Posts by Bakari Mustafa
     actions: []
     media_position: top
     media_width: fifty
