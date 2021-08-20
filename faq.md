@@ -26,11 +26,6 @@ sections:
           other members. The more you communicate your needs, the more
           personalized and relevant your introductions become. We do not share
           your information with third parties or run advertisements.
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
