@@ -35,6 +35,10 @@ seo:
       value: images/toa-heftiba-FV3GConVSss-unsplash.jpeg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: images/toa-heftiba-FV3GConVSss-unsplash.jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 ---
