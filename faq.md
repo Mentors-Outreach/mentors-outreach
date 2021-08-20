@@ -26,7 +26,7 @@ sections:
           other members. The more you communicate your needs, the more
           personalized and relevant your introductions become. We do not share
           your information with third parties or run advertisements.
-    grid_cols: two
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
     enable_cards: true
