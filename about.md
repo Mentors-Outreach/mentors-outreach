@@ -1,5 +1,5 @@
 ---
-title: About
+title: Mentors Outreach helps you become the best version of yourself.
 seo:
   title: About
   description: This is the about us page
