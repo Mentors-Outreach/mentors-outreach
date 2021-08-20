@@ -236,7 +236,7 @@ sections:
     background_image_position: center top
     background_image_size: cover
     background_image_opacity: 10
-  - title: lorem-ipsum
+  - title: As Featured In
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
