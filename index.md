@@ -67,7 +67,7 @@ sections:
           feedback and more. You'll get access to our growing library of
           projects and career resources.
         actions: []
-        image: images/feature-2.png
+        image: images/participate_and_share.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
