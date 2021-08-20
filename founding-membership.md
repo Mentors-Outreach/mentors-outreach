@@ -74,6 +74,10 @@ seo:
       value: Become a Founding Member and support our online community.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: Become a Founding Member and support our online community.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
