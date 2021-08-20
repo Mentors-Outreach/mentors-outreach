@@ -12,7 +12,6 @@ sections:
   - type: grid_section
     grid_items:
       - title: Free
-        subtitle: Optional subtitle
         title_align: left
         content: |
           ***
