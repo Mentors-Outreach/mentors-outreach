@@ -57,7 +57,8 @@
             {
                 "label": "Log in",
                 "url": "http://social.mentorsoutreach.org/",
-                "style": "secondary"
+                "style": "secondary",
+                "icon": "arrow-right"
             },
             {
                 "label": "Get Started",
