@@ -56,6 +56,7 @@ seo:
 layout: post
 thumb_image: images/oleg-laptev-qrkjwe6yfjo-unsplash.jpeg
 image: images/oleg-laptev-qrkjwe6yfjo-unsplash.jpeg
+author: _data/team/person-bjfmxhc5b.json
 ---
 Make a list of leaders you admire and who have made a difference in the world. They could be living or dead. The chances are they all have one outstanding quality in common: they are bold.
 
