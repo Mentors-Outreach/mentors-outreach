@@ -36,7 +36,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Support without becoming a member
-        subtitle: lorem-ipsum
         title_align: left
         content: >
           With your help, we will continue to help this incredible platform to
