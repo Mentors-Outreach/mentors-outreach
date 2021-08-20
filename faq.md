@@ -57,5 +57,9 @@ seo:
       value: images/brooke-cagle-g1Kr4Ozfoac-unsplash.jpeg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: images/brooke-cagle-g1Kr4Ozfoac-unsplash.jpeg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
