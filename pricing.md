@@ -23,7 +23,7 @@ sections:
           *   For students, explorers, and creators.
         content_align: left
         actions:
-          - label: Start with Personal
+          - label: Get Started for Free
             url: /thank-you
             style: primary
         actions_align: left
