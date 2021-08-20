@@ -69,6 +69,10 @@ seo:
       value: Introducing Membership
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Introducing Membership
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
