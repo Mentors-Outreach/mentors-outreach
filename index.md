@@ -130,10 +130,9 @@ sections:
         image_has_padding: true
       - title: Right answer from the right people
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          When asking or reading questions, request an answer from the most
+          relevant people.
         content_align: left
         image: images/icon-3.svg
         image_alt: Section item 3 icon
