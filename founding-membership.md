@@ -78,6 +78,10 @@ seo:
       value: Become a Founding Member and support our online community.
       keyName: name
       relativeUrl: false
+    - name: 'twitter:title'
+      value: 'Founding Membership - Mentors Outreach '
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
