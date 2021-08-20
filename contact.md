@@ -45,7 +45,11 @@ sections:
     type: form_section
 seo:
   title: Contact
-  description: ''
+  description: >+
+    Please feel free to drop a message if you want to talk about business
+    opportunities. Fill the contact form below or send us an email at
+    support@mentorsoutreach.org.
+
   robots: []
   extra: []
   type: stackbit_page_meta
