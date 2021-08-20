@@ -30,6 +30,10 @@ seo:
         new members and supporting the community.
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: Thank you from Mentors Outreach
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_image: images/thank-you.png
