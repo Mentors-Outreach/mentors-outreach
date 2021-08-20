@@ -1,7 +1,7 @@
 ---
 title: Community Guidelines
 seo:
-  title: ''
+  title: Community Guidelines
   description: ''
   robots: []
   extra: []
