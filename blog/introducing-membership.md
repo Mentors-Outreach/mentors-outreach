@@ -1,6 +1,5 @@
 ---
 title: Introducing Membership
-subtitle: lorem-ipsum
 date: '2021-08-20'
 categories: []
 tags: []
