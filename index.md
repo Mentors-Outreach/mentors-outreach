@@ -261,9 +261,9 @@ seo:
       value: Mentors Outreach - Get answers and share your expertise.
       keyName: property
     - name: 'og:description'
-      value: >-
+      value: >
         Join Mentors Outreach to upgrade your professional network. It’s simple;
-        Ask, Share, Join groups & discussions, and receive support.
+        Ask, Share, Share what you know, learn what you don't.
       keyName: property
     - name: 'og:image'
       value: images/banner_11274.png
