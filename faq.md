@@ -19,12 +19,13 @@ sections:
         content: |
           Yes!
       - title: Why do you need my email address and other personal information?
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
+        content: >
+          Your email address serves as your user ID – we need it for login
+          authentication purposes. Any information you provide, such as current
+          industry and job title, is used to match you more effectively with
+          other members. The more you communicate your needs, the more
+          personalized and relevant your introductions become. We do not share
+          your information with third parties or run advertisements.
       - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
