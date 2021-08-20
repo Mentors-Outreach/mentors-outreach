@@ -32,7 +32,7 @@ seo:
         Join the community to participate in thoughtful conversations, attend
         events, and access exclusive deals and content.
     - name: 'twitter:image'
-      value: images/about-1.jpg
+      value: images/brooke-cagle-uhvrvdr7pg-unsplash.jpeg
       relativeUrl: true
 layout: page
 ---
