@@ -11,6 +11,12 @@ seo:
       value: Become a Mentor
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        Mentorship is by invitation only. However, we are always open to
+        recommendations so please share your referral with Us.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
