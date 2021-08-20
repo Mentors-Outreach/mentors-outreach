@@ -263,7 +263,7 @@ seo:
     - name: 'og:description'
       value: >
         Join Mentors Outreach to upgrade your professional network. It’s simple;
-        Ask, Share, Share what you know, learn what you don't.
+        Ask, Share what you know, learn what you don't.
       keyName: property
     - name: 'og:image'
       value: images/banner_11274.png
