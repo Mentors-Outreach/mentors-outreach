@@ -273,7 +273,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Startup Theme
+      value: Mentors Outreach - Get answers and share your expertise.
     - name: 'twitter:description'
       value: The preview of the Startup theme
     - name: 'twitter:image'
