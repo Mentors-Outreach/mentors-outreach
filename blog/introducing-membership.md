@@ -17,6 +17,10 @@ seo:
       value: Introducing Membership
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Introducing Membership
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 author: _data/team/person-bjfmxhc5b.json
