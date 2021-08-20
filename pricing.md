@@ -28,7 +28,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Seedling
+      - title: Young Professional
         title_align: left
         content: |
           ***
