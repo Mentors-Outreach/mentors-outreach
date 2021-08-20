@@ -43,7 +43,7 @@ sections:
         content: >
           We’re looking for dreamers and builders with remarkable talent and
           limitless potential. Think you have what it takes?Join Us
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
