@@ -11,7 +11,10 @@ seo:
       value: About
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: >+
+        Join the community to participate in thoughtful conversations, attend
+        events, and access exclusive deals and content.
+
       keyName: property
     - name: 'og:image'
       value: images/about-1.jpg
