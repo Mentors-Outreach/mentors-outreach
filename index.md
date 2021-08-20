@@ -150,7 +150,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Exclusive Content
+      - title: Special offers
         title_align: left
         content: >
           Besides our live events, Pro members get complimentary access to
