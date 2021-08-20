@@ -198,17 +198,9 @@ sections:
       - title: Members-only newsletter
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          A subscription to our monthly Mentors Outreach Updates with online and
+          offline events, special perks, early access to new products, and more.
         content_align: left
         actions: []
         actions_align: left
