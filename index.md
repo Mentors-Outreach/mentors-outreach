@@ -106,7 +106,7 @@ sections:
           I am excited to build a helpful community that connects you to just
           the right people for your needs!”
         subtitle: 'Bakari Mustafa, Founder @ Mentors Outreach'
-        image: images/testimonials.png
+        image: images/bakari-mustafa.jpeg
         image_alt: Ursula Gurnmeister photo
         media_position: left
         media_width: thirty-three
