@@ -23,7 +23,7 @@ sections:
     form_id: contact-form
     form_action: submit
     form_fields: []
-    submit_label: lorem-ipsum
+    submit_label: submit
     align_vert: top
     padding_top: medium
     padding_bottom: medium
