@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     subtitle: Get answers and share your expertise.
     actions:
-      - label: Try for free
+      - label: Get Started
         url: /pricing
         style: primary
     image: images/hero.svg
