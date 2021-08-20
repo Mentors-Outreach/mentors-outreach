@@ -20,6 +20,7 @@ seo:
 layout: post
 thumb_image: images/thank-you.png
 image: images/thank-you.png
+author: _data/team/person-bjfmxhc5b.json
 ---
 As 2020 nears the end, we want to take a moment to say thank you. It has been a year like no other, and It’s a perfect time to show our gratitude to our entire community.
 
