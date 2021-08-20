@@ -54,7 +54,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
-      - title: Job Searching
+      - title: Find Opportunity
         content: "Join our space for people who are curious about finding their dream job and want to learn more about becoming a world-class job hunter.\_\n"
         actions:
           - label: Learn More
