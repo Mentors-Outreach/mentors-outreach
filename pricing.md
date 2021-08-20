@@ -128,7 +128,7 @@ seo:
         Join now to participate in thoughtful conversations, attend events, and
         access exclusive deals and content.
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: images/brooke-cagle-uhvrvdr7pg-unsplash.jpeg
       relativeUrl: true
 layout: advanced
 ---
