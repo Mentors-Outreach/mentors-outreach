@@ -66,7 +66,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
 seo:
-  title: ''
+  title: 'Founding Membership - Mentors Outreach '
   description: Become a Founding Member and support our online community.
   robots: []
   extra:
