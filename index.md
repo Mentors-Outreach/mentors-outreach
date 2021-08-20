@@ -34,8 +34,7 @@ sections:
         type: grid_item
         image: images/Product Hunt.png
         image_alt: Product Hunt
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
