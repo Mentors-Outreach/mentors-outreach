@@ -31,6 +31,10 @@ seo:
         being here.
       keyName: name
       relativeUrl: false
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
