@@ -191,20 +191,20 @@
                 "new_window": true
             },
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/mentorsoutreach",
-                "style": "link",
-                "has_icon": true,
-                "icon": "twitter",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
                 "label": "Instagram",
                 "url": "https://Instagram.com/mentorsoutreach",
                 "style": "link",
                 "has_icon": true,
                 "icon": "instagram",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/mentorsoutreach",
+                "style": "link",
+                "has_icon": true,
+                "icon": "twitter",
                 "icon_position": "center",
                 "new_window": true
             },
