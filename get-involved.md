@@ -4,7 +4,7 @@ seo:
   title: Become a Mentor
   description: >-
     Mentorship is by invitation only. However, we are always open to
-    recommendations so please share your referral...
+    recommendations so please share your referral with Us.
   robots: []
   extra:
     - name: 'og:title'
