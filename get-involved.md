@@ -8,9 +8,6 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+*Mentorship is by invitation only.
+*
+However, we are always open to recommendations so please share your referral or interest by emailing us directly on [bakari@mentorsoutreach.org](mailto:bakari@mentorsoutreach.org?subject=Become%20a%20Mentor)
