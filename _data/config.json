@@ -155,7 +155,7 @@
             },
             {
                 "label": "Announcement",
-                "url": "##",
+                "url": "/blog/category/tips",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
