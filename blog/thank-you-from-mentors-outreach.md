@@ -13,7 +13,9 @@ image_alt: lorem-ipsum
 image_position: top
 seo:
   title: Thank you from Mentors Outreach
-  description: ''
+  description: >-
+    This was an eventful year for Mentors Outreach. We grew as team, adding new
+    members and supporting the community.
   robots: []
   extra: []
   type: stackbit_page_meta
