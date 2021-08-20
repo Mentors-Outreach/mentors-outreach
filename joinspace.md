@@ -31,7 +31,7 @@ sections:
         content_align: left
         actions:
           - label: Join the Community
-            url: /careers
+            url: /pricing
             style: link
             has_icon: false
             icon: arrow-left
