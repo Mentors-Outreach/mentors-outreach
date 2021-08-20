@@ -111,6 +111,10 @@ seo:
         and learn from each other in real-time.
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: Join Space
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
