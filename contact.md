@@ -44,7 +44,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
 seo:
-  title: ''
+  title: Contact
   description: ''
   robots: []
   extra: []
