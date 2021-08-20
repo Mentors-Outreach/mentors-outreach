@@ -22,7 +22,7 @@ sections:
   - title: As Featured In
     actions: []
     grid_items:
-      - title_align: left
+      - title_align: center
         content_align: center
         actions: []
         actions_align: center
