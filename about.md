@@ -57,5 +57,3 @@ So jump in regardless of your level of experience – everyone’s voice adds va
 ## Careers
 
 **We have lots of open positions**. We are always looking for motivated and collaborative people from around the world who share our *passions and values*. Think you have what it takes? Join Us.
-
-Our team understands that life is a marathon, and it's super important to make sure you take care of YOU and your needs. This is why we try to remind our users to take time off, reward themselves after a job well done, and put down the phone every once in a while when there's nowhere you have to be, or nothing you need to do.
