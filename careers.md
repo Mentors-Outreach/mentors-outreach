@@ -17,6 +17,12 @@ seo:
         everyone deserves the opportunity to learn and grow.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        Join our Team! We're looking for creative and curious people who believe
+        everyone deserves the opportunity to learn and grow.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
