@@ -153,9 +153,8 @@ sections:
       - title: Special offers
         title_align: left
         content: >
-          Besides our live events, Pro members get complimentary access to
-          Premium feeds and content from the Mentors Outreach Podcasts,
-          behind-the-scenes looks at how we're building our business, and more.
+          Enjoy exclusive savings on the best apps, books, and tools in the
+          mindful productivity space. 
         content_align: left
         actions: []
         actions_align: left
