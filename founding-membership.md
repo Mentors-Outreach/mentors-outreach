@@ -6,7 +6,6 @@ sections:
     actions: []
     grid_items:
       - title: Founding Member badge
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
