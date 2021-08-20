@@ -261,4 +261,4 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 *   By email: bakari@mentorsoutreach.org
 
-*   By visiting this page on our website: mentorsoutreach.org/contact
+*   By visiting this page on our website: [mentorsoutreach.org/contact](mentorsoutreach.org/contact)
