@@ -36,7 +36,7 @@ sections:
     background_color: none
 seo:
   title: FAQ
-  description: This is the faq page
+  description: Answers to common questions about Mentors Outreach
   extra:
     - name: 'og:type'
       value: website
