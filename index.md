@@ -72,13 +72,7 @@ sections:
           You'll be part of our Community where you can ask questions, get
           feedback and more. You'll get access to our growing library of
           projects and career resources.
-        actions:
-          - label: Learn More
-            url: /thank-you
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-2.png
         image_alt: Feature 2 placeholder image
         media_position: left
