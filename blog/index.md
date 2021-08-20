@@ -68,7 +68,7 @@ seo:
         Tips and advice to grow your career and in life. This is the Mentors
         Outreach Blog.
     - name: 'twitter:image'
-      value: images/post-5.png
+      value: images/brooke-cagle-g1Kr4Ozfoac-unsplash.jpeg
       relativeUrl: true
 layout: advanced
 ---
