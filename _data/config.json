@@ -64,7 +64,7 @@
             },
             {
                 "label": "Get Started",
-                "url": "/thank-you",
+                "url": "https://social.mentorsoutreach.org/signup",
                 "style": "primary"
             }
         ],
