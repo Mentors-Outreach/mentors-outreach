@@ -57,7 +57,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
-      - title: Access to the Mentors Outreach online community. & Resources
+      - title: Access to the Mentors Outreach online community & Resources
         content: >
           You'll be part of our Community where you can ask questions, get
           feedback and more. You'll get access to our growing library of
