@@ -1,7 +1,7 @@
 ---
 title: Careers
 seo:
-  title: ''
+  title: Career - Mentors Outreach
   description: >-
     Join our Team! We're looking for creative and curious people who believe
     everyone deserves the opportunity to learn and grow.
