@@ -94,7 +94,9 @@ sections:
     type: grid_section
 seo:
   title: Join Space
-  description: ''
+  description: >-
+    Join like-minded people around the world come together to talk, listen and
+    learn from each other in real-time.
   robots: []
   extra: []
   type: stackbit_page_meta
