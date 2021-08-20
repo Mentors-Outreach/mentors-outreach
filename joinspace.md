@@ -3,17 +3,9 @@ title: lorem-ipsum
 sections:
   - title: Drop-in audio chat
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Join like-minded people around the world come together to talk, listen and
+      learn from each other in real-time.Join Space
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
