@@ -50,6 +50,10 @@ seo:
       value: images/thank-you.png
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: images/thank-you.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 thumb_image: images/thank-you.png
