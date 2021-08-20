@@ -100,7 +100,9 @@ sections:
     type: hero_section
 seo:
   title: Pricing
-  description: This is the pricing page
+  description: >-
+    Join now to participate in thoughtful conversations, attend events, and
+    access exclusive deals and content.
   extra:
     - name: 'og:type'
       value: website
