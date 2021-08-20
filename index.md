@@ -141,10 +141,9 @@ sections:
         image_has_padding: true
       - title: Groups
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Get support and learn from someone with experience in area that's
+          relevant to you.
         content_align: left
         image: images/icon-4.svg
         image_alt: Section item 4 icon
