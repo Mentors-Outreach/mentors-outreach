@@ -136,7 +136,6 @@ sections:
           current on industry trends and best practices.
 
         content_align: left
-        image: images/icon-4.svg
         image_alt: Section item 4 icon
         image_position: top
         image_align: left
