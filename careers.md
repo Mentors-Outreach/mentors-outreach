@@ -11,6 +11,12 @@ seo:
       value: Career - Mentors Outreach
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        Join our Team! We're looking for creative and curious people who believe
+        everyone deserves the opportunity to learn and grow.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
