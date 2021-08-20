@@ -152,17 +152,10 @@ sections:
         image_has_padding: true
       - title: Exclusive Content
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Besides our live events, Pro members get complimentary access to
+          Premium feeds and content from the Mentors Outreach Podcasts,
+          behind-the-scenes looks at how we're building our business, and more.
         content_align: left
         actions: []
         actions_align: left
