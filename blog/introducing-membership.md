@@ -1,7 +1,8 @@
 ---
 title: Introducing Membership
 date: '2020-09-23'
-categories: []
+categories:
+  - _data/categories/category-adv07ytw3.json
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
