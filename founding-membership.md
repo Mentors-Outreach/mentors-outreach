@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Mentors Outreach Membership
 seo:
   title: ''
   description: ''
