@@ -82,6 +82,10 @@ seo:
       value: 'Founding Membership - Mentors Outreach '
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: 'Founding Membership - Mentors Outreach '
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
