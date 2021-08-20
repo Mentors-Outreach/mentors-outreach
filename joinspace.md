@@ -55,7 +55,7 @@ sections:
         content_align: left
         actions:
           - label: Join Us
-            url: '#'
+            url: /careers
             style: link
             has_icon: false
             icon: arrow-left
