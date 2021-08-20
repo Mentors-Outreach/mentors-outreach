@@ -40,7 +40,9 @@ sections:
     background_color: secondary
 seo:
   title: Blog - Mentors Outreach
-  description: This is the blog page
+  description: >-
+    Tips and advice to grow your career and in life. This is the Hungry
+    Innovators Blog.
   extra:
     - name: 'og:type'
       value: website
