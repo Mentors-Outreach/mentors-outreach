@@ -255,7 +255,9 @@ sections:
     background_image_opacity: 10
 seo:
   title: Mentors Outreach - Get answers and share your expertise.
-  description: The preview of the Startup theme
+  description: >-
+    Join Mentors Outreach to upgrade your professional network. It’s simple;
+    Ask, Share, Join groups & discussions, and receive support.
   extra:
     - name: 'og:type'
       value: website
