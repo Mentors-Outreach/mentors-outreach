@@ -43,7 +43,7 @@ sections:
         image_position: top
         image_width: fourty
         image_align: center
-        image_has_padding: false
+        image_has_padding: true
         type: grid_item
         image: images/Screen-Shot-2020-01-23-at-5.24.44-PM.png
     grid_cols: two
