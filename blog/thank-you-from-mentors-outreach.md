@@ -8,7 +8,10 @@ date: '2020-12-24'
 categories:
   - _data/categories/news.yaml
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  This was an eventful year for Mentors Outreach. We grew as team, adding new
+  members and supporting the community. Mentors Outreach is made of thousands of
+  professionals!
 thumb_image_alt: Thank You
 image_alt: lorem-ipsum
 image_position: top
