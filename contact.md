@@ -68,6 +68,10 @@ seo:
       value: Contact - Mentors Outreach
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Contact - Mentors Outreach
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
