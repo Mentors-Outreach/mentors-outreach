@@ -48,7 +48,6 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Blossom
-        subtitle: Optional subtitle
         title_align: left
         content: |-
           ---
