@@ -6,7 +6,7 @@ sections:
       Join like-minded people around the world come together to talk, listen and
       learn from each other in real-time.Join Space
     actions:
-      - label: lorem-ipsum
+      - label: Join Space
         url: '#'
         style: link
         has_icon: false
