@@ -22,6 +22,6 @@ Got any idea how something could be done better? Good. Welove constructive feedb
 
 We believe accessibility and inclusiveness is key to empowering a new generation to thrive. We approach everything we do in an open, curious and non judgemental way.
 
-# Open positions
+# Apply
 
 Shot us an email over at [Hello@mentorsoutreach.org](mailto:hello@mentorsoutreach.org) to tell us how awesome you are.
