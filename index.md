@@ -167,7 +167,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Access and Support
-        subtitle: lorem-ipsum
         title_align: left
         content: >
           You'll have access and support from the entire Mentors Outreach team,
