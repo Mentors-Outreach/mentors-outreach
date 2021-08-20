@@ -44,7 +44,7 @@
             },
             {
                 "label": "Careers",
-                "url": "#",
+                "url": "/Careers",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
