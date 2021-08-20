@@ -274,9 +274,9 @@ seo:
     - name: 'twitter:title'
       value: Mentors Outreach - Get answers and share your expertise.
     - name: 'twitter:description'
-      value: >-
+      value: >
         Join Mentors Outreach to upgrade your professional network. It’s simple;
-        Ask, Share, Join groups & discussions, and receive support.
+        Ask, Share, Share what you know, learn what you don't.
     - name: 'twitter:image'
       value: images/banner_11274.png
       relativeUrl: true
