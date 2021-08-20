@@ -45,6 +45,10 @@ seo:
       value: summary_large_image
       keyName: name
       relativeUrl: false
+    - name: 'twitter:image'
+      value: images/introducing-membership.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 author: _data/team/person-bjfmxhc5b.json
