@@ -52,6 +52,6 @@ seo:
     - name: 'twitter:title'
       value: FAQ
     - name: 'twitter:description'
-      value: This is the faq page
+      value: Answers to common questions about Mentors Outreach
 layout: advanced
 ---
