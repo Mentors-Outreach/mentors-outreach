@@ -24,7 +24,7 @@ sections:
         content_align: left
         actions:
           - label: Get Started for Free
-            url: /thank-you
+            url: 'https://social.mentorsoutreach.org/signup'
             style: primary
         actions_align: left
         actions_width: full-width
