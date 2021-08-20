@@ -119,6 +119,10 @@ seo:
       value: Join Space
       keyName: name
       relativeUrl: false
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
