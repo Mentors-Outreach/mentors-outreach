@@ -37,7 +37,7 @@ sections:
     type: blog_feed_section
     author: _data/team/person-bjfmxhc5b.json
 seo:
-  title: Introducing Membership
+  title: Posts by Bakari Mustafa
   description: >-
     With Mentors Outreach Membership you’ll be able to earn a badge. It’s
     displayed on your profile, as well as next to your name every time you post.
