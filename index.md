@@ -19,6 +19,24 @@ sections:
     background_image_opacity: 60
     title: Join a community that fosters greatness
     image: images/5f306b8ef273cf393ba00e6e_hero-photos-right.png
+  - title: As Featured In
+    subtitle: lorem-ipsum
+    actions: []
+    grid_items: []
+    grid_cols: three
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: false
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
   - type: features_section
     title: Why Choose Mentors Outreach?
     features:
@@ -236,24 +254,6 @@ sections:
     background_image_position: center top
     background_image_size: cover
     background_image_opacity: 10
-  - title: As Featured In
-    subtitle: lorem-ipsum
-    actions: []
-    grid_items: []
-    grid_cols: three
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
 seo:
   title: Mentors Outreach - Get answers and share your expertise.
   description: >-
