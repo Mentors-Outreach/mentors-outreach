@@ -25,8 +25,8 @@ sections:
       - title: Meet a supportive and inspiring group of peers
         content: >
           You’ll all grow through the creative journey together, exchanging
-          support, encouragement, and inspiration. Discover personalized
-          opportunities at every step of your journey.
+          support, encouragement, and inspiration. Discover resources and make
+          friends and so much more.
         actions:
           - label: Learn More
             url: /thank-you
