@@ -107,7 +107,7 @@ sections:
           the right people for your needs!”
         subtitle: 'Bakari Mustafa, Founder @ Mentors Outreach'
         image: images/bakari-mustafa.jpeg
-        image_alt: Ursula Gurnmeister photo
+        image_alt: Bakari Mustafa
         media_position: left
         media_width: thirty-three
     feature_padding_vert: small
