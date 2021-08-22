@@ -42,7 +42,7 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-*Last updated: October 05, 2020*
+*Last updated: August 22, 2021*
 
 As a member of Mentors Outreach, we want you to get immediate value from being here. That’s why we’re aiming to offer 4 simple things:
 
@@ -54,13 +54,13 @@ As a member of Mentors Outreach, we want you to get immediate value from being h
 
 *   Follow others who inspire you to automatically receive notifications when they share.
 
-# Before Starting your Adventure
+## Before Starting your Adventure
 
 Introduce Yourself. If you haven’t already. It should take you less than a minute and you’ll immediately start to see folks like you in the community feed.
 
 Explore Topics & Groups. It might take you a minute to find your way around the Community, but you can view all articles according to their categories [**Topics**](https://social.mentorsoutreach.org/topics) & [**Groups**.](https://social.mentorsoutreach.org/groups)
 
-## Mentors Outreach Guidelines
+### Mentors Outreach Guidelines
 
 We need your help to keep Mentors Outreach as valuable, authentic, and safe as possible.
 
@@ -82,7 +82,7 @@ If you witness or are subject to any of the above unacceptable behaviors, we ask
 
 Mentors Outreach reserves the right to remove any individual or topics, at any time, that’s identified as violating Rules.
 
-#### **Engagement Best Practices: **
+#### Engagement Best Practices: 
 
 *   Post clear, valuable, honest information.
 
@@ -94,7 +94,7 @@ Mentors Outreach reserves the right to remove any individual or topics, at any t
 
 *   Provide examples in your solutions, either as links or a general scenario. This helps provide more insight into how to resolve the issue by having a tangible example. 
 
-# We’re Glad You’re Here
+#### We’re Glad You’re Here
 
 We’re pretty excited about what we’re creating here together in Mentors Outreach. If there’s anything you’d like to see or if you have questions, message us at any time.
 
