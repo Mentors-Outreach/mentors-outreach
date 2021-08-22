@@ -82,6 +82,18 @@ If you witness or are subject to any of the above unacceptable behaviors, we ask
 
 Mentors Outreach reserves the right to remove any individual or topics, at any time, that’s identified as violating Rules.
 
+#### **Engagement Best Practices: **
+
+*   Post clear, valuable, honest information.
+
+*   Provide context in your post so others can contribute more effectively.
+
+*   Use good grammar and check your spelling.
+
+*   Make your comments useful and informative.
+
+*   Provide examples in your solutions, either as links or a general scenario. This helps provide more insight into how to resolve the issue by having a tangible example. 
+
 # We’re Glad You’re Here
 
 We’re pretty excited about what we’re creating here together in Mentors Outreach. If there’s anything you’d like to see or if you have questions, message us at any time.
