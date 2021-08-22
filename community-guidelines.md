@@ -1,5 +1,5 @@
 ---
-title: Community Guidelines
+title: "Community Guidelines &\_Expectations"
 seo:
   title: Community Guidelines
   description: >+
