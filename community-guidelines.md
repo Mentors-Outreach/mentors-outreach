@@ -62,7 +62,7 @@ Explore Topics & Groups. It might take you a minute to find your way around the 
 
 ### Mentors Outreach Guidelines
 
-We need your help to keep Mentors Outreach as valuable, authentic, and safe as possible.
+ We ask for everyone to **lead with a "Community first" mindset. **Meaning, We need your help to keep Mentors Outreach as valuable, authentic, and safe as possible.
 
 *   **Be supportive**. Encourage and support your fellow members.
 
