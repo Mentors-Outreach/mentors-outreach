@@ -60,7 +60,7 @@ Introduce Yourself. If you haven’t already. It should take you less than a min
 
 Explore Topics & Groups. It might take you a minute to find your way around the Community, but you can view all articles according to their categories [**Topics**](https://social.mentorsoutreach.org/topics) & [**Groups**.](https://social.mentorsoutreach.org/groups)
 
-### Mentors Outreach Guidelines
+### General Guidelines:-
 
 We ask for everyone to lead with a "**Community first**" mindset. Meaning, We need your help to keep Mentors Outreach as valuable, authentic, and safe as possible.
 
