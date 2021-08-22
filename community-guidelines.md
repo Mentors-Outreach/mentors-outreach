@@ -98,10 +98,4 @@ Mentors Outreach reserves the right to remove any individual or topics, at any t
 
 We’re pretty excited about what we’re creating here together in Mentors Outreach. If there’s anything you’d like to see or if you have questions, message us at any time.
 
-> Contact Us by 
->
-> [Email](mailto:contact@bakarimustafa.com)
->
->  or visiting the contact page on our website: 
->
-> [Contact Page](https://mentorsoutreach.org/contact)
+> Contact Us by  [Email](mailto:contact@bakarimustafa.com) or visiting the contact page on our website:  [Contact Page](https://mentorsoutreach.org/contact)
