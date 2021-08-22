@@ -82,7 +82,7 @@ If you witness or are subject to any of the above unacceptable behaviors, we ask
 
 Mentors Outreach reserves the right to remove any individual or topics, at any time, that’s identified as violating Rules.
 
-#### Engagement Best Practices: 
+#### Engagement Best Practices:-
 
 *   Post clear, valuable, honest information.
 
