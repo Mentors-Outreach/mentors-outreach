@@ -72,7 +72,7 @@ We need your help to keep Mentors Outreach as valuable, authentic, and safe as p
 
 *   **Be constructive**. We’re here to push each other forward and lift each other up. Find ways to help each other think bigger, reframe challenges, and stay curious.
 
-*   **Don’t spam, promote, or troll**. This community exists to help you learn. It’s not a place to spam, promote your services, or to make insensitive remarks.
+*   **Don’t spam, promote, or troll**. This community exists to help you learn. It’s not a place to spam, promote your services, or to make insensitive remarks. Spamming discourages potential customers and dilutes credibility.
 
 *   Please treat the information on member profiles with respect; do not scrape member information (manually or with scripts), and do not send promotional materials to members.
 
