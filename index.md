@@ -19,7 +19,7 @@ sections:
     background_image_opacity: 60
     title: Join a community that fosters greatness
     image: images/5f306b8ef273cf393ba00e6e_hero-photos-right.png
-    media_width: fifty
+    media_width: fourty
   - title: As Featured In
     actions: []
     grid_items:
