@@ -52,6 +52,9 @@
         {% if favicon_is_not_empty %}
         <link rel="icon" href="{{ site.data.config.favicon | relative_url }}">
         {% endif %}
+
+                {% include analytics.html %}
+
         
     </head>
     <body class="layout-{{ site.data.config.layout_type }} style-{{ site.data.config.style }} palette-{{ site.data.config.palette }} mode-{{ site.data.config.mode }} font-{{ site.data.config.base_font }}">
