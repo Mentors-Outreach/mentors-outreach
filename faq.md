@@ -11,9 +11,10 @@ sections:
     grid_items:
       - title: What is Mentors Outreach?
         content: >
-          Mentors Outreach a space to get inspired, ask questions, and share
-          professional and personal skills and experiences, enabling you to
-          build confidence and help challenge, motivate, inspire you at all
+          Mentors Outreach a space to get inspired, Ask and answer questions,
+          post influential thoughts, and engage in meaningful conversations
+          around professional goals and expand your curiosity enabling you to
+          build confidence and help challenge, motivate, and inspire you at all
           stages of your career.
       - title: Is Mentors Outreach Free?
         content: |
