@@ -53,7 +53,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
 seo:
-  title: Events
+  title: Mentors Outreach Events
   description: >-
     Connect with 2,000+ members who are contributing to Mentors Outreach’s
     mission
