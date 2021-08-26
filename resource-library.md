@@ -25,7 +25,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/duku-650x359px.jpeg
-      - title: lorem-ipsum
+      - title: Build a professional connection by sharing an article
         subtitle: lorem-ipsum
         title_align: left
         content: >-
