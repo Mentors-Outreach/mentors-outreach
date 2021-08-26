@@ -206,7 +206,7 @@ sections:
       online business owners to connect with, learn from, and support one
       another.
     actions:
-      - label: Try for free
+      - label: Get in touch
         url: /pricing
         style: primary
     actions_width: fourty
