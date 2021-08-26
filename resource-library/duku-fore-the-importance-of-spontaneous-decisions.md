@@ -1,7 +1,7 @@
 ---
 title: 'Duku Fore: The importance of spontaneous decisions'
 seo:
-  title: ''
+  title: 'Duku Fore: The importance of spontaneous decisions'
   description: ''
   robots: []
   extra: []
