@@ -1,16 +1,7 @@
 ---
 title: ' Resource Library'
 sections:
-  - actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+  - actions: []
     grid_items:
       - title: 'Duku Fore: The importance of spontaneous decisions'
         title_align: left
