@@ -16,7 +16,7 @@ sections:
         no_follow: false
         type: action
     grid_items:
-      - title: lorem-ipsum
+      - title: Ventures Industry Challenge - Co-work and check in session
         subtitle: lorem-ipsum
         title_align: left
         content: >-
