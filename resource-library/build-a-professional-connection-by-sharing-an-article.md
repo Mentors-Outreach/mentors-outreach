@@ -4,7 +4,11 @@ seo:
   title: Build a professional connection by sharing an article
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Build a professional connection by sharing an article
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
