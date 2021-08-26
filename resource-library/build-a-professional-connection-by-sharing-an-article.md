@@ -23,6 +23,13 @@ seo:
 
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >+
+        One good way to start or strengthen a professional relationship is just
+        to share an article you think the person might enjoy.
+
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
