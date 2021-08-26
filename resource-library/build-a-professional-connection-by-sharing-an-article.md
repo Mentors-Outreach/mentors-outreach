@@ -2,7 +2,10 @@
 title: Build a professional connection by sharing an article
 seo:
   title: Build a professional connection by sharing an article
-  description: ''
+  description: >+
+    One good way to start or strengthen a professional relationship is just to
+    share an article you think the person might enjoy.
+
   robots: []
   extra:
     - name: 'og:title'
