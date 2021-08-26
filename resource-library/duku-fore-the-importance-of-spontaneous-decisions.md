@@ -21,6 +21,12 @@ seo:
         decisions are sometimes the best decisions anyone can make.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        Contrary to popular opinion, Duku Fore believes that spontaneous
+        decisions are sometimes the best decisions anyone can make.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
