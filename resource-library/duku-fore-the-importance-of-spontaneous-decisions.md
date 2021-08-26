@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Duku Fore: The importance of spontaneous decisions'
 seo:
   title: ''
   description: ''
