@@ -77,7 +77,7 @@ sections:
         image: images/mentors-outreach-0326e7b1-hero--features-3-Frame.png
         image_alt: Feature 3 placeholder image
         media_position: right
-        media_width: sixty
+        media_width: fourty
     feature_padding_vert: large
     align: center
     background_color: none
