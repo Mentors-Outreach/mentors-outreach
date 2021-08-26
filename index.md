@@ -41,7 +41,7 @@ sections:
           Meet people with similar professional interests. Ask questions, get
           advice, share stories, and help each other grow!
         actions:
-          - label: lorem-ipsum
+          - label: View public posts
             url: '#'
             style: link
             has_icon: false
