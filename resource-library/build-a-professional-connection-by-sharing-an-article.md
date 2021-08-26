@@ -38,6 +38,10 @@ seo:
       value: images/jgcvd.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:type'
+      value: wesbite
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
