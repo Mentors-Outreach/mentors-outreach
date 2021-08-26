@@ -3,7 +3,7 @@ title: lorem-ipsum
 sections: []
 seo:
   title: Dive deeper to get inspired
-  description: ''
+  description: Get access to our full library of resources and development activities
   robots: []
   extra:
     - name: 'og:title'
