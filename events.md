@@ -1,7 +1,7 @@
 ---
 title: Events
 sections:
-  - title: Mentors Outreach
+  - title: Mentors Outreach Events
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
