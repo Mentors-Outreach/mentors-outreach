@@ -52,6 +52,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+    subtitle: Get the kind of advice you'd never find in blog posts or online courses
   - type: features_section
     features:
       - title: >-
