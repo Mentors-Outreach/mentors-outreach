@@ -65,7 +65,7 @@ sections:
           “Finding the right people to help us can bring life-altering success.
           I am excited to build a helpful community that connects you to just
           the right people for your needs!”
-    feature_padding_vert: medium
+    feature_padding_vert: small
     background_color: none
   - type: grid_section
     title: How it works
