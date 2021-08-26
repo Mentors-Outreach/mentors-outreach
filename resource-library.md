@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: ' Resource Library'
 sections: []
 seo:
   title: Dive deeper to get inspired
