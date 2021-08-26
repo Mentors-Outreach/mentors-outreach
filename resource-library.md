@@ -8,7 +8,7 @@ sections:
         content_align: left
         actions:
           - label: Video
-            url: '#'
+            url: resource-library/duku-fore-the-importance-of-spontaneous-decisions
             style: secondary
             has_icon: false
             icon: arrow-left
