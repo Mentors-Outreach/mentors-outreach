@@ -2,7 +2,9 @@
 title: Events
 sections:
   - title: Mentors Outreach Events
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Connect with 75,000+ members who are contributing to Unicorn Club’s
+      mission
     actions: []
     grid_items: []
     grid_cols: three
