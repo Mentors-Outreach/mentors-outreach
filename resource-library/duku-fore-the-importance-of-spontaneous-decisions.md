@@ -2,7 +2,7 @@
 title: 'Duku Fore: The importance of spontaneous decisions'
 seo:
   title: 'Duku Fore: The importance of spontaneous decisions'
-  description: ''
+  description: 'Contrary to popular opinion, Duku Fore believes that spontaneous decisions are sometimes the best decisions anyone can make.'
   robots: []
   extra: []
   type: stackbit_page_meta
