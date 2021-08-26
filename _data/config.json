@@ -69,7 +69,8 @@
             }
         ],
         "has_anncmnt": false,
-        "anncmnt_has_close": true
+        "anncmnt_has_close": true,
+        "anncmnt_id": "Hello"
     },
     "footer": {
         "logo_alt": "Mentors Outreach",
