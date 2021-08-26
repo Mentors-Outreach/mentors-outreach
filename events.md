@@ -6,7 +6,7 @@ sections:
       Connect with 2,000+ members who are contributing to Mentors Outreach’s
       mission
     actions:
-      - label: lorem-ipsum
+      - label: Subscribe
         url: '#'
         style: link
         has_icon: false
