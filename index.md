@@ -19,35 +19,6 @@ sections:
     title: Join a community that fosters greatness
     image: images/participate_and_share.png
     media_width: fourty
-  - title: As Featured In
-    actions: []
-    grid_items:
-      - title_align: center
-        content_align: center
-        actions: []
-        actions_align: center
-        actions_width: auto
-        image_position: top
-        image_width: thirty-three
-        image_align: center
-        image_has_padding: false
-        type: grid_item
-        image: images/Product Hunt.png
-        image_alt: Product Hunt
-    grid_cols: two
-    grid_gap_vert: medium
-    grid_gap_horiz: small
-    enable_cards: false
-    align: center
-    padding_top: small
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
   - type: features_section
     title: Why Choose Mentors Outreach?
     features:
