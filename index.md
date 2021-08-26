@@ -11,7 +11,7 @@ sections:
         icon_position: left
     media_position: right
     align: center
-    padding_top: large
+    padding_top: medium
     padding_bottom: small
     background_color: none
     background_image: images/background.svg
