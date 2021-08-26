@@ -49,7 +49,7 @@ sections:
         type: grid_item
         image: images/jgcvd.jpg
     grid_cols: three
-    grid_gap_vert: small
+    grid_gap_vert: large
     grid_gap_horiz: small
     enable_cards: true
     align: center
