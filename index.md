@@ -44,7 +44,7 @@ sections:
           - label: View public posts
             url: '#'
             style: link
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: right
             new_window: false
