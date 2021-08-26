@@ -54,7 +54,9 @@ sections:
     type: grid_section
 seo:
   title: ''
-  description: ''
+  description: >-
+    Connect with 2,000+ members who are contributing to Mentors Outreach’s
+    mission
   robots: []
   extra: []
   type: stackbit_page_meta
