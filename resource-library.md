@@ -18,6 +18,10 @@ seo:
       value: Get access to our full library of resources and development activities
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: Get access to our full library of resources and development activities
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
