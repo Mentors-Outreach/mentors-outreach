@@ -7,7 +7,7 @@ sections:
       - label: Become a member
         url: /pricing
         style: primary
-        has_icon: true
+        has_icon: false
         icon_position: left
     media_position: bottom
     align: center
