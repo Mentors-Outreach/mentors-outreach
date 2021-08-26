@@ -10,6 +10,10 @@ seo:
       value: Dive deeper to get inspired
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Dive deeper to get inspired
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
