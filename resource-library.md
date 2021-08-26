@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections: []
 seo:
-  title: ''
+  title: Dive deeper to get inspired
   description: ''
   robots: []
   extra: []
