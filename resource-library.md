@@ -14,6 +14,10 @@ seo:
       value: Dive deeper to get inspired
       keyName: name
       relativeUrl: false
+    - name: 'og:description'
+      value: Get access to our full library of resources and development activities
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
