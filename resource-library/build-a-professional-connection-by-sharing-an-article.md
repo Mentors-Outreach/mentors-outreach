@@ -34,6 +34,10 @@ seo:
       value: images/jgcvd.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: images/jgcvd.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 ---
