@@ -22,6 +22,10 @@ seo:
       value: Get access to our full library of resources and development activities
       keyName: name
       relativeUrl: false
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
