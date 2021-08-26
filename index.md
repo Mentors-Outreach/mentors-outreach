@@ -8,6 +8,7 @@ sections:
         url: /pricing
         style: primary
         has_icon: true
+        icon_position: right
     media_position: bottom
     align: center
     padding_top: large
