@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Build a professional connection by sharing an article
 seo:
   title: ''
   description: ''
