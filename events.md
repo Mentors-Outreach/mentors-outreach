@@ -17,7 +17,7 @@ sections:
         type: action
     grid_items:
       - title: Ventures Industry Challenge - Co-work and check in session
-        subtitle: 'Wed, 1 Sept, 10:30 am – 12:00 pm'
+        subtitle: 'Wed, 1 Sept, 10:30 am – 12:00 pm '
         title_align: left
         content: "Join the Ventures Industry Challenge Co-work and check in session. This is your opportunity to better understand the Ventures Industry Challenge with your team and test your ideas.\_\n"
         content_align: left
