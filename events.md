@@ -19,17 +19,7 @@ sections:
       - title: Ventures Industry Challenge - Co-work and check in session
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Join the Ventures Industry Challenge Co-work and check in session. This is your opportunity to better understand the Ventures Industry Challenge with your team and test your ideas.\_\n"
         content_align: left
         actions: []
         actions_align: left
