@@ -59,7 +59,7 @@ sections:
         actions: []
         image_alt: Feature 1 placeholder image
         media_position: right
-        media_width: sixty
+        media_width: thirty-three
         image: images/mentors-outreach-hero-features-1-Frame.png
       - title: Access to the Mentors Outreach online community & Resources
         content: >
