@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     subtitle: Get answers and share your expertise.
     actions:
-      - label: Become a Member
+      - label: Become a member
         url: /pricing
         style: primary
     media_position: bottom
