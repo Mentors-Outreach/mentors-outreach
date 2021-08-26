@@ -74,7 +74,7 @@ sections:
       - title: Find Opportunity
         content: "Discover personalized opportunities at every step of your journey. Meet people who are curious about finding their dream job and want to learn more about becoming a world-class job hunter.\_\n"
         actions: []
-        image: images/job_and_internship.png
+        image: images/mentors-outreach-0326e7b1-hero--features-3-Frame.png
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
