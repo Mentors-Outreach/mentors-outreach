@@ -11,6 +11,10 @@ seo:
       value: 'Duku Fore: The importance of spontaneous decisions'
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: 'Duku Fore: The importance of spontaneous decisions'
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
