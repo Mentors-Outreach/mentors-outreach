@@ -36,9 +36,8 @@ sections:
         image: images/mentors-outreach-hero-features-1-Frame.png
       - title: Access to the Mentors Outreach online community & Resources
         content: >
-          You'll be part of our Community where you can ask questions, get
-          feedback and more. You'll get access to our growing library of
-          projects and career resources.
+          Meet people with similar professional interests. Ask questions, get
+          advice, share stories, and help each other grow!
         actions: []
         image: images/mentors-outreach-0326e7b1-hero-features-0-Frame.png
         image_alt: Feature 2 placeholder image
