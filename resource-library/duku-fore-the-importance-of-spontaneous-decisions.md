@@ -31,6 +31,10 @@ seo:
       value: images/duku-650x359px.jpeg
       keyName: property
       relativeUrl: true
+    - name: 'og:image'
+      value: images/duku-650x359px.jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 ---
