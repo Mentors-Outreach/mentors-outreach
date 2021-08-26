@@ -1,7 +1,7 @@
 ---
 title: Build a professional connection by sharing an article
 seo:
-  title: ''
+  title: Build a professional connection by sharing an article
   description: ''
   robots: []
   extra: []
