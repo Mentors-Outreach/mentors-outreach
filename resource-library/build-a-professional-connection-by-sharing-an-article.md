@@ -13,6 +13,13 @@ seo:
       value: Build a professional connection by sharing an article
       keyName: name
       relativeUrl: false
+    - name: 'og:description'
+      value: >+
+        One good way to start or strengthen a professional relationship is just
+        to share an article you think the person might enjoy.
+
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
