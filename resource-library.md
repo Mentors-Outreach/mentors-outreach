@@ -26,7 +26,6 @@ sections:
         type: grid_item
         image: images/duku-650x359px.jpeg
       - title: Build a professional connection by sharing an article
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
