@@ -39,7 +39,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'og:type'
-      value: wesbite
+      value: website
       keyName: property
       relativeUrl: false
   type: stackbit_page_meta
