@@ -32,7 +32,7 @@ sections:
           - label: Learn More
             url: >-
               resource-library/build-a-professional-connection-by-sharing-an-article
-            style: primary
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
