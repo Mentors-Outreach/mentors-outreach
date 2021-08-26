@@ -27,6 +27,10 @@ seo:
         decisions are sometimes the best decisions anyone can make.
       keyName: name
       relativeUrl: false
+    - name: 'twitter:image'
+      value: images/duku-650x359px.jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 ---
