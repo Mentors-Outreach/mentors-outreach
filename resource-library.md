@@ -16,8 +16,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     grid_items:
       - title: 'Duku Fore: The importance of spontaneous decisions'
         title_align: left
