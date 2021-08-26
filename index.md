@@ -42,7 +42,7 @@ sections:
           advice, share stories, and help each other grow!
         actions:
           - label: View public posts
-            url: '#'
+            url: 'https://social.mentorsoutreach.org/'
             style: link
             has_icon: true
             icon: arrow-right
