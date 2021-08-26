@@ -8,9 +8,7 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+Contrary to popular opinion, Duku Fore believes that spontaneous decisions are sometimes the best decisions anyone can make. Personal growth is associated with meticulous planning and informed decisions, however, this is not always true. Duku explains how one spontaneous decision of his, to go to the USA to eat a sandwich, ended up with him being an ambassador in the United Nations.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+<https://youtu.be/EfoQqtZrbTo>
