@@ -63,6 +63,7 @@ sections:
         image_alt: Bakari Mustafa
         media_position: left
         media_width: thirty-three
+        title: 'Bakari Mustafa, Founder @ Mentors Outreach '
     feature_padding_vert: small
     background_color: none
   - type: grid_section
