@@ -61,7 +61,7 @@ sections:
           the right people for your needs!”
         image: images/bakari-mustafa.jpeg
         image_alt: Bakari Mustafa
-        media_position: left
+        media_position: top
         media_width: thirty-three
         title: 'Bakari Mustafa, Founder @ Mentors Outreach '
     feature_padding_vert: small
