@@ -207,7 +207,7 @@ sections:
       another.
     actions:
       - label: Get in touch
-        url: /pricing
+        url: /contact
         style: primary
     actions_width: fourty
     align: center
