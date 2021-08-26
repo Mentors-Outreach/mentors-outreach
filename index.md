@@ -64,7 +64,7 @@ sections:
         media_position: left
         media_width: thirty-three
         title: 'Bakari Mustafa, Founder @ Mentors Outreach '
-        align: right
+        align: left
     feature_padding_vert: small
     background_color: none
   - type: grid_section
