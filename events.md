@@ -25,7 +25,7 @@ sections:
         content_align: left
         actions:
           - label: More Info
-            url: '#'
+            url: 'https://m.facebook.com/events/1552091721796395'
             style: secondary
             has_icon: false
             icon: arrow-left
