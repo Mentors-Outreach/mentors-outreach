@@ -2,9 +2,15 @@
 title: 'Duku Fore: The importance of spontaneous decisions'
 seo:
   title: 'Duku Fore: The importance of spontaneous decisions'
-  description: 'Contrary to popular opinion, Duku Fore believes that spontaneous decisions are sometimes the best decisions anyone can make.'
+  description: >-
+    Contrary to popular opinion, Duku Fore believes that spontaneous decisions
+    are sometimes the best decisions anyone can make.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: 'Duku Fore: The importance of spontaneous decisions'
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
