@@ -2,7 +2,6 @@
 title: ' Resource Library'
 sections:
   - title: ' Resource Library'
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
