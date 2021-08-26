@@ -59,7 +59,7 @@ sections:
         image_alt: Bakari Mustafa
         media_position: left
         media_width: thirty-three
-        title: 'Bakari Mustafa, Founder @ Mentors Outreach '
+        title: 'Bakari Mustafa, Founder'
         align: left
         subtitle: >-
           “Finding the right people to help us can bring life-altering success.
