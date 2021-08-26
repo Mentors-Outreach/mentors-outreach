@@ -57,7 +57,8 @@ sections:
           support, encouragement, and inspiration. Discover resources and make
           friends and so much more.
         actions: []
-        image: images/5f306b75e0a2e4e72f293313_hero-photos-left-p-500.png
+        image: >-
+          images/mentors-membership-0326e7b1-hero-5aPSK6NUqQRq-features-1-Frame%202%20(2).png.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
