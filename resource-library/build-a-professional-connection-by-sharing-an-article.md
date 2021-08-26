@@ -9,6 +9,10 @@ seo:
       value: Build a professional connection by sharing an article
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Build a professional connection by sharing an article
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
