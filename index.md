@@ -2,7 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: Join our community of 2K+ members. Get answers and share your expertise.
+    subtitle: >-
+      Join our community of 2K+ members of peers with similar interests. Get
+      answers and share your expertise.
     actions:
       - label: Become a member
         url: /pricing
