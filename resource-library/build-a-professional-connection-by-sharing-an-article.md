@@ -30,6 +30,10 @@ seo:
 
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: images/jgcvd.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 ---
