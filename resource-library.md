@@ -30,7 +30,8 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: '#'
+            url: >-
+              resource-library/build-a-professional-connection-by-sharing-an-article
             style: primary
             has_icon: false
             icon: arrow-left
