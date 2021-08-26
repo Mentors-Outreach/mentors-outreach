@@ -10,7 +10,7 @@ sections:
         has_icon: false
         icon_position: left
     media_position: right
-    align: center
+    align: left
     padding_top: large
     padding_bottom: small
     background_color: none
