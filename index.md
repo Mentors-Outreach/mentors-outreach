@@ -9,7 +9,7 @@ sections:
         style: primary
         has_icon: false
         icon_position: left
-    media_position: bottom
+    media_position: right
     align: center
     padding_top: large
     padding_bottom: small
