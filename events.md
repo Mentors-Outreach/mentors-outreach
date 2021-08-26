@@ -1,7 +1,7 @@
 ---
 title: Events
 sections:
-  - title: Mentors Outreach Events
+  - title: Upcoming Events
     actions:
       - label: Subscribe
         url: '#'
