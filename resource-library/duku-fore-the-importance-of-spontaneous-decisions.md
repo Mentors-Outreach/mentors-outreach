@@ -15,6 +15,12 @@ seo:
       value: 'Duku Fore: The importance of spontaneous decisions'
       keyName: name
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        Contrary to popular opinion, Duku Fore believes that spontaneous
+        decisions are sometimes the best decisions anyone can make.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
