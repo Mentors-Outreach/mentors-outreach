@@ -67,7 +67,7 @@ sections:
           feedback and more. You'll get access to our growing library of
           projects and career resources.
         actions: []
-        image: images/participate_and_share.png
+        image: images/mentors-outreach-0326e7b1-hero-features-0-Frame.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
