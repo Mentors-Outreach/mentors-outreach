@@ -58,7 +58,7 @@ sections:
           friends and so much more.
         actions: []
         image: >-
-          images/mentors-membership-0326e7b1-hero-5aPSK6NUqQRq-features-1-Frame%202%20(2).png.png
+          images/mentors-membership-0326e7b1-hero-5aPSK6NUqQRq-features-1-Frame%202%20(2).png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
