@@ -2,9 +2,6 @@
 title: Events
 sections:
   - title: Mentors Outreach Events
-    subtitle: >-
-      Connect with 2,000+ members who are contributing to Mentors Outreach’s
-      mission
     actions:
       - label: Subscribe
         url: '#'
