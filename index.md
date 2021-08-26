@@ -40,7 +40,16 @@ sections:
         content: >
           Meet people with similar professional interests. Ask questions, get
           advice, share stories, and help each other grow!
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         image: images/mentors-outreach-0326e7b1-hero-features-0-Frame.png
         image_alt: Feature 2 placeholder image
         media_position: left
