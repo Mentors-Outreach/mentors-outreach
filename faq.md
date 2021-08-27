@@ -88,17 +88,22 @@ sections:
         type: grid_item
       - title: What features are offered?
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Mentors Outreach provides multiple discussion forums where you can
+          connect with other professionals:
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   A private community to discuss all things work-related with just
+          your co-workers
 
 
-          - Lorem ipsum
+          *   A public community where you can engage with the entire Mentors
+          Outreach community
 
-          - dolor sit amet
+
+          Additional features include: group chats, 1:1 conversations, Access
+          exclusive opportunities, Coffee chats with peers and more. Please note
+          that some features are only available on either app or web.
         content_align: left
         actions: []
         actions_align: left
