@@ -30,17 +30,7 @@ sections:
       - title: What are the community policies?
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "In order to have a sustainable community, we require all members to abide by our\_[Community Guidelines](https://mentorsoutreach.org/community-guidelines). The guidelines are always accessible on both the app and website. We encourage everyone to reference our policies when writing and reporting content.\n"
         content_align: left
         actions: []
         actions_align: left
