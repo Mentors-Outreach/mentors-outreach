@@ -71,7 +71,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Why am I being prompted to re-verify my email?
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
