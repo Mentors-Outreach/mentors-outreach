@@ -42,7 +42,7 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-*Last updated: August 22, 2021*
+*Last updated: August 27, 2021*
 
 At Mentors Outreach, we want to foster a diverse and transparent space that gives an equitable voice to every member of our community. In order to do this, we need to create an online space where every member can feel welcome
 
