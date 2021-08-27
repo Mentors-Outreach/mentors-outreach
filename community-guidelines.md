@@ -44,6 +44,10 @@ layout: page
 ---
 *Last updated: August 22, 2021*
 
+At Mentors Outreach, we want to foster a diverse and transparent space that gives an equitable voice to every member of our community. In order to do this, we need to create an online space where every member can feel welcome
+
+While we are a self-moderating community, we also have clear values that we want to uphold. Here are some common-sense guidelines that’ll help you steer away from trouble and will help us create a healthy community. Please refer to these guidelines when writing and flagging posts.
+
 As a member of Mentors Outreach, we want you to get immediate value from being here. That’s why we’re aiming to offer 4 simple things:
 
 *   Meet people who share your interests, who do the same things, or who care about the same topics.
@@ -81,6 +85,12 @@ We ask for everyone to lead with a "**Community first**" mindset. Meaning, We 
 If you witness or are subject to any of the above unacceptable behaviors, we ask that you report it immediately and flag the content as unacceptable. You can report unwanted behavior via our [contact page](https://mentorsoutreach.org/contact)
 
 Mentors Outreach reserves the right to remove any individual or topics, at any time, that’s identified as violating Rules.
+
+### Topic Relevance
+
+Content should be posted in relevant channels/Space/Group. Any post that is not in the appropriate channel can be flagged.
+
+If you see any content that violates what we stand for, please flag it for removal. Users who do not uphold our guidelines will be temporarily restricted and repeat offenders will be permanently banned from using our service. Each of you are an important member of the community and you help shape the conversations on Mentors Outreach. The words you write and the actions you take matter.
 
 #### Engagement Best Practices:-
 
