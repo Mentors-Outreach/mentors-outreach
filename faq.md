@@ -55,17 +55,11 @@ sections:
         type: grid_item
       - title: How do I delete my posts?
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Select the three dot icon (• • •) on any post you wish to remove, then
+          choose to delete. Deleting will permanently remove your content from
+          Mentors Outreach. To see a full list of your content, you can check
+          the Activity History in your profile.
         content_align: left
         actions: []
         actions_align: left
