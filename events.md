@@ -21,7 +21,7 @@ sections:
         content: "Join the Ventures Industry Challenge Co-work and check in session. This is your opportunity to better understand the Ventures Industry Challenge with your team and test your ideas.\_\n"
         content_align: left
         actions:
-          - label: View events
+          - label: View event
             url: 'https://m.facebook.com/events/1552091721796395'
             style: secondary
             has_icon: false
