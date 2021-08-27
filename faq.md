@@ -16,6 +16,34 @@ sections:
           around professional goals and expand your curiosity enabling you to
           build confidence and help challenge, motivate, and inspire you at all
           stages of your career.
+      - title: What features are offered?
+        title_align: left
+        content: >
+          Mentors Outreach provides multiple discussion forums where you can
+          connect with other professionals:
+
+
+          *   A private community to discuss all things work-related with just
+          your co-workers
+
+
+          *   A public community where you can engage with the entire Mentors
+          Outreach community
+
+
+          Additional features include: group chats, 1:1 conversations, Access
+          exclusive opportunities, Coffee chats with peers and more. Please note
+          that some features are only available on either app or web.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
       - title: Is Mentors Outreach Free?
         content: |
           Yes!
@@ -76,34 +104,6 @@ sections:
           We ask users to re-verify emails on a periodic basis. This allows us
           to update each user’s status and it allows us to give each user access
           to the appropriate channels.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - title: What features are offered?
-        title_align: left
-        content: >
-          Mentors Outreach provides multiple discussion forums where you can
-          connect with other professionals:
-
-
-          *   A private community to discuss all things work-related with just
-          your co-workers
-
-
-          *   A public community where you can engage with the entire Mentors
-          Outreach community
-
-
-          Additional features include: group chats, 1:1 conversations, Access
-          exclusive opportunities, Coffee chats with peers and more. Please note
-          that some features are only available on either app or web.
         content_align: left
         actions: []
         actions_align: left
