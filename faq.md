@@ -28,7 +28,6 @@ sections:
           personalized and relevant your introductions become. We do not share
           your information with third parties or run advertisements.
       - title: What are the community policies?
-        subtitle: lorem-ipsum
         title_align: left
         content: "In order to have a sustainable community, we require all members to abide by our\_[Community Guidelines](https://mentorsoutreach.org/community-guidelines). The guidelines are always accessible on both the app and website. We encourage everyone to reference our policies when writing and reporting content.\n"
         content_align: left
