@@ -42,17 +42,7 @@ sections:
         type: grid_item
       - title: How do I report content?
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Select the three dot icon (• • •) on the post or comment you wish to report. Choose the option to Flag Content and provide a reason. You can always reference our\_[Community Guidelines](https://mentorsoutreach.org/community-guidelines)\_when reporting content.\n"
         content_align: left
         actions: []
         actions_align: left
