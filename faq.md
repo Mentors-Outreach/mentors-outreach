@@ -27,7 +27,7 @@ sections:
           other members. The more you communicate your needs, the more
           personalized and relevant your introductions become. We do not share
           your information with third parties or run advertisements.
-      - title: lorem-ipsum
+      - title: What are the community policies?
         subtitle: lorem-ipsum
         title_align: left
         content: >-
