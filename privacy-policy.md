@@ -39,7 +39,9 @@ layout: page
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
-We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. Our Privacy Policy for Mentors Outreach is managed through [Free Privacy Policy Website](https://www.freeprivacypolicy.com/free-privacy-policy-generator/).
+We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions. Our Privacy Policy for Mentors Outreach is managed through [Free Privacy Policy Website](https://www.freeprivacypolicy.com/free-privacy-policy-generator/).
+
+Our Terms and Conditions (“**Terms**”) govern all use of our Service and together with the Privacy Policy constitutes your agreement with us (“**agreement**”).
 
 # Interpretation and Definitions
 
@@ -97,11 +99,33 @@ While using Our Service, We may ask You to provide Us with certain personally id
 
 Usage Data is collected automatically when using the Service.
 
-Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+Mentors Outreach, Inc. uses the collected data for various purposes:
 
-When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
+1.  to provide and maintain our Service;
 
-We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
+2.  to notify you about changes to our Service;
+
+3.  to allow you to participate in interactive features of our Service when you choose to do so;
+
+4.  to provide customer support;
+
+5.  to gather analysis or valuable information so that we can improve our Service;
+
+6.  to monitor the usage of our Service;
+
+7.  to detect, prevent and address technical issues;
+
+8.  to fulfill any other purpose for which you provide it;
+
+9.  to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
+
+10. to provide you with notices about your account and/or subscription, including expiration and renewal notices, email-instructions, etc.;
+
+11. to provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information;
+
+12. in any other way we may describe when you provide the information;
+
+13. for any other purpose with your consent.
 
 ### Tracking Technologies and Cookies
 
@@ -113,37 +137,11 @@ Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on y
 
 We use both session and persistent Cookies for the purposes set out below:
 
-*   **Necessary / Essential Cookies**
+1.  **Preference Cookies**: We use Preference Cookies to remember your preferences and various settings.
 
-    Type: Session Cookies
+2.  **Security Cookies**: We use Security Cookies for security purposes.
 
-    Administered by: Us
-
-    Purpose: These Cookies are essential to provide You with services available through the Website and to enable You to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that You have asked for cannot be provided, and We only use these Cookies to provide You with those services.
-
-*   **Cookies Policy / Notice Acceptance Cookies**
-
-    Type: Persistent Cookies
-
-    Administered by: Us
-
-    Purpose: These Cookies identify if users have accepted the use of cookies on the Website.
-
-*   **Functionality Cookies**
-
-    Type: Persistent Cookies
-
-    Administered by: Us
-
-    Purpose: These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website.
-
-*   **Tracking and Performance Cookies**
-
-    Type: Persistent Cookies
-
-    Administered by: Third-Parties
-
-    Purpose: These Cookies are used to track information about traffic to the Website and how users use the Website. The information gathered via these Cookies may directly or indirectly identify you as an individual visitor. This is because the information collected is typically linked to a pseudonymous identifier associated with the device you use to access the Website. We may also use these Cookies to test new advertisements, pages, features or new functionality of the Website to see how our users react to them.
+3.  **Advertising Cookies**: Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
 
 For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy.
 
@@ -225,13 +223,21 @@ Service Providers have access to Your Personal Data only to perform their tasks 
 
 We may use third-party Service providers to monitor and analyze the use of our Service.
 
-*   **Mixpanel**
+**Google Analytics**
 
-    Mixpanel is provided by Mixpanel Inc.
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualise and personalise the ads of its own advertising network.
 
-    You can prevent Mixpanel from using your information for analytics purposes by opting-out. To opt-out of Mixpanel service, please visit this page: <https://mixpanel.com/optout/>
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <https://policies.google.com/privacy?hl=en>
 
-    For more information on what type of information Mixpanel collects, please visit the Terms of Use page of Mixpanel: <https://mixpanel.com/terms/>
+We also encourage you to review the Google's policy for safeguarding your data: <https://support.google.com/analytics/answer/6004245>.
+
+**Mixpanel**
+
+Mixpanel is provided by Mixpanel Inc.
+
+You can prevent Mixpanel from using your information for analytics purposes by opting-out. To opt-out of Mixpanel service, please visit this page: <https://mixpanel.com/optout/>
+
+For more information on what type of information Mixpanel collects, please visit the Terms of Use page of Mixpanel: <https://mixpanel.com/terms/>
 
 # Children's Privacy
 
@@ -240,6 +246,18 @@ Our Service does not address anyone under the age of 13. We do not knowingly col
 We also may limit how We collect, use, and store some of the information of Users between 13 and 18 years old. In some cases, this means We will be unable to provide certain functionality of the Service to these users.
 
 If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
+
+# **CI/CD tools**
+
+We may use third-party Service Providers to automate the development process of our Service.
+
+**GitHub**
+
+GitHub is provided by GitHub, Inc.
+
+GitHub is a development platform to host and review code, manage projects, and build software.
+
+For more information on what data GitHub collects for what purpose and how the protection of the data is ensured, please visit GitHub Privacy Policy page: \[[https://help.github.com/en/articles/github-privacy-statement.\]\(https://help.github.com/en/articles/github-privacy-statement)](https://help.github.com/en/articles/github-privacy-statement.%5D\(https://help.github.com/en/articles/github-privacy-statement\))
 
 # Links to Other Websites
 
