@@ -72,17 +72,10 @@ sections:
         type: grid_item
       - title: Why am I being prompted to re-verify my email?
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          We ask users to re-verify emails on a periodic basis. This allows us
+          to update each user’s status and it allows us to give each user access
+          to the appropriate channels.
         content_align: left
         actions: []
         actions_align: left
