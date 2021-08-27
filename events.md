@@ -1,7 +1,7 @@
 ---
 title: Events
 sections:
-  - title: Upcoming Events
+  - title: "Events \U0001F5D3️"
     actions:
       - label: Subscribe
         url: '#'
