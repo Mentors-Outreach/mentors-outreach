@@ -115,7 +115,7 @@ sections:
         image_has_padding: false
         type: grid_item
     grid_cols: two
-    grid_gap_horiz: medium
+    grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: true
     padding_top: small
