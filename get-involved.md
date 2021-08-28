@@ -1,5 +1,5 @@
 ---
-title: Become a Mentor
+title: Join Mentors Outreach
 seo:
   title: Become a Mentor
   description: >-
