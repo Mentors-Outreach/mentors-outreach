@@ -3,8 +3,8 @@ title: Home
 sections:
   - type: hero_section
     subtitle: >-
-      Join our community with thousands members with similar interests and get
-      answers and share your expertise.
+      Connect with our community with thousands members with similar interests
+      and get answers and share your expertise.
     actions:
       - label: Become a member
         url: /pricing
