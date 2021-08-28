@@ -2,9 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: >-
-      Connect with our community with thousands members with similar interests
-      and get answers and share your expertise.
+    subtitle: "Connect with our community with thousands members with similar interests and\_get exclusive access to resources and opportunities"
     actions:
       - label: Become a member
         url: /pricing
