@@ -23,7 +23,7 @@ sections:
   - title: Jobs
     features:
       - title: The Topical
-        subtitle: lorem-ipsum
+        subtitle: Social
         content: >-
           ## Lorem ipsum
 
