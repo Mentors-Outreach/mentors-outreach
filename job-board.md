@@ -128,6 +128,12 @@ seo:
       value: website
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        A platform connecting people to opportunities to use their skills to
+        affect change & to level up their career.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
