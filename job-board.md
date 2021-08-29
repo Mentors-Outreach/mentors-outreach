@@ -21,7 +21,6 @@ sections:
     type: hero_section
     background_image: images/jgcvd.jpg
   - title: Jobs
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
