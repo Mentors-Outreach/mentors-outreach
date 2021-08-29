@@ -2,7 +2,9 @@
 title: Find your purpose to build the network you actually want
 seo:
   title: Find your purpose to build the network you actually want
-  description: ''
+  description: >-
+    Porter Gale's Funnel Test is based on the premise that, in order to expand
+    your network in the right ways, you need to be clear on your purpose.  
   robots: []
   extra: []
   type: stackbit_page_meta
