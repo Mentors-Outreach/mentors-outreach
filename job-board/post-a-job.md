@@ -25,6 +25,10 @@ seo:
       value: images/christina-wocintechchat-com-LQ1t-8Ms5PY-unsplash.jpeg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: images/christina-wocintechchat-com-LQ1t-8Ms5PY-unsplash.jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 ---
