@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Who can post a Job
 seo:
   title: ''
   description: ''
