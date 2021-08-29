@@ -34,7 +34,7 @@ sections:
           networks, and how best to leverage them(focusing on, but limited to
           Tiktok, Facebook, and Instagram)
         actions:
-          - label: lorem-ipsum
+          - label: Apply Now
             url: '#'
             style: link
             has_icon: false
