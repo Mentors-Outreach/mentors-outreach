@@ -1,7 +1,7 @@
 ---
 title: Job board
 sections:
-  - title: lorem-ipsum
+  - title: 'The Design Gigs for Good job board '
     content: >-
       ## Lorem ipsum
 
