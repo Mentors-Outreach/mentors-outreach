@@ -5,7 +5,16 @@ sections:
     content: >
       A platform connecting people to opportunities to use their skills to
       affect change & to level up their career.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     image_alt: lorem-ipsum
     media_position: top
     media_width: fifty
