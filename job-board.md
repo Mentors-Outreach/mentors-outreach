@@ -16,7 +16,7 @@ sections:
     background_color: primary
     background_image_opacity: 90
     background_image_size: cover
-    background_image_position: left center
+    background_image_position: left top
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/christina-wocintechchat-com-LQ1t-8Ms5PY-unsplash.jpeg
