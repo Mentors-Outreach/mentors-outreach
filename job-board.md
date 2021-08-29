@@ -78,7 +78,7 @@ sections:
     form_width: fifty
     form_layout: inline
     enable_card: true
-    form_id: lorem-ipsum
+    form_id: subs
     form_action: submit
     form_fields:
       - input_type: email
