@@ -19,7 +19,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    background_image: images/jgcvd.jpg
+    background_image: images/christina-wocintechchat-com-LQ1t-8Ms5PY-unsplash.jpeg
   - title: Jobs
     features:
       - title: The Topical Media
