@@ -144,7 +144,9 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/gvtcz.png
-      - title: lorem-ipsum
+      - title: >-
+          Commit!: make your mind and body stronger and unlock your full
+          potential
         subtitle: lorem-ipsum
         title_align: left
         content: >-
