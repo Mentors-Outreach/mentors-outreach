@@ -21,6 +21,10 @@ seo:
         purpose.  
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: Find your purpose to build the network you actually want
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
