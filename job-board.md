@@ -79,7 +79,7 @@ sections:
     form_layout: inline
     enable_card: true
     form_id: lorem-ipsum
-    form_action: subsc
+    form_action: submit
     form_fields:
       - input_type: email
         name: email
