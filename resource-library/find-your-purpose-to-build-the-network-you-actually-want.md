@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Find your purpose to build the network you actually want
 seo:
   title: ''
   description: ''
