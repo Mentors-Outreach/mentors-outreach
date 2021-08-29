@@ -4,7 +4,7 @@ sections:
   - title: 'Job board '
     content: >
       A platform connecting people to opportunities to use their skills to
-      affect change. 
+      affect change & to level up their career.
     actions: []
     image_alt: lorem-ipsum
     media_position: top
