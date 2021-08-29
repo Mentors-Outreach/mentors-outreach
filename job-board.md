@@ -21,7 +21,6 @@ sections:
     type: hero_section
     background_image: images/jgcvd.jpg
   - title: Want these gigs in your inbox? Subscribe to the digest.
-    subtitle: lorem-ipsum
     title_align: left
     content: |
       Community, Content, Jobs, Opportunities & Events
