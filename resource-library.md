@@ -122,7 +122,6 @@ sections:
         type: grid_item
         image: images/gkigf.png
       - title: The Hard Thing About Hard Things
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
