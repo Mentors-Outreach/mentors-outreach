@@ -103,7 +103,7 @@ sections:
         actions:
           - label: View on Amazon
             url: 'http://www.amazon.com/exec/obidos/ASIN/081299339X/wnycorg-20/'
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
