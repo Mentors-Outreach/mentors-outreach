@@ -98,7 +98,6 @@ sections:
       - title: >-
           Smarter Faster Better: The Secrets of Being Productive in Life and
           Business
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
