@@ -162,7 +162,9 @@ sections:
             type: action
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: >-
+          Commit!: make your mind and body stronger and unlock your full
+          potential
         image_position: top
         image_width: fifty
         image_align: left
