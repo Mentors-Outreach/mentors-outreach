@@ -85,7 +85,6 @@ sections:
     form_fields:
       - input_type: email
         name: Email
-        label: Email
         default_value: yourname@email.com
         options: []
         is_required: false
