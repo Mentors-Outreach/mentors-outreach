@@ -22,7 +22,7 @@ sections:
     background_image: images/jgcvd.jpg
   - title: Jobs
     features:
-      - title: T
+      - title: The Topical
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
