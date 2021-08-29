@@ -138,6 +138,10 @@ seo:
       value: Job board
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: images/team-2.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: advanced
 ---
