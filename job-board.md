@@ -20,7 +20,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/jgcvd.jpg
-  - title: lorem-ipsum
+  - title: Want these gigs in your inbox? Subscribe to the digest.
     subtitle: lorem-ipsum
     title_align: left
     content: |
