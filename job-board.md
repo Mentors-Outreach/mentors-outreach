@@ -7,7 +7,7 @@ sections:
       affect change & to level up their career.
     actions:
       - label: Post a Job
-        url: '#'
+        url: /job-board/post-a-job
         style: primary
         has_icon: false
         icon: arrow-left
