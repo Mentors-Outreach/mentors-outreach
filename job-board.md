@@ -31,7 +31,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/jgcvd.jpg
     background_image: images/jgcvd.jpg
 seo:
   title: ''
