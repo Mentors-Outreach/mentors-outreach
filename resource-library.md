@@ -48,7 +48,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/jgcvd.jpg
-      - title: lorem-ipsum
+      - title: Find your purpose to build the network you actually want
         subtitle: lorem-ipsum
         title_align: left
         content: >-
