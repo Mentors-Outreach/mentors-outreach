@@ -21,6 +21,10 @@ seo:
       value: "The job board is open to everyone. \_Whether you are recruiting for your organization, helping spread the word for a friend or just stumbled across a cool opportunity, as long as the gig relates to design and social impact, this board has you covered.\n\n"
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: images/christina-wocintechchat-com-LQ1t-8Ms5PY-unsplash.jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 ---
