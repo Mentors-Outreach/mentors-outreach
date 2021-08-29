@@ -87,7 +87,7 @@ sections:
         name: Email
         default_value: yourname@email.com
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Subscribe
     align_vert: top
