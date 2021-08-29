@@ -134,6 +134,10 @@ seo:
         affect change & to level up their career.
       keyName: name
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Job board
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
