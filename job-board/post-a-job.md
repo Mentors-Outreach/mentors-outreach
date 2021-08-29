@@ -13,6 +13,10 @@ seo:
       value: Post a Job
       keyName: name
       relativeUrl: false
+    - name: 'og:description'
+      value: "The job board is open to everyone. \_Whether you are recruiting for your organization, helping spread the word for a friend or just stumbled across a cool opportunity, as long as the gig relates to design and social impact, this board has you covered.\n\n"
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
