@@ -16,7 +16,7 @@ sections:
         no_follow: false
         type: action
       - label: Join the Community
-        url: '#'
+        url: /pricing
         style: link
         has_icon: false
         icon: arrow-left
