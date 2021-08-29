@@ -2,7 +2,7 @@
 title: Who can post a Job
 seo:
   title: Post a Job
-  description: ''
+  description: "The job board is open to everyone. \_Whether you are recruiting for your organization, helping spread the word for a friend or just stumbled across a cool opportunity, as long as the gig relates to design and social impact, this board has you covered.\n\n"
   robots: []
   extra:
     - name: 'og:title'
