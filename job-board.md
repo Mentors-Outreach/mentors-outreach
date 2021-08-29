@@ -6,7 +6,7 @@ sections:
       A platform connecting people to opportunities to use their skills to
       affect change & to level up their career.
     actions:
-      - label: lorem-ipsum
+      - label: Post a Job
         url: '#'
         style: link
         has_icon: false
