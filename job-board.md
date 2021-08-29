@@ -1,7 +1,7 @@
 ---
 title: Job board
 sections:
-  - title: 'The Design Gigs for Good job board '
+  - title: 'The Mentors Outreach job board '
     content: >-
       ## Lorem ipsum
 
