@@ -125,7 +125,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: View on Amazon
+          - label: Book
             url: >-
               https://www.amazon.com/dp/0062273205/ref=cm_sw_r_cp_ep_dp_YjKczbKASWMWE
             style: secondary
