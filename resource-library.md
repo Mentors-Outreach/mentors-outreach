@@ -101,7 +101,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: View on Amazon
+          - label: Book
             url: 'http://www.amazon.com/exec/obidos/ASIN/081299339X/wnycorg-20/'
             style: secondary
             has_icon: false
