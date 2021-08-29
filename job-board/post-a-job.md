@@ -9,6 +9,10 @@ seo:
       value: Post a Job
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Post a Job
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
