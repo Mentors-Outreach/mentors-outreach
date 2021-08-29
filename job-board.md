@@ -111,7 +111,11 @@ seo:
   title: Job board
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Job board
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
