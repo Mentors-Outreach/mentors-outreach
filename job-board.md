@@ -1,5 +1,5 @@
 ---
-title: job board
+title: Job board
 sections: []
 seo:
   title: ''
