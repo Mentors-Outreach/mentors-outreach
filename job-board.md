@@ -72,7 +72,7 @@ sections:
       Check back here regularly or, to stay up to date, sign up to receive email
       updates or follow us on Twitter for announcements of each new posting. 
   - title: Want these gigs in your inbox? Subscribe to the digest.
-    title_align: left
+    title_align: center
     content: |
       Community, Content, Jobs, Opportunities & Events
     content_align: left
