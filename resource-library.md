@@ -107,7 +107,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    title: ' Resource Library'
+    title: ' Resource library'
 seo:
   title: Dive deeper to get inspired
   description: Get access to our full library of resources and development activities
