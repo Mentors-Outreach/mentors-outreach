@@ -29,7 +29,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/team-2.jpg
-  - title: Jobs
+  - title: opportunities
     features:
       - title: The Topical Media
         subtitle: Social Media Intern Wanted
