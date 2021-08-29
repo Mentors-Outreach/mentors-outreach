@@ -137,7 +137,8 @@ sections:
         content_align: left
         actions:
           - label: View on Amazon
-            url: '#'
+            url: >-
+              https://www.amazon.com/dp/0062273205/ref=cm_sw_r_cp_ep_dp_YjKczbKASWMWE
             style: link
             has_icon: false
             icon: arrow-left
