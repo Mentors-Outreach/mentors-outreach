@@ -73,8 +73,6 @@ sections:
       updates or follow us on Twitter for announcements of each new posting. 
   - title: Want these gigs in your inbox? Subscribe to the digest.
     title_align: center
-    content: |
-      Community, Content, Jobs, Opportunities & Events
     content_align: left
     form_position: bottom
     form_width: fifty
