@@ -103,7 +103,9 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: >-
+          Smarter Faster Better: The Secrets of Being Productive in Life and
+          Business
         image_position: top
         image_width: fifty
         image_align: left
