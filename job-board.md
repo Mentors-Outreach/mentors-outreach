@@ -118,6 +118,12 @@ seo:
       value: Job board
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        A platform connecting people to opportunities to use their skills to
+        affect change & to level up their career.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
