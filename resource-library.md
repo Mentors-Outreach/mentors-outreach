@@ -95,7 +95,9 @@ sections:
         type: grid_item
         image: >-
           images/Go-Giver-Cover-868x488-14ep1rqq4de4wp47eefx2yhrdlbzk7zuwqbx6pj8pw4azp9u.jpeg
-      - title: lorem-ipsum
+      - title: >-
+          Smarter Faster Better: The Secrets of Being Productive in Life and
+          Business
         subtitle: lorem-ipsum
         title_align: left
         content: >-
