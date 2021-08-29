@@ -2,7 +2,6 @@
 title: Job board
 sections:
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
