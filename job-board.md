@@ -1,7 +1,7 @@
 ---
 title: Job board
 sections:
-  - title: 'The Mentors Outreach job board '
+  - title: 'Job board '
     content: >-
       ## Lorem ipsum
 
