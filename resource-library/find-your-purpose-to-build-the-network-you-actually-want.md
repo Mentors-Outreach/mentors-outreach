@@ -6,7 +6,14 @@ seo:
     Porter Gale's Funnel Test is based on the premise that, in order to expand
     your network in the right ways, you need to be clear on your purpose.  
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: >
+        Porter Gale's Funnel Test is based on the premise that, in order to
+        expand your network in the right ways, you need to be clear on your
+        purpose.  
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
