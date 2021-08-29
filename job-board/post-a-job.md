@@ -1,7 +1,7 @@
 ---
 title: Who can post a Job
 seo:
-  title: ''
+  title: Post a Job
   description: ''
   robots: []
   extra: []
