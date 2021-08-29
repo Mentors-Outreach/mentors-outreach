@@ -75,7 +75,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: View on Amazon
+          - label: Book
             url: >-
               #https://www.amazon.com/Go-Giver-Little-Story-Powerful-Business/dp/1469063832
             style: secondary
