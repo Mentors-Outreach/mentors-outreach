@@ -153,7 +153,7 @@ sections:
           - label: Book
             url: >-
               https://www.amazon.com/Commit-Make-Stronger-Unlock-Potential-ebook/dp/B01ISFAU2G/ref=sr_1_1?ie=UTF8&qid=1488396951&sr=8-1&keywords=enda+mcnulty+commit
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
