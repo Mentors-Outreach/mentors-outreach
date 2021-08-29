@@ -29,6 +29,10 @@ seo:
       value: Find your purpose to build the network you actually want
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: images/find_your_purpose.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 ---
