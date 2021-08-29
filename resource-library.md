@@ -147,7 +147,6 @@ sections:
       - title: >-
           Commit!: make your mind and body stronger and unlock your full
           potential
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
