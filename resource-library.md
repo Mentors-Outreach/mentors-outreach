@@ -93,6 +93,8 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: >-
+          images/Go-Giver-Cover-868x488-14ep1rqq4de4wp47eefx2yhrdlbzk7zuwqbx6pj8pw4azp9u.jpeg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
