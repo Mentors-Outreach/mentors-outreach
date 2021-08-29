@@ -53,7 +53,8 @@ sections:
           Tiktok, Facebook, and Instagram)
         actions:
           - label: Apply Now
-            url: instagram.com/thetopicalmedia
+            url: >-
+              https://www.instagram.com/p/CSlnG2_JiHF/?utm_source=ig_web_copy_link
             style: link
             has_icon: true
             icon: arrow-right
