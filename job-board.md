@@ -20,7 +20,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/jgcvd.jpg
-  - title: lorem-ipsum
+  - title: Jobs
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
