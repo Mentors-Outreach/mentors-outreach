@@ -139,7 +139,7 @@ sections:
           - label: View on Amazon
             url: >-
               https://www.amazon.com/dp/0062273205/ref=cm_sw_r_cp_ep_dp_YjKczbKASWMWE
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
