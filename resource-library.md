@@ -87,7 +87,7 @@ sections:
             type: action
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: 'The go-giver: a little story about a powerful business idea'
         image_position: top
         image_width: fifty
         image_align: left
