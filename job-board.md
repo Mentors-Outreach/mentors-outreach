@@ -19,7 +19,7 @@ sections:
     background_image_position: left top
     background_image_repeat: no-repeat
     type: hero_section
-    background_image: images/christina-wocintechchat-com-LQ1t-8Ms5PY-unsplash.jpeg
+    background_image: images/team-2.jpg
   - title: Jobs
     features:
       - title: The Topical Media
