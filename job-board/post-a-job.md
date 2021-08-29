@@ -4,7 +4,11 @@ seo:
   title: Post a Job
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Post a Job
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
