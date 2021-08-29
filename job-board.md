@@ -23,7 +23,7 @@ sections:
   - title: Jobs
     features:
       - title: The Topical
-        subtitle: Social
+        subtitle: Social Media Intern Wanted
         content: >-
           ## Lorem ipsum
 
