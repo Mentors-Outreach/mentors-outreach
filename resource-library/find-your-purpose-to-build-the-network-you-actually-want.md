@@ -1,7 +1,7 @@
 ---
 title: Find your purpose to build the network you actually want
 seo:
-  title: ''
+  title: Find your purpose to build the network you actually want
   description: ''
   robots: []
   extra: []
