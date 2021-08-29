@@ -71,7 +71,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/find_your_purpose.png
-      - title: lorem-ipsum
+      - title: 'The go-giver: a little story about a powerful business idea'
         subtitle: lorem-ipsum
         title_align: left
         content: >-
