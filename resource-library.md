@@ -49,7 +49,6 @@ sections:
         type: grid_item
         image: images/jgcvd.jpg
       - title: Find your purpose to build the network you actually want
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
