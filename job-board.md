@@ -24,17 +24,15 @@ sections:
     features:
       - title: The Topical
         subtitle: Social Media Intern Wanted
-        content: >-
-          ## Lorem ipsum
+        content: >
+          The Topical Media is looking for a social media manager to oversee the
+          company's online presence. The ideal candidate will be able to create,
+          publish and analysis content to engage our online audience.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          We are looking for some with excellent knowledge of social media
+          networks, and how best to leverage them(focusing on, but limited to
+          Tiktok, Facebook, and Instagram)
         actions: []
         image_alt: lorem-ipsum
         media_position: top
