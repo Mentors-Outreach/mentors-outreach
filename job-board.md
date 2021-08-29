@@ -109,7 +109,9 @@ sections:
     type: form_section
 seo:
   title: Job board
-  description: ''
+  description: >-
+    A platform connecting people to opportunities to use their skills to affect
+    change & to level up their career.
   robots: []
   extra:
     - name: 'og:title'
