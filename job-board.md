@@ -54,9 +54,7 @@ sections:
     type: features_section
     subtitle: >-
       Check back here regularly or, to stay up to date, sign up to receive email
-      updates or follow us on Twitter for announcements of each new posting. New
-      gigs - jobs, RFPs, internships, and more — are added all the time and
-      anyone can post a gig. 
+      updates or follow us on Twitter for announcements of each new posting. 
   - title: Want these gigs in your inbox? Subscribe to the digest.
     title_align: left
     content: |
