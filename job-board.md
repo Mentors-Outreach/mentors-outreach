@@ -108,7 +108,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
 seo:
-  title: ''
+  title: Job board
   description: ''
   robots: []
   extra: []
