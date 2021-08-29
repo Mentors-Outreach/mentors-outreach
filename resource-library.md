@@ -53,7 +53,8 @@ sections:
         content_align: left
         actions:
           - label: Book
-            url: '#'
+            url: >-
+              resource-library/find-your-purpose-to-build-the-network-you-actually-want
             style: secondary
             has_icon: false
             icon: arrow-left
