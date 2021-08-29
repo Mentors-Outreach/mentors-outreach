@@ -22,7 +22,7 @@ sections:
     background_image: images/jgcvd.jpg
   - title: Jobs
     features:
-      - title: The Topical
+      - title: The Topical Media
         subtitle: Social Media Intern Wanted
         content: >
           The Topical Media is looking for a social media manager to oversee the
