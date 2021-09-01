@@ -46,6 +46,7 @@ sections:
     content: >
       Tell us about yourself. How can we help? Prefer email? 
       contact@mentorsoutreach.org
+    background_image: images/cncia.png
 seo:
   title: Contact Us - Mentors Outreach
   description: >+
