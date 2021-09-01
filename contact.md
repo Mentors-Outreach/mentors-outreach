@@ -48,9 +48,9 @@ sections:
       contact@mentorsoutreach.org
     background_image: images/cncia.png
   - content: |
-      ##### Address
+      **Address** l2/155 Queen St, Brisbane City QLD 4000
 
-      l2/155 Queen St, Brisbane City QLD 4000
+      **Email**: contact@bakarimustafa.com
     actions: []
     image_alt: lorem-ipsum
     media_position: top
