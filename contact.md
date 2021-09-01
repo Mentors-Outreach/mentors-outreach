@@ -1,7 +1,7 @@
 ---
 title: Contact
 sections:
-  - title: Get in Touch
+  - title: Contact Us
     title_align: left
     content_align: left
     form_position: bottom
