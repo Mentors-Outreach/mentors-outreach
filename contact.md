@@ -43,9 +43,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    subtitle: >-
-      Fill in the form below and we'll get back to you promptly. Prefer email? 
-      contact@mentorsoutreach.org
 seo:
   title: Contact - Mentors Outreach
   description: >+
