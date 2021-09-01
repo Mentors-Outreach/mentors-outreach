@@ -43,9 +43,8 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    content: >
-      Tell us about yourself. How can we help? Prefer email? 
-      contact@mentorsoutreach.org
+    content: |
+      Tell us about yourself. How can we help? 
     background_image: images/cncia.png
   - content: |
       **Address** l2/155 Queen St, Brisbane City QLD 4000
