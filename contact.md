@@ -47,7 +47,7 @@ sections:
       Fill in the form below and we'll get back to you promptly. Prefer email? 
       contact@mentorsoutreach.org
 seo:
-  title: Contact - Mentors Outreach
+  title: Contact Us - Mentors Outreach
   description: >+
     Please feel free to drop a message if you want to talk about business
     opportunities. 
