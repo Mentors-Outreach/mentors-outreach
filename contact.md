@@ -44,7 +44,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     content: >
-      Fill in the form below and we'll get back to you promptly. Prefer email? 
+      Tell us about yourself. How can we help? Prefer email? 
       contact@mentorsoutreach.org
 seo:
   title: Contact Us - Mentors Outreach
