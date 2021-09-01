@@ -50,7 +50,7 @@ sections:
   - content: |
       ##### Address
 
-      Level 2, 155 Queen Street, Brisbane City
+      l2/155 Queen St, Brisbane City QLD 4000
     actions: []
     image_alt: lorem-ipsum
     media_position: top
