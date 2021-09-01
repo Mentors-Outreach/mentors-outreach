@@ -49,17 +49,10 @@ sections:
     background_image: images/cncia.png
   - title: lorem-ipsum
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## Address
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Level 2, 155 Queen Street, Brisbane City
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
