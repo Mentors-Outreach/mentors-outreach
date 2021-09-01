@@ -47,9 +47,13 @@ sections:
       Tell us about yourself. How can we help? 
     background_image: images/cncia.png
   - content: |
-      **Address** l2/155 Queen St, Brisbane City QLD 4000
+      ###### **Address**
 
-      **Email**: contact@bakarimustafa.com
+       l2/155 Queen St, Brisbane City QLD 4000
+
+      ###### **Email**
+
+       contact@bakarimustafa.com
     actions: []
     image_alt: lorem-ipsum
     media_position: top
