@@ -47,8 +47,7 @@ sections:
       Tell us about yourself. How can we help? Prefer email? 
       contact@mentorsoutreach.org
     background_image: images/cncia.png
-  - subtitle: lorem-ipsum
-    content: |
+  - content: |
       ## Address
 
       Level 2, 155 Queen Street, Brisbane City
