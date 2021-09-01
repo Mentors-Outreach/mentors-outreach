@@ -69,6 +69,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     title: Other Ways
+    subtitle: To get in touch
 seo:
   title: Contact Us - Mentors Outreach
   description: >+
