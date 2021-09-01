@@ -45,7 +45,7 @@ sections:
     type: form_section
     subtitle: >-
       Fill in the form below and we'll get back to you promptly. Prefer email? 
-      sales@octopus.com
+      contact@octopus.com
 seo:
   title: Contact - Mentors Outreach
   description: >+
