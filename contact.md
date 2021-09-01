@@ -28,7 +28,7 @@ sections:
       - input_type: textarea
         name: Message
         label: Message
-        default_value: What can we help?
+        default_value: What can we help with?
         options: []
         is_required: true
         type: form_field
