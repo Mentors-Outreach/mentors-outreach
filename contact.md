@@ -47,8 +47,7 @@ sections:
       Tell us about yourself. How can we help? Prefer email? 
       contact@mentorsoutreach.org
     background_image: images/cncia.png
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     content: |
       ## Address
 
