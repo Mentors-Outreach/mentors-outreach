@@ -14,7 +14,7 @@ sections:
       - input_type: text
         name: Name
         label: Name
-        default_value: Name
+        default_value: Fullname
         options: []
         is_required: true
         type: form_field
