@@ -72,7 +72,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'twitter:title'
-      value: Contact - Mentors Outreach
+      value: Contact Us - Mentors Outreach
       keyName: name
       relativeUrl: false
     - name: 'og:type'
