@@ -21,7 +21,7 @@ sections:
       - input_type: email
         name: Email
         label: Email
-        default_value: Email
+        default_value: Email Address
         options: []
         is_required: true
         type: form_field
