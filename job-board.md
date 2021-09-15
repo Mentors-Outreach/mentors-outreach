@@ -26,7 +26,7 @@ sections:
         type: action
     image_alt: lorem-ipsum
     media_position: top
-    media_width: fourty
+    media_width: fifty
     align: left
     padding_top: medium
     padding_bottom: medium
