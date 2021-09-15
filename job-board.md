@@ -86,7 +86,7 @@ sections:
     actions: []
     grid_items:
       - title: The Topical Media
-        subtitle: lorem-ipsum
+        subtitle: Social Media Intern Wanted
         title_align: left
         content: >
           The Topical Media is looking for a social media manager to oversee the
