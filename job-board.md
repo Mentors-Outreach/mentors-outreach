@@ -83,13 +83,8 @@ sections:
           The tasks that will take up most of your time will be:
 
 
-          *   Manage out blog (but not write most blog posts).
-
-
-          *   Writing and updating our help centre
-
-
-          *   Managing out social media profiles & Much more.
+          *   Managing out social media profiles, content publishing & Much
+          more.
         content_align: left
         actions: []
         actions_align: left
