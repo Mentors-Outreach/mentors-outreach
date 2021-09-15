@@ -151,7 +151,7 @@ seo:
   robots: []
   extra:
     - name: 'og:title'
-      value: Job board
+      value: Find a Job  - Mentors Outreach
       keyName: property
       relativeUrl: false
     - name: 'og:description'
