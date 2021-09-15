@@ -100,7 +100,8 @@ sections:
         content_align: left
         actions:
           - label: Apply Now
-            url: '#'
+            url: >-
+              https://www.instagram.com/p/CSlnG2_JiHF/?utm_source=ig_web_copy_link
             style: link
             has_icon: false
             icon: arrow-left
