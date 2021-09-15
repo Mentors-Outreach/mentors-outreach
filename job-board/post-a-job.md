@@ -32,16 +32,25 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-The job board is open to everyone.  Whether you are recruiting for your organization, helping spread the word for a friend or just stumbled across a cool opportunity, as long as the gig relates to design and social impact, this board has you covered.
+The job board is open to everyone.  Whether you are recruiting for your organization, helping spread the word for a friend or just stumbled across a cool opportunity, as long as the gig relates to our mission and social impact, this board has you covered.
 
+### What's Included?
 
-### **HOW TO POST**
+Get your job in front of hundreds of thousands of ambitious professional looking for their next opportunity.
+
+*   1 x 30 days job post  on the Mentors Outreach Job Board
+
+*   Multiple shares on Social Media
+
+*   Notified to all email subscribers who have subscribed to job notifications
+
+### **How to Post**
 
 Using the link below. Once you've submitted your job posting, you can post directly to the job board or send along messages from your email. 
 
 [Submit a Job](mentoroutreach.org/#coming-soon)
 
-### **WHAT TO SHARE**
+### **What to Share**
 
 In the subject of your posting, please include:
 
