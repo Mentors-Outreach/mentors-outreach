@@ -87,7 +87,7 @@ sections:
           more.
         content_align: left
         actions:
-          - label: Ap
+          - label: Apply Now
             url: '#'
             style: link
             has_icon: false
