@@ -144,7 +144,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
 seo:
-  title: Job board
+  title: Find a Job  - Mentors Outreach
   description: >-
     A platform connecting people to opportunities to use their skills to affect
     change & to level up their career.
