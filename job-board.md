@@ -104,7 +104,7 @@ sections:
               https://www.instagram.com/p/CSlnG2_JiHF/?utm_source=ig_web_copy_link
             style: secondary
             has_icon: true
-            icon: arrow-left
+            icon: arrow-right
             icon_position: right
             new_window: false
             no_follow: false
