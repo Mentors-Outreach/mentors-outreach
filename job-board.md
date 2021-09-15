@@ -83,10 +83,6 @@ sections:
           The tasks that will take up most of your time will be:
 
 
-          *   Talking to our existing users and customer and to help them be
-          successful with Mentors Outreach
-
-
           *   Manage out blog (but not write most blog posts).
 
 
