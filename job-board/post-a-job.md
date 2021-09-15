@@ -18,7 +18,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'twitter:description'
-      value: "The job board is open to everyone. \_Whether you are recruiting for your organization, helping spread the word for a friend or just stumbled across a cool opportunity, as long as the gig relates to design and social impact, this board has you covered.\n\n"
+      value: "The job board is open to everyone. \_Whether you are recruiting for your organization, helping spread the word for a friend or just stumbled across a cool opportunity, as long as the gig relates to our mission and social impact, this board has you covered.\n\n\n"
       keyName: name
       relativeUrl: false
     - name: 'og:image'
