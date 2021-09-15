@@ -102,7 +102,7 @@ sections:
           - label: Apply Now
             url: >-
               https://www.instagram.com/p/CSlnG2_JiHF/?utm_source=ig_web_copy_link
-            style: primary
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
