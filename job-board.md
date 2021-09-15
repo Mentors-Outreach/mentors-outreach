@@ -38,49 +38,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/team-2.jpg
-  - title: Opportunities
-    features:
-      - title: The Topical Media
-        subtitle: Social Media Intern Wanted
-        content: >
-          The Topical Media is looking for a social media manager to oversee the
-          company's online presence. The ideal candidate will be able to create,
-          publish and analysis content to engage our online audience.
-
-
-          We are looking for some with excellent knowledge of social media
-          networks, and how best to leverage them(focusing on, but limited to
-          Tiktok, Facebook, and Instagram)
-        actions:
-          - label: Apply Now
-            url: >-
-              https://www.instagram.com/p/CSlnG2_JiHF/?utm_source=ig_web_copy_link
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: thirty-three
-        align: left
-        type: feature
-    feature_padding_vert: small
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
-    subtitle: >-
-      Check back here regularly or, to stay up to date, sign up to receive email
-      updates or follow us on Twitter for announcements of each new posting. 
   - title: Jobs
     subtitle: "Whether you’re seeking your dream role or dream employee—Mentors Outreach Jobs has you covered. We’re kind of like matchmakers that way \U0001F4AB"
     actions: []
