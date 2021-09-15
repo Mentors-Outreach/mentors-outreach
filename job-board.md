@@ -81,6 +81,24 @@ sections:
     subtitle: >-
       Check back here regularly or, to stay up to date, sign up to receive email
       updates or follow us on Twitter for announcements of each new posting. 
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    grid_items: []
+    grid_cols: three
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: false
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
   - title: Want these gigs in your inbox? Subscribe to the digest.
     title_align: center
     content_align: left
@@ -108,24 +126,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    grid_items: []
-    grid_cols: three
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
 seo:
   title: Job board
   description: >-
