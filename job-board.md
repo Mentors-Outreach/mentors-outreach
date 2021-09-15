@@ -81,7 +81,7 @@ sections:
     subtitle: >-
       Check back here regularly or, to stay up to date, sign up to receive email
       updates or follow us on Twitter for announcements of each new posting. 
-  - title: lorem-ipsum
+  - title: Jobs
     subtitle: "Whether you’re seeking your dream role or dream employee—Mentors Outreach Jobs has you covered. We’re kind of like matchmakers that way \U0001F4AB"
     actions: []
     grid_items:
