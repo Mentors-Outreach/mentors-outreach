@@ -75,17 +75,25 @@ sections:
       - title: Mentors Outreach
         subtitle: Social Media Manager
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          We are looking for someone to help us with a range of different tasks
+          related to digital marketing, customer success and administration.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          The tasks that will take up most of your time will be:
 
 
-          - Lorem ipsum
+          *   Talking to our existing users and customer and to help them be
+          successful with Mentors Outreach
 
-          - dolor sit amet
+
+          *   Manage out blog (but not write most blog posts).
+
+
+          *   Writing and updating our help centre
+
+
+          *   Managing out social media profiles & Much more.
         content_align: left
         actions: []
         actions_align: left
