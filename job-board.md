@@ -99,7 +99,7 @@ sections:
           Tiktok, Facebook, and Instagram)
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Apply Now
             url: '#'
             style: link
             has_icon: false
