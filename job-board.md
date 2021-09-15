@@ -171,7 +171,7 @@ seo:
       keyName: name
       relativeUrl: false
     - name: 'twitter:title'
-      value: Job board
+      value: Find a Job  - Mentors Outreach
       keyName: name
       relativeUrl: false
     - name: 'og:image'
