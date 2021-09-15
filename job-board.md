@@ -73,7 +73,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Mentors Outreach
-        subtitle: lorem-ipsum
+        subtitle: Social Media Manager
         title_align: left
         content: >-
           ## Lorem ipsum
