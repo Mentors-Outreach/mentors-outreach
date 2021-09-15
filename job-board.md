@@ -85,7 +85,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: The Topical Media
         subtitle: lorem-ipsum
         title_align: left
         content: >-
