@@ -71,7 +71,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-        image: images/5f306b8ef273cf393ba00e6e_hero-photos-right.png
+        image: images/5f306b75e0a2e4e72f293313_hero-photos-left-p-500.png
     feature_padding_vert: large
     align: center
     background_color: none
