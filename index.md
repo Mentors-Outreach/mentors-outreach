@@ -59,7 +59,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fourty
-      - title: lorem-ipsum
+      - title: Envisioned to create social wealth
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
