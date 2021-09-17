@@ -60,7 +60,6 @@ sections:
         media_position: right
         media_width: fourty
       - title: Envisioned to create social wealth
-        subtitle: lorem-ipsum
         content: >
           Making friends is fun. But creating human connections that are rooted
           in shared purpose can turn into something significant. It can help us
