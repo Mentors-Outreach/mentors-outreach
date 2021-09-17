@@ -59,7 +59,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fourty
-      - title: Envisioned to create social wealth
+      - title: Find your community.
         content: >
           Making friends is fun. But creating human connections that are rooted
           in shared purpose can turn into something significant. It can help us
