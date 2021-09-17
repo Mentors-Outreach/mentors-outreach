@@ -68,7 +68,7 @@ sections:
           tell the rest of this story.
         actions: []
         image_alt: lorem-ipsum
-        media_position: right
+        media_position: left
         media_width: fifty
         align: left
         image: images/5f306b75e0a2e4e72f293313_hero-photos-left-p-500.png
