@@ -61,17 +61,12 @@ sections:
         media_width: fourty
       - title: Envisioned to create social wealth
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Making friends is fun. But creating human connections that are rooted
+          in shared purpose can turn into something significant. It can help us
+          become better human beings and inspire society to become better too.
+          We still don't know how that might happen. So, we leave for you to
+          tell the rest of this story.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
