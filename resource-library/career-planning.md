@@ -7,17 +7,10 @@ sections:
       - title: Why Mentoring Others Has Helped Me
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          A brief article discussing the ways in which mentoring can help you to
+          deepen your own understanding, give you a new perspective on old
+          ideas, and strengthen your overall leadership ability.
         content_align: left
         actions: []
         actions_align: left
