@@ -30,7 +30,6 @@ sections:
         image_has_padding: false
         image: images/linkedin-sales-solutions--AXDunSs-n4-unsplash.jpeg
       - title: How to brag about yourself without being seen as narcissistic
-        subtitle: lorem-ipsum
         title_align: left
         content: >
           By now you're probably aware of a widespread cultural norm that
