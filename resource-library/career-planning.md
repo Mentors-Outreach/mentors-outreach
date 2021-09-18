@@ -93,11 +93,6 @@ sections:
             no_follow: false
         actions_align: left
         actions_width: auto
-        image_alt: >-
-          Photo by <a
-          href="https://unsplash.com/@arnaudmariat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Arnaud
-          Mariat</a> on <a
-          href="https://unsplash.com/s/photos/risk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>   
         image_position: top
         image_width: fifty
         image_align: left
