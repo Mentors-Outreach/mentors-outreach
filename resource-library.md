@@ -24,7 +24,7 @@ sections:
         image_has_padding: false
         image: images/magnet-me-LDcC7aCWVlo-unsplash.jpeg
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: Time management
         title_align: left
         content: >-
           ## Lorem ipsum
