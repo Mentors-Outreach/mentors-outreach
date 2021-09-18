@@ -37,7 +37,7 @@ sections:
           labels like self-absorbed, narcissistic, even obnoxious.
         content_align: left
         actions:
-          - label: View on Psychology today
+          - label: View on Psychology Today
             url: >-
               https://www.psychologytoday.com/au/blog/the-narcissus-in-all-us/201001/how-brag-about-yourself-without-being-seen-narcissistic
             style: link
