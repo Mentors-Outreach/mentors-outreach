@@ -1,5 +1,5 @@
 ---
-title: resource-library/
+title: career planning
 sections: []
 seo:
   title: ''
