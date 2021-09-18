@@ -83,7 +83,7 @@ sections:
           understand your decision.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: View on Entreprenuer
             url: '#'
             style: link
             has_icon: false
