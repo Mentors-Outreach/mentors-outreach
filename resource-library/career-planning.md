@@ -99,7 +99,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/arnaud-mariat-M6Bif4fTIjo-unsplash.jpeg
-      - title: lorem-ipsumHow to make a career map that actually works
+      - title: How to make a career map that actually works
         subtitle: lorem-ipsum
         title_align: left
         content: >-
