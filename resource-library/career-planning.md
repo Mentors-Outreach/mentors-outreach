@@ -161,7 +161,15 @@ sections:
           surprising piece of advice you might not have heard before quite so
           plainly. 
         content_align: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
