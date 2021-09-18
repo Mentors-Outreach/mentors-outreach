@@ -14,6 +14,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/magnet-me-LDcC7aCWVlo-unsplash.jpeg
       - title: 'Duku Fore: The importance of spontaneous decisions'
         title_align: left
         content_align: left
