@@ -180,7 +180,6 @@ sections:
         image_has_padding: false
         image: images/60619bda93f1076d13d8f28af083a7f89b4ca526_2880x1620.jpeg
       - title: Tips for networking with no experience
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
