@@ -83,7 +83,7 @@ sections:
           understand your decision.
         content_align: left
         actions:
-          - label: View on Entreprenuer
+          - label: View on Entrepreneur
             url: '#'
             style: link
             has_icon: false
