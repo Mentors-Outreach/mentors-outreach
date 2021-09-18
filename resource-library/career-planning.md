@@ -54,7 +54,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/yasin-yusuf-fMh-VTuMHQs-unsplash.jpeg
-      - title: lorem-ipsum
+      - title: How Accountability Leads to Success
         subtitle: lorem-ipsum
         title_align: left
         content: >-
