@@ -243,5 +243,9 @@ seo:
       value: website
       keyName: property
       relativeUrl: false
+    - name: 'og:image'
+      value: images/gabrielle-henderson-5HqtJT2l9Gw-unsplash.jpeg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
