@@ -4,7 +4,6 @@ sections:
   - actions: []
     grid_items:
       - title: Resources focused on career planning
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
