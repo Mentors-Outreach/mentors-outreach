@@ -1,7 +1,7 @@
 ---
 title: Career Planning
 sections:
-  - title: lorem-ipsum
+  - title: Resources focused on career planning
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
