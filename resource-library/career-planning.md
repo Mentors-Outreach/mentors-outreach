@@ -127,17 +127,13 @@ sections:
           images/3050786-poster-p-1-hit-the-ground-runninghow-to-make-a-career-map-that-actually-works.jpeg
       - title: In search of the perfect job
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          A 10,000 mile journey begins with that first step. Identifying what
+          you would like to aim for and taking stock of your skills and talent
+          is a good start to finding your perfect position. This book shares
+          guidance to help find the executive position that gives you the
+          opportunity, the challenges, and the competitive salary that you
+          deserve.
         content_align: left
         actions: []
         actions_align: left
