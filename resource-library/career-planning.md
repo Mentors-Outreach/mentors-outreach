@@ -1,5 +1,5 @@
 ---
-title: Career planning
+title: Career Planning
 sections: []
 seo:
   title: ''
