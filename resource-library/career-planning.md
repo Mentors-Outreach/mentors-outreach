@@ -77,17 +77,10 @@ sections:
         image: images/zac-durant-_6HzPU9Hyfg-unsplash.jpeg
       - title: What every entrepreneur should know about risk-taking
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          There are different kinds of risks (calculable, ambiguous, complete
+          unknown) and knowing the differences between them can help you better
+          understand your decision.
         content_align: left
         actions: []
         actions_align: left
