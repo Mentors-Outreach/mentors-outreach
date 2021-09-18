@@ -181,17 +181,10 @@ sections:
         image: images/60619bda93f1076d13d8f28af083a7f89b4ca526_2880x1620.jpeg
       - title: Tips for networking with no experience
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          For new grads, people changing industries, and anyone who's either
+          unemployed or rejoining the workforce after taking time away,
+          networking events can be uniquely stressful.
         content_align: left
         actions: []
         actions_align: left
