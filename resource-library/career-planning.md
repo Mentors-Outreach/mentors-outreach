@@ -187,7 +187,7 @@ sections:
           networking events can be uniquely stressful.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: View on Fast Company
             url: '#'
             style: link
             has_icon: false
