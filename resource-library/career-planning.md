@@ -114,7 +114,7 @@ sections:
           - dolor sit amet
         content_align: left
         actions:
-          - label: View on Fast Company8 minutes
+          - label: View on Fast Company
             url: '#'
             style: link
             has_icon: false
