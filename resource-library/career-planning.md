@@ -188,7 +188,8 @@ sections:
         content_align: left
         actions:
           - label: View on Fast Company
-            url: '#'
+            url: >-
+              https://www.fastcompany.com/3068398/hit-the-ground-running/the-idiots-guide-to-networking-no-work-experience-required
             style: link
             has_icon: false
             icon: arrow-left
