@@ -8,7 +8,7 @@ sections:
         content_align: left
         actions:
           - label: Career Planning
-            url: '#'
+            url: resource-library/career-planning/
             style: secondary
             has_icon: false
             icon: arrow-left
