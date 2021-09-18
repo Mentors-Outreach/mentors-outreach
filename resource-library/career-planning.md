@@ -29,7 +29,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/linkedin-sales-solutions--AXDunSs-n4-unsplash.jpeg
-      - title: lorem-ipsum
+      - title: How to brag about yourself without being seen as narcissistic
         subtitle: lorem-ipsum
         title_align: left
         content: >-
