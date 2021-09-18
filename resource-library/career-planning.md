@@ -222,6 +222,10 @@ seo:
   title: Career Planning - Resource Library
   description: Resources focused on career planning
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Career Planning - Resource Library
+      keyName: property
+      relativeUrl: false
 layout: advanced
 ---
