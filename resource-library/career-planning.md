@@ -57,17 +57,7 @@ sections:
       - title: How Accountability Leads to Success
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "When we aspire to career success, we typically set our sights on external factors. We establish our goals, determine a strategy, and map out the tasks.\_\n"
         content_align: left
         actions: []
         actions_align: left
