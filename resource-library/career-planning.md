@@ -137,7 +137,8 @@ sections:
         content_align: left
         actions:
           - label: View on Amazon
-            url: '#'
+            url: >-
+              http://www.amazon.com/Search-Perfect-Job-Executive-That-2019s/dp/0071485880
             style: secondary
             has_icon: false
             icon: arrow-left
