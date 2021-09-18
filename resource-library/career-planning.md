@@ -115,7 +115,8 @@ sections:
         content_align: left
         actions:
           - label: View on Fast Company
-            url: '#'
+            url: >-
+              http://www.fastcompany.com/3050786/hit-the-ground-running/how-to-make-a-career-map-that-actually-works
             style: secondary
             has_icon: false
             icon: arrow-left
