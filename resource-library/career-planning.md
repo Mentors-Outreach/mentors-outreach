@@ -55,7 +55,6 @@ sections:
         image_has_padding: false
         image: images/yasin-yusuf-fMh-VTuMHQs-unsplash.jpeg
       - title: How Accountability Leads to Success
-        subtitle: lorem-ipsum
         title_align: left
         content: "When we aspire to career success, we typically set our sights on external factors. We establish our goals, determine a strategy, and map out the tasks.\_\n"
         content_align: left
