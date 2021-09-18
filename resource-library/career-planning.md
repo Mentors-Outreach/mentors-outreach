@@ -227,5 +227,9 @@ seo:
       value: Career Planning - Resource Library
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Career Planning - Resource Library
+      keyName: name
+      relativeUrl: false
 layout: advanced
 ---
