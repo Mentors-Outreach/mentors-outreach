@@ -247,5 +247,9 @@ seo:
       value: images/gabrielle-henderson-5HqtJT2l9Gw-unsplash.jpeg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: images/gabrielle-henderson-5HqtJT2l9Gw-unsplash.jpeg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
