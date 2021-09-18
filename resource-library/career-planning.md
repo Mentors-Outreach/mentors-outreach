@@ -155,17 +155,11 @@ sections:
         image: images/magnet-me-LDcC7aCWVlo-unsplash.jpeg
       - title: The career advice you probably didn't get
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          you’re doing everything right at work, taking all the right advice,
+          but you’re just not moving up. Why? Susan Colantuono shares a simple,
+          surprising piece of advice you might not have heard before quite so
+          plainly. 
         content_align: left
         actions: []
         actions_align: left
