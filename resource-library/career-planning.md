@@ -85,7 +85,7 @@ sections:
         actions:
           - label: View on Entrepreneur
             url: 'https://www.entrepreneur.com/article/270320'
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
