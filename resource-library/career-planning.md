@@ -4,7 +4,7 @@ sections:
   - title: Resources focused on career planning
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Why Mentoring Others Has Helped Me
         subtitle: lorem-ipsum
         title_align: left
         content: >-
