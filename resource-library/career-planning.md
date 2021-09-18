@@ -60,7 +60,7 @@ sections:
         content_align: left
         actions:
           - label: View on Jan L. Bowen
-            url: '#'
+            url: 'https://janlbowen.com/how-accountability-leads-to-success/'
             style: link
             has_icon: false
             icon: arrow-left
