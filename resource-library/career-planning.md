@@ -178,6 +178,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/60619bda93f1076d13d8f28af083a7f89b4ca526_2880x1620.jpeg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
