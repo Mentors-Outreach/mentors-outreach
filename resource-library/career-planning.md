@@ -59,7 +59,7 @@ sections:
         content: "When we aspire to career success, we typically set our sights on external factors. We establish our goals, determine a strategy, and map out the tasks.\_\n"
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: View on Jan L. Bowen
             url: '#'
             style: link
             has_icon: false
