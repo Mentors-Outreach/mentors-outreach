@@ -38,7 +38,8 @@ sections:
         content_align: left
         actions:
           - label: lorem-ipsum
-            url: '#'
+            url: >-
+              https://www.psychologytoday.com/au/blog/the-narcissus-in-all-us/201001/how-brag-about-yourself-without-being-seen-narcissistic
             style: link
             has_icon: false
             icon: arrow-left
