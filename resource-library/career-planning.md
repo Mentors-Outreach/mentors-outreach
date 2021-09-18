@@ -124,6 +124,8 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: >-
+          images/3050786-poster-p-1-hit-the-ground-runninghow-to-make-a-career-map-that-actually-works.jpeg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
