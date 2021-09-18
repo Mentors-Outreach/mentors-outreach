@@ -235,5 +235,9 @@ seo:
       value: Resources focused on career planning
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: Resources focused on career planning
+      keyName: name
+      relativeUrl: false
 layout: advanced
 ---
