@@ -220,7 +220,7 @@ sections:
     type: grid_section
 seo:
   title: ''
-  description: ''
+  description: Resources focused on career planning
   robots: []
   extra: []
 layout: advanced
