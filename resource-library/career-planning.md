@@ -12,7 +12,7 @@ sections:
           ideas, and strengthen your overall leadership ability.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: View on Huffington Post
             url: '#'
             style: link
             has_icon: false
