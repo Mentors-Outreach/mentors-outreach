@@ -25,17 +25,6 @@ sections:
         image: images/magnet-me-LDcC7aCWVlo-unsplash.jpeg
       - title: Manage your time more efficiently
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
