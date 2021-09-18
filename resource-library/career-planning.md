@@ -75,7 +75,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/zac-durant-_6HzPU9Hyfg-unsplash.jpeg
-      - title: lorem-ipsum
+      - title: What every entrepreneur should know about risk-taking
         subtitle: lorem-ipsum
         title_align: left
         content: >-
