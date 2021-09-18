@@ -40,7 +40,7 @@ sections:
           - label: View on Psychology Today
             url: >-
               https://www.psychologytoday.com/au/blog/the-narcissus-in-all-us/201001/how-brag-about-yourself-without-being-seen-narcissistic
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
