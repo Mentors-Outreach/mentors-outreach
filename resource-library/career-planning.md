@@ -15,7 +15,7 @@ sections:
           - label: View on Huffington Post
             url: >-
               http://www.huffingtonpost.com/alex-lyman/why-mentoring-others-has-_b_10214756.html
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
