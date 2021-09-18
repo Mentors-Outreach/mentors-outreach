@@ -44,6 +44,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/yasin-yusuf-fMh-VTuMHQs-unsplash.jpeg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
