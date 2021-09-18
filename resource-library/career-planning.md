@@ -126,7 +126,6 @@ sections:
         image: >-
           images/3050786-poster-p-1-hit-the-ground-runninghow-to-make-a-career-map-that-actually-works.jpeg
       - title: In search of the perfect job
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
