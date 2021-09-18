@@ -231,5 +231,9 @@ seo:
       value: Career Planning - Resource Library
       keyName: name
       relativeUrl: false
+    - name: 'og:description'
+      value: Resources focused on career planning
+      keyName: property
+      relativeUrl: false
 layout: advanced
 ---
