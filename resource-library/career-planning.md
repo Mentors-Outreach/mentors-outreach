@@ -162,7 +162,7 @@ sections:
           plainly. 
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: View on TED.com
             url: '#'
             style: link
             has_icon: false
