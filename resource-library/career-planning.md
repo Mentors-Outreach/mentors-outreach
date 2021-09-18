@@ -136,7 +136,7 @@ sections:
           deserve.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: View on Amazon
             url: '#'
             style: secondary
             has_icon: false
