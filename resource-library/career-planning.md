@@ -164,7 +164,7 @@ sections:
         actions:
           - label: View on TED.com
             url: '#'
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
