@@ -163,7 +163,8 @@ sections:
         content_align: left
         actions:
           - label: View on TED.com
-            url: '#'
+            url: >-
+              http://www.ted.com/talks/susan_colantuono_the_career_advice_you_probably_didn_t_get
             style: secondary
             has_icon: false
             icon: arrow-left
