@@ -101,17 +101,11 @@ sections:
         image: images/arnaud-mariat-M6Bif4fTIjo-unsplash.jpeg
       - title: How to make a career map that actually works
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          We like this piece since it takes a daunting process - eek making a
+          career map - and breaks it down into something that you can
+          incorporate into your day to day life where it can truly help you
+          succeed.
         content_align: left
         actions:
           - label: View on Fast Company
