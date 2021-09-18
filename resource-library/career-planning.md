@@ -239,5 +239,9 @@ seo:
       value: Resources focused on career planning
       keyName: name
       relativeUrl: false
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
 layout: advanced
 ---
