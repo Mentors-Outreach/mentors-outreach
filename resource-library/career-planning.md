@@ -5,7 +5,6 @@ sections:
     actions: []
     grid_items:
       - title: Why Mentoring Others Has Helped Me
-        subtitle: lorem-ipsum
         title_align: left
         content: >
           A brief article discussing the ways in which mentoring can help you to
