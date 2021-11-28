@@ -75,20 +75,6 @@ sections:
     align: center
     background_color: none
     subtitle: Get the kind of advice you'd never find in blog posts or online courses
-  - type: features_section
-    features:
-      - image: images/bakari-mustafa.jpeg
-        image_alt: Bakari Mustafa
-        media_position: left
-        media_width: thirty-three
-        title: 'Bakari Mustafa, Founder'
-        align: left
-        subtitle: >-
-          “Finding the right people to help us can bring life-altering success.
-          I am excited to build a helpful community that connects you to just
-          the right people for your needs!”
-    feature_padding_vert: small
-    background_color: none
   - type: grid_section
     title: How it works
     grid_items:
