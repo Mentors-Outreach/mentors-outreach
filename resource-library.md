@@ -226,6 +226,9 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     title: ' Resource library'
+    subtitle: >-
+      You've unlocked access to our full library of resources and development
+      activities
 seo:
   title: Dive deeper to get inspired
   description: Get access to our full library of resources and development activities
