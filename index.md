@@ -19,7 +19,6 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
     title: Join a community that fosters greatness
-    image: images/feature-2.png
     media_width: fourty
   - type: features_section
     title: Why Choose Mentors Outreach?
