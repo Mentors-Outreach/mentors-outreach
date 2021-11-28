@@ -18,7 +18,7 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-    title: Where Professionals Build Meaningful Relationships
+    title: Build Meaningful Relationships
     media_width: fourty
   - type: features_section
     title: Why Choose Mentors Outreach?
