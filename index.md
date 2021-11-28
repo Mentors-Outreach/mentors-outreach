@@ -58,19 +58,6 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fourty
-      - title: Find your community.
-        content: >
-          Making friends is fun. But creating human connections that are rooted
-          in shared purpose can turn into something significant. It can help us
-          become better human beings and inspire society to become better too.
-          We still don't know how that might happen. So, we leave for you to
-          tell the rest of this story.
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: left
-        media_width: fifty
-        align: left
-        image: images/5f306b75e0a2e4e72f293313_hero-photos-left-p-500.png
     feature_padding_vert: large
     align: center
     background_color: none
