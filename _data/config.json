@@ -19,7 +19,7 @@
             },
             {
                 "label": "Events",
-                "url": "/careers",
+                "url": "/events/",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
