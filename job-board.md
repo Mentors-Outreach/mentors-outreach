@@ -1,7 +1,7 @@
 ---
 title: Job board
 sections:
-  - title: 'Job board '
+  - title: "Explore our curated Community Job Boards \U0001F4BC"
     content: >
       A platform connecting people to opportunities to use their skills to
       affect change & to level up their career.
