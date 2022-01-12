@@ -42,7 +42,7 @@ sections:
           *   Live events & meetups
         content_align: left
         actions:
-          - label: 'Start with Professional [coming soon]'
+          - label: Want to partner to help early career professionals?
             url: '#'
             style: primary
         actions_align: left
