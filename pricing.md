@@ -67,7 +67,7 @@ sections:
           *   Special offers.
         content_align: left
         actions:
-          - label: Start with Business
+          - label: Coming soon
             url: '#'
             style: primary
         actions_align: left
