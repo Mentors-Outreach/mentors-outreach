@@ -45,13 +45,13 @@
                 "style": "link"
             },
             {
-                "label": "Contact",
-                "url": "/contact",
+                "label": "Blog",
+                "url": "/blog",
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Contact",
+                "url": "/contact",
                 "style": "link"
             },
             {
