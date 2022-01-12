@@ -56,7 +56,7 @@ sections:
         actions:
           - label: Job Boards
             url: 'https://mentorsoutreach.org/job-board/'
-            style: primary
+            style: link
             has_icon: true
             icon: arrow-right
             icon_position: right
