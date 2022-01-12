@@ -42,7 +42,7 @@ sections:
           *   Live events & meetups
         content_align: left
         actions:
-          - label: 'Start with Professional [coming soon'
+          - label: 'Start with Professional [coming soon]'
             url: '#'
             style: primary
         actions_align: left
