@@ -19,7 +19,7 @@
             },
             {
                 "label": "Events",
-                "url": "/events/",
+                "url": "/events",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
