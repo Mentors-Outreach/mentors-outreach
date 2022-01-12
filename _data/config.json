@@ -14,7 +14,7 @@
         "secondary_nav_links": [
             {
                 "label": "Community",
-                "url": "/about",
+                "url": "https://social.mentorsoutreach.org/",
                 "style": "link"
             },
             {
