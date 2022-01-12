@@ -54,7 +54,7 @@ sections:
       - title: Access exclusive opportunities.
         content: "Discover personalized opportunities at every step of your journey. Meet people who are curious about finding their dream job and want to learn more about becoming a world-class job hunter.\_\n"
         actions:
-          - label: lorem-ipsum
+          - label: Job Boards
             url: '#'
             style: link
             has_icon: false
