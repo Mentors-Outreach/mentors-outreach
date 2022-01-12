@@ -59,7 +59,7 @@ sections:
             style: link
             has_icon: true
             icon: arrow-right
-            icon_position: right
+            icon_position: left
             new_window: false
             no_follow: false
         image: images/mentors-outreach-0326e7b1-hero--features-3-Frame.png
