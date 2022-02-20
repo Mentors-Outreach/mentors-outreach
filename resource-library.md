@@ -23,7 +23,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/magnet-me-LDcC7aCWVlo-unsplash.jpeg
-      - title: lorem-ipsum
+      - title: Tools for better thinking
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
