@@ -28,7 +28,7 @@ sections:
         content_align: left
         actions:
           - label: Collections
-            url: '#'
+            url: 'https://untools.co/'
             style: secondary
             has_icon: false
             icon: arrow-left
