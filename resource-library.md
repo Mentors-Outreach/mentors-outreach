@@ -42,6 +42,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/3886fe70-aabf-4d8e-94c2-6b2e982eae65.jpeg
       - title: Manage your time more efficiently
         title_align: left
         content_align: left
