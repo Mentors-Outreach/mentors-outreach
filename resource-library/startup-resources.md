@@ -1,5 +1,5 @@
 ---
-title: 'Founder '
+title: Founder Resources
 sections: []
 seo:
   title: ''
