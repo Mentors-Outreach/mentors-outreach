@@ -2,7 +2,7 @@
 title: Founder Resources
 sections:
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Curated content & templates for every step in your startup journey
     features: []
     feature_padding_vert: medium
     align: center
