@@ -16,7 +16,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title: Founder & Creator Resources
-    subtitle: lorem-ipsum
+    subtitle: Founder & Creator Resources
     actions: []
     grid_items: []
     grid_cols: three
