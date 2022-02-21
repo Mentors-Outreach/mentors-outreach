@@ -16,7 +16,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title: Founder & Creator Resources
-    subtitle: Founder & Creator Resources
+    subtitle: Curated content & templates for every step in your startup journey
     actions: []
     grid_items: []
     grid_cols: three
