@@ -1,7 +1,7 @@
 ---
 title: Founder Resources
 sections:
-  - title: All founder & startup resources you'll need
+  - title: Creator Resources
     subtitle: Curated content & templates for every step in your startup journey
     features: []
     feature_padding_vert: medium
