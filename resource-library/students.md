@@ -9,7 +9,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: Explore Now
+          - label: Explore now
             url: '#'
             style: link
             has_icon: false
