@@ -150,5 +150,9 @@ seo:
       value: Student Resources
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Student Resources
+      keyName: name
+      relativeUrl: false
 layout: advanced
 ---
