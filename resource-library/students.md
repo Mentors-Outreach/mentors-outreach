@@ -6,7 +6,6 @@ sections:
     actions: []
     grid_items:
       - title: "\U0001F50EJob Search"
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
