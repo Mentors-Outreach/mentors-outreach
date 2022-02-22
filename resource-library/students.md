@@ -1,7 +1,7 @@
 ---
 title: Student Resources
 sections:
-  - title: lorem-ipsum
+  - title: All the Student Resources you'll need
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
