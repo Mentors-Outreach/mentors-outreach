@@ -74,7 +74,7 @@ sections:
             style: secondary
             has_icon: true
             icon: arrow-left
-            icon_position: right
+            icon_position: left
             new_window: false
             no_follow: false
         actions_align: left
