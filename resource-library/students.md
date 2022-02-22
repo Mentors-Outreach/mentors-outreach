@@ -5,7 +5,7 @@ sections:
     subtitle: Curated content & templates for every step of your student journey
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Job Search
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
