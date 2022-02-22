@@ -1,7 +1,7 @@
 ---
 title: Student Resources
 sections:
-  - title: All the Student Resources
+  - title: Student Resources
     subtitle: Curated content & templates for every step of your student journey
     actions: []
     grid_items:
