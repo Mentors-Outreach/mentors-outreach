@@ -28,6 +28,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/Resume.jpg
       - title: "\U0001F4E7 Cover Letter"
         title_align: left
         content_align: left
