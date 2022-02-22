@@ -159,5 +159,9 @@ seo:
         Curated content & templates for every step of your student journey
       keyName: property
       relativeUrl: false
+    - name: 'og:image'
+      value: images/Resume.jpg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
