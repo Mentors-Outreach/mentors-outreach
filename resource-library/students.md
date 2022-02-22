@@ -2,7 +2,7 @@
 title: Student Resources
 sections:
   - title: All the Student Resources you'll need
-    subtitle: lorem-ipsum
+    subtitle: Curated content & templates for every step of your student journey
     actions: []
     grid_items: []
     grid_cols: three
