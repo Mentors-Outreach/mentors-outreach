@@ -40,6 +40,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/Cover Letter.jpg
       - title: "\U0001F4D5 Education"
         title_align: left
         content_align: left
