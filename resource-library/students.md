@@ -29,7 +29,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: lorem-ipsum
+      - title: "\U0001F4E7 Cover Letter"
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
