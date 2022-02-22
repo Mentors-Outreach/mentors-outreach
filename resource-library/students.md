@@ -65,7 +65,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: "\U0001F399️ Interview"
+      - title: "\U0001F399️ Interviews"
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
