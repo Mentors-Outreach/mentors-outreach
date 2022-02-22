@@ -141,7 +141,9 @@ sections:
     type: grid_section
 seo:
   title: ''
-  description: ''
+  description: |+
+    Curated content & templates for every step of your student journey
+
   robots: []
   extra: []
 layout: advanced
