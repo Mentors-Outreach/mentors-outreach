@@ -10,7 +10,7 @@ sections:
         content_align: left
         actions:
           - label: Explore now
-            url: '#'
+            url: /resource-library/students/job-search
             style: secondary
             has_icon: false
             icon: arrow-left
