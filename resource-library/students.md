@@ -154,5 +154,10 @@ seo:
       value: Student Resources
       keyName: name
       relativeUrl: false
+    - name: 'og:description'
+      value: |
+        Curated content & templates for every step of your student journey
+      keyName: property
+      relativeUrl: false
 layout: advanced
 ---
