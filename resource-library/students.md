@@ -145,6 +145,10 @@ seo:
     Curated content & templates for every step of your student journey
 
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Student Resources
+      keyName: property
+      relativeUrl: false
 layout: advanced
 ---
