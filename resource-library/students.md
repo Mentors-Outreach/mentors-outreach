@@ -64,6 +64,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/career development.jpg
       - title: "\U0001F399️ Interviews"
         title_align: left
         content_align: left
