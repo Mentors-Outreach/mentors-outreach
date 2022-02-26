@@ -32,7 +32,6 @@ sections:
         media_width: fifty
         align: left
       - title: Cover Letter Template
-        subtitle: lorem-ipsum
         content: "A Cover letter is utilized in your job search to give an introduction of who you are, what relevant experiences and skills you have, and passions you hold.\_\n"
         actions: []
         image_alt: lorem-ipsum
