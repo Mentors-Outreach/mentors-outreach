@@ -35,5 +35,9 @@ seo:
       value: Job seeker resources
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Job seeker resources
+      keyName: name
+      relativeUrl: false
 layout: advanced
 ---
