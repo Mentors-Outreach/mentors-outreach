@@ -26,7 +26,15 @@ sections:
           A blank page can be a daunting way to start so we’ve come up with
           these simple, professional templates to get you on your way. Check it
           out and feel free to download!
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
