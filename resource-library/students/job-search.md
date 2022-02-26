@@ -2,7 +2,9 @@
 title: Job Search
 sections:
   - title: Job seeker resources
-    subtitle: lorem-ipsum
+    subtitle: >-
+      To help you, we have collated some resources that will help you to find
+      and gain a job.
     actions: []
     grid_items: []
     grid_cols: three
