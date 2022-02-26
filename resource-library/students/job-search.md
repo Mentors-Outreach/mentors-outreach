@@ -1,7 +1,7 @@
 ---
 title: Job Search
 sections:
-  - title: lorem-ipsum
+  - title: Job seeker resources
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
