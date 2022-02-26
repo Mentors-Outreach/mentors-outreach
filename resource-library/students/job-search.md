@@ -39,5 +39,9 @@ seo:
       value: Job seeker resources
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: images/Job search.jpg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
