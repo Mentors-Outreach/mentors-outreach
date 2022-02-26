@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Resume Resources
 sections: []
 seo:
   title: ''
