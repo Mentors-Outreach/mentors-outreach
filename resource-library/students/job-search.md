@@ -31,5 +31,9 @@ seo:
       value: "Get job search tips, find job search help, and download our fact sheets.\_ You’ll also find useful links, videos and other tools you can use to assist with your job search.\n\n"
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: Job seeker resources
+      keyName: property
+      relativeUrl: false
 layout: advanced
 ---
