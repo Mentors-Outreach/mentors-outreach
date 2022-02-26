@@ -20,7 +20,7 @@ sections:
     type: hero_section
 seo:
   title: Job seeker resources
-  description: ''
+  description: "Get job search tips, find job search help, and download our fact sheets.\_ You’ll also find useful links, videos and other tools you can use to assist with your job search.\n"
   robots: []
   extra: []
 layout: advanced
