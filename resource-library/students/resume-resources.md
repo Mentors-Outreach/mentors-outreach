@@ -42,7 +42,7 @@ sections:
       - title: Cover Letter Template
         content: "A Cover letter is utilized in your job search to give an introduction of who you are, what relevant experiences and skills you have, and passions you hold.\_\n"
         actions:
-          - label: lorem-ipsum
+          - label: Download Templates
             url: '#'
             style: link
             has_icon: false
