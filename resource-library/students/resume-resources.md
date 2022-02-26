@@ -19,7 +19,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: lorem-ipsum
+  - title: Free Resources
     features: []
     feature_padding_vert: medium
     align: center
