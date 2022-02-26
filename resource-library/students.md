@@ -30,7 +30,7 @@ sections:
         content_align: left
         actions:
           - label: Explore now
-            url: '#'
+            url: /resource-library/students/resume-resources
             style: secondary
             has_icon: true
             icon: arrow-right
