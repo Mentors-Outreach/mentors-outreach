@@ -66,7 +66,7 @@ sections:
           us provide feedback on your resume and continue to support your
           journey.
         actions:
-          - label: lorem-ipsum
+          - label: Fill the form
             url: '#'
             style: link
             has_icon: false
