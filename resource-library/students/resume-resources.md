@@ -54,7 +54,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-      - title: lorem-ipsum
+      - title: Receive Resume Feedback
         subtitle: lorem-ipsum
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
