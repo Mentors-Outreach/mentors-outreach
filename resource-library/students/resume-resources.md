@@ -31,7 +31,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-      - title: lorem-ipsum
+      - title: Cover Letter Template
         subtitle: lorem-ipsum
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
