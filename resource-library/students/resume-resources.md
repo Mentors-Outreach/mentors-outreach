@@ -27,7 +27,7 @@ sections:
           these simple, professional templates to get you on your way. Check it
           out and feel free to download!
         actions:
-          - label: lorem-ipsum
+          - label: Download Template
             url: '#'
             style: link
             has_icon: false
