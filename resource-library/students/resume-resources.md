@@ -67,7 +67,7 @@ sections:
           journey.
         actions:
           - label: Fill the form
-            url: '#'
+            url: /contact
             style: secondary
             has_icon: true
             icon: arrow-left
