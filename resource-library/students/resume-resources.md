@@ -21,7 +21,7 @@ sections:
     type: hero_section
   - title: Free Resources
     features:
-      - title: lorem-ipsum
+      - title: Resume Template
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
