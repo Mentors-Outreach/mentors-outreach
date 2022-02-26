@@ -1,7 +1,7 @@
 ---
 title: Resume Resources
 sections:
-  - title: lorem-ipsum
+  - title: Resume Resources
     subtitle: lorem-ipsum
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
