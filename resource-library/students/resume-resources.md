@@ -55,7 +55,7 @@ sections:
         media_width: fifty
         align: left
       - title: Receive Resume Feedback
-        subtitle: "FREE\_RESUME\_FEEDBACK\_FORM"
+        subtitle: "Free resume feedback\_RESUME\_FEEDBACK\_FORM"
         content: >
           You can access our free resources and tips to further enhance your job
           hunting needs and make sure you are always a step ahead.
