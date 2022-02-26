@@ -23,39 +23,7 @@ sections:
     type: grid_section
   - title: Job seeker resources
     subtitle: lorem-ipsum
-    content: >-
-      Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
-      efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
-      pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
-      imperdiet venenatis.
-
-
-      > Vestibulum ullamcorper risus auctor eleifend consequat.
-
-
-      ![Placeholder
-      Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
-
-
-      In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl
-      elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam
-      malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis.
-      Vestibulum quis elit magna. Vestibulum accumsan blandit consequat.
-      Phasellus quis posuere quam.
-
-
-      Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
-      ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo
-      euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat
-      et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque
-      lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat
-      efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis
-      ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus
-      ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris,
-      viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus,
-      vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna
-      non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac
-      dui. Integer vel convallis justo.
+    content: "#### Start your online job search here with our job seeker resources.\_\n\nGet job search tips, find job search help, and download our fact sheets.\_ You’ll also find useful links, videos and other tools you can use to assist with your job search.\n\n## Job search articles\n\nIf you need to brush up your job search skills, click on the links below for tips that can help you make the most of your time.\n\n*   [Make a great interview first impression](https://apm.net.au/individuals/job-seekers/job-search-resources/make-great-job-interview-first-impression)\n\n*   [Dressing for success](https://apm.net.au/individuals/job-seekers/job-search-resources/dressing-for-success)\n\n*   [Why you should research skills in demand areas](https://apm.net.au/individuals/job-seekers/job-search-resources/research-skills-demand-areas)\n\n*   [Starting a new job](https://apm.net.au/individuals/job-seekers/job-search-resources/starting-new-job)\n\n*   [Writing a resume and cover letter](https://apm.net.au/individuals/job-seekers/job-search-resources/writing-resume-cover-letter)\n\n*   [Job interview tips](https://apm.net.au/individuals/job-seekers/job-search-resources/job-interview-tips)\n\n*   [How to find a job](https://apm.net.au/individuals/job-seekers/job-search-resources/how-to-find-a-job)\n\n*   [Interview techniques](https://apm.net.au/individuals/job-seekers/job-search-resources/interview-techniques)\n\n## Useful links\n\nHere are some websites you can visit that can help you find work in your local area.\n\n*   [Adzuna](https://www.adzuna.com.au/)\n\n*   [CareerOne](https://www.careerone.com.au/)\n\n*   [Indeed](https://au.indeed.com/)\n\n*   [jobsearch.gov.au](https://jobsearch.gov.au/)\n\n*   [Seek](https://www.seek.com.au/)\n"
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
