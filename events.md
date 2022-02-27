@@ -13,31 +13,6 @@ sections:
         no_follow: false
         type: action
     grid_items:
-      - title: Ventures Industry Challenge - Co-work and check in session
-        subtitle: >-
-          Wed, 1 Sept, 10:30 am – 12:00 pm | Global Change Institute St Lucia
-          QLD
-        title_align: left
-        content: "Join the Ventures Industry Challenge Co-work and check in session. This is your opportunity to better understand the Ventures Industry Challenge with your team and test your ideas.\_\n"
-        content_align: left
-        actions:
-          - label: View event
-            url: 'https://m.facebook.com/events/1552091721796395'
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
       - title: "Ideas Exchange -\_Investing In Greatness"
         subtitle: "Wed Mar 9 2022 at 5:30 pm to 9:00 pm |\_315 Brunswick Street,\_Fortitude Valley, QLD 4006"
         title_align: left
