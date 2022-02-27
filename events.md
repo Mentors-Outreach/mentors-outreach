@@ -14,7 +14,7 @@ sections:
         type: action
     grid_items:
       - title: Ideas Exchange by (IIG) Investing In Greatness
-        subtitle: "\U0001F552 Wed Mar 9 2022 at 5:30 pm to 9:00 pm |\_315 Brunswick Street,\_Fortitude Valley, QLD 4006"
+        subtitle: "\U0001F552 Wed Mar 9 2022 at 5:30 pm to 9:00 pm 315 Brunswick Street,\_Fortitude Valley, QLD 4006"
         title_align: left
         content: >
           Ideas Exchange is a platform where ambitious individuals, young
