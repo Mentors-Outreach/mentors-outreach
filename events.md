@@ -51,7 +51,7 @@ sections:
           individuals.
         content_align: left
         actions:
-          - label: 'https://www.eventbrite.com/e/ideas-exchange-tickets-268338707297'
+          - label: View event
             url: 'https://www.eventbrite.com/e/ideas-exchange-tickets-268338707297'
             style: link
             has_icon: false
