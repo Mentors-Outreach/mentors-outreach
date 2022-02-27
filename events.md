@@ -52,7 +52,7 @@ sections:
         content_align: left
         actions:
           - label: 'https://www.eventbrite.com/e/ideas-exchange-tickets-268338707297'
-            url: '#'
+            url: 'https://www.eventbrite.com/e/ideas-exchange-tickets-268338707297'
             style: link
             has_icon: false
             icon: arrow-left
