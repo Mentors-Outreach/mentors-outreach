@@ -39,7 +39,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: "Ideas Exchange -\_Investing In Greatness"
-        subtitle: '315 Brunswick St, 315 Brunswick Street, Fortitude Valley, Australia'
+        subtitle: "Wed Mar 9 2022 at 5:30 pm to 9:00 pm |\_315 Brunswick St, 315 Brunswick Street, Fortitude Valley, Australia"
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
