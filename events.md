@@ -38,7 +38,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Ideas Exchange
+      - title: "Ideas Exchange -\_Investing In Greatness"
         subtitle: lorem-ipsum
         title_align: left
         content: >-
