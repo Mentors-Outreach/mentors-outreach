@@ -54,7 +54,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Join Us
+      - title: Get Involved
         title_align: left
         content: >
           We’re looking for dreamers and builders with remarkable talent and
