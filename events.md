@@ -51,7 +51,7 @@ sections:
           individuals.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: 'https://www.eventbrite.com/e/ideas-exchange-tickets-268338707297'
             url: '#'
             style: link
             has_icon: false
