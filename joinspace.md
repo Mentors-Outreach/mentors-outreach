@@ -4,7 +4,7 @@ sections:
   - title: Drop-in audio chat
     content: >
       Join like-minded people around the world come together to talk, listen and
-      learn from each other in real-time.Join Space
+      learn from each other in real-time.
     actions:
       - label: Join Space
         url: '#'
