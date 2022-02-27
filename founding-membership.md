@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Founding Membership
 sections:
   - title: Mentors Outreach Membership
     subtitle: Become a Founding Member and support our community.
