@@ -46,19 +46,25 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-Join our team of entrepreneurial thinkers with a deep commitment to purpose and positive social change.
+Join our team! We're looking for creative and curious people who believe everyone deserves the opportunity to learn and grow.
 
-#### **Diversity**
+### **Perks of the job**
 
-Ensuring a diverse and inclusive workplace where we learn from each other is core to Matter’s values. We welcome people of different backgrounds, experiences, abilities, and perspectives.
+#### **📡 Learn from experts**
 
-#### **Open Minded**
+We have an incredible network of entrepreneur, advisors and friends you can tap into. Get exposure and mentorship from some of the sharpest minds in business, education and tech.
 
-Got any idea how something could be done better? Good. Welove constructive feedback and improving our skills.
+#### **🌃 Flexible hours**
 
-#### **Inclusive**
+As long as you are available for a few core calls, it is up to you when to work. We believe you work best when it works for your life.
 
-We believe accessibility and inclusiveness is key to empowering a new generation to thrive. We approach everything we do in an open, curious and non judgemental way.
+#### **👨🏻‍👩🏻‍👦🏻 Diversity**
+
+We welcome people of different backgrounds, experiences, abilities, and perspectives.
+
+#### **🦸 Inclusive**
+
+We approach everything we do in an open, curious and non judgemental way.
 
 # Apply
 
