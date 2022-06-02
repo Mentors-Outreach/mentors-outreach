@@ -21,22 +21,19 @@ sections:
     title: Build Meaningful Relationships
     media_width: fourty
   - type: features_section
-    title: Why Choose Mentors Outreach?
+    title: Why Join Mentors Outreach?
     features:
-      - title: Meet a supportive and inspiring group of peers
+      - title: Connect with like-minded people
         content: >
-          You’ll all grow through the creative journey together, exchanging
-          support, encouragement, and inspiration. Discover resources and make
-          friends and so much more.
+          Meet people with similar professional interests. Connect, share, and engage with the community and build relationships.
         actions: []
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fourty
         image: images/mentors-outreach-hero-features-1-Frame.png
-      - title: Access to the Mentors Outreach online community & Resources
+      - title: Access to curated learning content
         content: >
-          Meet people with similar professional interests. Ask questions, get
-          advice, share stories, and help each other grow!
+          Discover our full library of resources and development activities and other exclusive content to upskill and improve your strategies.
         actions:
           - label: View public posts
             url: 'https://social.mentorsoutreach.org/'
@@ -73,7 +70,7 @@ sections:
   - type: grid_section
     title: How it works
     grid_items:
-      - title: Weekly Introductions
+      - title: Members Introductions
         title_align: left
         content: >+
           Hand-curated introductions to others with shared interests and goals
@@ -135,7 +132,7 @@ sections:
         title_align: left
         content: >
           You'll have access and support from the entire Mentors Outreach team,
-          including monthly challenges and AMAs hosted by Bakari Mustafa.
+          including monthly challenges and AMA.
         content_align: left
         actions: []
         actions_align: left
