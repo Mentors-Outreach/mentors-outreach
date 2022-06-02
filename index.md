@@ -35,8 +35,8 @@ sections:
         content: >
           Discover our full library of resources and development activities and other exclusive content to upskill and improve your strategies.
         actions:
-          - label: View public posts
-            url: 'https://social.mentorsoutreach.org/'
+          - label: View our resources library
+            url: 'https://mentorsoutreach.org/resource-library/'
             style: link
             has_icon: true
             icon: arrow-right
