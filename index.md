@@ -21,7 +21,7 @@ sections:
     title: Build Meaningful Relationships
     media_width: fourty
   - type: features_section
-    title: Get the kind of advice you'd never find in blog posts or online courses
+    title: Find your community
     features:
       - title: Connect with like-minded people
         content: >
@@ -66,7 +66,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    subtitle: 
+    subtitle: Get the kind of advice you'd never find in blog posts or online courses
   - type: grid_section
     title: Why join Mentors Outreach?
     grid_items:
