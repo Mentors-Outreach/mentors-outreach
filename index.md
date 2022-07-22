@@ -68,7 +68,7 @@ sections:
     background_color: none
     subtitle: Get the kind of advice you'd never find in blog posts or online courses
   - type: grid_section
-    title: How it works
+    title: Why join Mentors Outreach?
     grid_items:
       - title: Members Introductions
         title_align: left
@@ -102,22 +102,19 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Participate and Share
+      - title: Connect
         title_align: left
         content: >+
-          Join or create a group with industry peers to connect monthly to stay
-          current on industry trends and best practices.
-
+          Go beyond your circle and access a trusted global network of high potentials from various industries and backgrounds.
         content_align: left
         image_alt: Section item 4 icon
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Special offers
+      - title: Go beyond
         title_align: left
         content: >
-          Enjoy exclusive savings on the best apps, books, and tools in the
-          mindful productivity space. 
+          Find potential partners, investors, employees, employers and, why not, friends. 
         content_align: left
         actions: []
         actions_align: left
@@ -128,11 +125,10 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Access and Support
+      - title: Support from Community
         title_align: left
         content: >
-          You'll have access and support from the entire Mentors Outreach team,
-          including monthly challenges and AMA.
+          Learn from exclusive courses, curated content or directly from members and changemakers.
         content_align: left
         actions: []
         actions_align: left
@@ -143,11 +139,10 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Live Events
+      - title: Events
         title_align: left
         content: >
-          Find Events & Discuss. These feature subject matter experts, members
-          of the community, and other meetups just for fun and networking.
+          Attend inspiring events and insightful sessions hosted by both members and industry experts.
         content_align: left
         actions: []
         actions_align: left
@@ -161,8 +156,7 @@ sections:
       - title: Members-only Newsletter
         title_align: left
         content: >
-          A subscription to our monthly Mentors Outreach Updates with online and
-          offline events, special perks, early access to new products, and more.
+          A subscription to our monthly Updates with online and offline events, special perks, early access to new products, and more.
         content_align: left
         actions: []
         actions_align: left
