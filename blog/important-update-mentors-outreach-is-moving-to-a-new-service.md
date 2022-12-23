@@ -5,32 +5,40 @@ categories:
   - _data/categories/category-adv07ytw3.json
 tags: []
 excerpt: >-
-  We wanted to let you know that our online community will be moving to a new platform in 2023.
+  We wanted to let you know that our online community will be moving to a new platform in 2023. 
+        We apologize for any inconvenience this may cause, but we believe that the new service will provide a better user experience 
+        and more features to support our community.
 thumb_image_alt: Mentors Outreach Membership
-image_alt: Mentors Outreach is Moving to a New Service
+image_alt: Important Update: Mentors Outreach is Moving to a New Service
 image_position: top
 seo:
   title: Important Update: Mentors Outreach is Moving to a New Service
   description: >-
-    We wanted to let you know that our online community will be moving to a new platform in 2023.
+    We wanted to let you know that our online community will be moving to a new platform in 2023. 
+        We apologize for any inconvenience this may cause, but we believe that the new service will provide a better user experience 
+        and more features to support our community.
   robots: []
   extra:
     - name: 'og:title'
-      value: Important Update: Mentors Outreach is Moving to a New Service
+      value: Mentors Outreach is Moving to a New Service
       keyName: property
       relativeUrl: false
     - name: 'twitter:title'
-      value: Important Update: Mentors Outreach is Moving to a New Service
+      value: Mentors Outreach is Moving to a New Service
       keyName: name
       relativeUrl: false
     - name: 'twitter:description'
       value: >-
-        We wanted to let you know that our online community will be moving to a new platform in 2023.
+        We wanted to let you know that our online community will be moving to a new platform in 2023. 
+        We apologize for any inconvenience this may cause, but we believe that the new service will provide a better user experience 
+        and more features to support our community.
       keyName: name
       relativeUrl: false
     - name: 'og:description'
       value: >-
-        We wanted to let you know that our online community will be moving to a new platform in 2023.
+        We wanted to let you know that our online community will be moving to a new platform in 2023. 
+        We apologize for any inconvenience this may cause, but we believe that the new service will provide a better user experience 
+        and more features to support our community.
       keyName: property
       relativeUrl: false
     - name: 'og:type'
