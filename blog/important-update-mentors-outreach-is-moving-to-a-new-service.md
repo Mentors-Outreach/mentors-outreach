@@ -8,8 +8,8 @@ excerpt: >-
   We wanted to let you know that our online community will be moving to a new platform in 2023. 
         We apologize for any inconvenience this may cause, but we believe that the new service will provide a better user experience 
         and more features to support our community.
-thumb_image_alt: Mentors Outreach Membership
-image_alt: Important Update: Mentors Outreach is Moving to a New Service
+thumb_image_alt: Mentors Outreach is Moving to a New Service
+image_alt: Mentors Outreach is Moving to a New Service
 image_position: top
 seo:
   title: Important Update 📢 Mentors Outreach is Moving to a New Service
