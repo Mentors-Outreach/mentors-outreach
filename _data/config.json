@@ -48,7 +48,7 @@
             },
             {
                 "label": "Sign Up",
-                "url": "https://social.mentorsoutreach.org/signup",
+                "url": "http://social.mentorsoutreach.org/",
                 "style": "primary"
             }
         ],
@@ -215,7 +215,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; 2022 Mentors Outreach. All rights reserved."
+        "content": "&copy; 2023 Mentors Outreach. All rights reserved."
     },
     "domain": "https://mentorsoutreach.org/",
     "favicon": "images/Mentors Outreach Favicon-b99bfca6.png"
