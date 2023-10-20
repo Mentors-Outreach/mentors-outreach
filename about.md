@@ -47,11 +47,7 @@ We are dedicated to fostering an environment where inspiration flows freely and 
 
 In essence, our mission is to be the catalyst for personal growth, propelling individuals forward on their unique journeys to self-discovery, achievement, and fulfillment.
 
-# Endless possibilities 😀
-
-Build a network of meaningful work-life connections based on shared interests such as social impact, tech and entrepreneurship, etc.
-
-#### Share what you know, learn what you don't.
+# Share what you know, learn what you don't.
 
 Our goal is to assist everyone in elevating their abilities to a higher level.
 
