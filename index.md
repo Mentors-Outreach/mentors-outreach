@@ -18,7 +18,7 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-    title: Build Meaningful Relationships
+    title: Unlock Growth with Curated Connections and Exclusive Opportunities
     media_width: fourty
   - type: features_section
     title: Find your community
@@ -132,7 +132,7 @@ sections:
   - type: cta_section
     title: Ready to make the most of our community?
     content: >
-      Join a vibrant community dedicated to personal growth and self-improvement. Access curated learning resources, exclusive opportunities, and hand-curated introductions to like-minded individuals with shared interests and goals. Let's inspire and help each other progress on our unique journeys to greatness.
+      Join a vibrant community dedicated to personal growth and self-improvement. Access curated learning resources, exclusive opportunities, and hand-curated introductions to like-minded individuals with shared interests and goals. 
     actions:
       - label: Get in touch
         url: /contact
