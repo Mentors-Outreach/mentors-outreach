@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: "Connect with our community members with similar interests and\_get exclusive access to resources and opportunities."
+    subtitle: "Discover inspiration, engage in meaningful conversations, and access exclusive resources to fuel your journey to greatness."
     actions:
       - label: Become a member
         url: /pricing
@@ -25,7 +25,7 @@ sections:
     features:
       - title: Connect with like-minded people
         content: >
-          Meet people with similar professional interests. Connect, share, and engage with the community and build relationships.
+          Connect with like-minded individuals who share your passions, goals, and interests. Our community provides a welcoming space where you can engage with people who understand your journey and aspirations. 
         actions: []
         image_alt: Feature 1 placeholder image
         media_position: right
@@ -33,7 +33,7 @@ sections:
         image: images/mentors-outreach-hero-features-1-Frame.png
       - title: Access to curated learning content
         content: >
-          Discover our full library of resources and development activities and other exclusive content to upskill and improve your strategies.
+          Gain access to a carefully curated selection of educational content designed to inspire, inform, and enrich your knowledge. Our collection covers a wide range of subjects and is tailored to meet your specific interests and learning needs.
         actions:
           - label: View our resources library
             url: 'https://mentorsoutreach.org/resource-library/'
@@ -49,7 +49,7 @@ sections:
         media_position: left
         media_width: fourty
       - title: Access exclusive opportunities.
-        content: "Discover personalized opportunities at every step of your journey. Meet people who are curious about finding their dream job and want to learn more about becoming a world-class job hunter.\_\n"
+        content: "Unlock exclusive opportunities that open doors to unique experiences and possibilities. By being part of our community, you'll gain access to privileges and benefits that are not available elsewhere."
         actions:
           - label: Job Boards
             url: 'https://mentorsoutreach.org/job-board/'
@@ -73,8 +73,7 @@ sections:
       - title: Members Introductions
         title_align: left
         content: >+
-          Hand-curated introductions to others with shared interests and goals
-          so you can help each other make progress.
+          Through our platform, we offer hand-curated introductions to individuals who share your common interests and goals, fostering a supportive environment where like-minded individuals can come together
 
         content_align: left
         image_alt: Section item 1 icon
@@ -108,20 +107,6 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Go beyond
-        title_align: left
-        content: >
-          Find potential partners, investors, employees, employers and, why not, friends. 
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
@@ -147,9 +132,7 @@ sections:
   - type: cta_section
     title: Ready to make the most of our community?
     content: >
-      We built Mentors Outreach to be a safe space for young professional and
-      online business owners to connect with, learn from, and support one
-      another.
+      Join a vibrant community dedicated to personal growth and self-improvement. Access curated learning resources, exclusive opportunities, and hand-curated introductions to like-minded individuals with shared interests and goals. Let's inspire and help each other progress on our unique journeys to greatness.
     actions:
       - label: Get in touch
         url: /contact
@@ -166,8 +149,7 @@ sections:
 seo:
   title: Mentors Outreach - Get answers and share your expertise.
   description: >
-    Join Mentors Outreach to upgrade your professional network. It’s simple;
-    Ask, Share what you know, learn what you don't.
+    Join a vibrant community dedicated to personal growth and self-improvement. Access curated learning resources, exclusive opportunities, and hand-curated introductions to like-minded individuals with shared interests and goals. Let's inspire and help each other progress on our unique journeys to greatness.
   extra:
     - name: 'og:type'
       value: website
@@ -177,8 +159,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >
-        Join Mentors Outreach to upgrade your professional network. It’s simple;
-        Ask, Share what you know, learn what you don't.
+        Join a vibrant community dedicated to personal growth and self-improvement. Access curated learning resources, exclusive opportunities, and hand-curated introductions to like-minded individuals with shared interests and goals. Let's inspire and help each other progress on our unique journeys to greatness.
       keyName: property
     - name: 'og:image'
       value: images/banner_11274.png
@@ -190,8 +171,7 @@ seo:
       value: Mentors Outreach - Get answers and share your expertise.
     - name: 'twitter:description'
       value: >
-        Join Mentors Outreach to upgrade your professional network. It’s simple;
-        Ask, Share what you know, learn what you don't.
+        Join a vibrant community dedicated to personal growth and self-improvement. Access curated learning resources, exclusive opportunities, and hand-curated introductions to like-minded individuals with shared interests and goals. Let's inspire and help each other progress on our unique journeys to greatness.
     - name: 'twitter:image'
       value: images/banner_11274.png
       relativeUrl: true
