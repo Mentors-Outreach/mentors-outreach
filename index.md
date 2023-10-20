@@ -81,31 +81,28 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Activity feed
+      - title: Connection
         title_align: left
         content: >
-          We offer a space to get inspired, ask questions, begin discussions,
-          share goals, join a few topics discussions, gain recognition, and
-          receive support.
+          Connect with a lively network of like-minded individuals who share your enthusiasm for personal development. Participate in meaningful conversations, exchange ideas, and establish enduring connections that will propel you further along your personal growth journey.
         content_align: left
         image_alt: Section item 2 icon
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Discussions
+      - title: Support
         title_align: left
         content: >
-          When asking or reading questions, request an answer from the most
-          relevant people.
+          Surround yourself with a supportive community that comprehends your ambitions and hurdles. Access guidance, encouragement, and accountability, assuring that you never traverse your path to greatness in solitude.
         content_align: left
         image_alt: Section item 3 icon
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Connect
+      - title: Inspiration
         title_align: left
         content: >+
-          Go beyond your circle and access a trusted global network of high potentials from various industries and backgrounds.
+          Go beyond your circle and access a trusted global network of high potentials from various industries and backgrounds. Engage in a deep well of inspiration by tapping into the collective wisdom of the community, along with access to exclusive resources, recommended readings, and thought-provoking discussions.
         content_align: left
         image_alt: Section item 4 icon
         image_position: top
@@ -115,48 +112,6 @@ sections:
         title_align: left
         content: >
           Find potential partners, investors, employees, employers and, why not, friends. 
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - title: Support from Community
-        title_align: left
-        content: >
-          Learn from exclusive courses, curated content or directly from members and changemakers.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - title: Events
-        title_align: left
-        content: >
-          Attend inspiring events and insightful sessions hosted by both members and industry experts.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - title: Members-only Newsletter
-        title_align: left
-        content: >
-          A subscription to our monthly Updates with online and offline events, special perks, early access to new products, and more.
         content_align: left
         actions: []
         actions_align: left
