@@ -30,7 +30,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fourty
-        image: images/mentors-outreach-hero-features-1-Frame.png
+        image: images/3d-business-man-and-woman-working-at-the-table.png
       - title: Access to curated learning content
         content: >
           Gain access to a carefully curated selection of educational content designed to inspire, inform, and enrich your knowledge. Our collection covers a wide range of subjects and is tailored to meet your specific interests and learning needs.
@@ -44,7 +44,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        image: images/mentors-outreach-0326e7b1-hero-features-0-Frame.png
+        image: images/3d-business-girl-studying-online.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fourty
@@ -59,7 +59,7 @@ sections:
             icon_position: left
             new_window: false
             no_follow: false
-        image: images/mentors-outreach-0326e7b1-hero--features-3-Frame.png
+        image: images/3d-business-man-and-woman-at-work.png
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fourty
