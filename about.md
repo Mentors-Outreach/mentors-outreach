@@ -50,4 +50,4 @@ Empower individuals on their journey of personal growth and self-improvement. We
 
 ### Ready to unlock your potential?
 
-Join Mentors Outreach and share what you know, learn what you don't, and be the catalyst for your success. [Get Started Now](mentorsoutreach.org/pricing/).
+Join Mentors Outreach and share what you know, learn what you don't, and be the catalyst for your success. [Get Started Now](https://mentorsoutreach.org/pricing/).
