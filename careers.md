@@ -1,30 +1,27 @@
 ---
-title: Careers
+title: Shape Your Career & Join a Mission-Driven Team at Mentors Outreach.
 seo:
-  title: Career - Mentors Outreach
+  title: Shape Your Career & Join a Mission-Driven Team at Mentors Outreach.
   description: >-
-    Join our Team! We're looking for creative and curious people who believe
-    everyone deserves the opportunity to learn and grow.
+    Join Mentors Outreach's mission-driven team and shape the future of personal growth! Enjoy flexible hours, remote work, and endless learning opportunities with world-class mentors.
   robots: []
   extra:
     - name: 'og:title'
-      value: Career - Mentors Outreach
+      value: Shape Your Career & Join a Mission-Driven Team at Mentors Outreach.
       keyName: property
       relativeUrl: false
     - name: 'og:description'
       value: >-
-        Join our Team! We're looking for creative and curious people who believe
-        everyone deserves the opportunity to learn and grow.
+        Join Mentors Outreach's mission-driven team and shape the future of personal growth! Enjoy flexible hours, remote work, and endless learning opportunities with world-class mentors.
       keyName: property
       relativeUrl: false
     - name: 'twitter:description'
       value: >-
-        Join our Team! We're looking for creative and curious people who believe
-        everyone deserves the opportunity to learn and grow.
+        Join Mentors Outreach's mission-driven team and shape the future of personal growth! Enjoy flexible hours, remote work, and endless learning opportunities with world-class mentors.
       keyName: name
       relativeUrl: false
     - name: 'twitter:title'
-      value: Career - Mentors Outreach
+      value: Shape Your Career & Join a Mission-Driven Team at Mentors Outreach.
       keyName: name
       relativeUrl: false
     - name: 'og:type'
@@ -46,26 +43,27 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-Join our team! We're looking for creative and curious people who believe everyone deserves the opportunity to learn and grow.
+We're looking for passionate individuals who believe in the power of mentorship and community to unlock career potential. At Mentors Outreach, you'll have the opportunity to:
 
-### **Perks of the job**
+## Accelerate Your Own Growth
 
-#### **📡 Learn from experts**
+* Learn from industry experts through exclusive workshops, panels, and networking events.
+* Tap into a global network of mentors and entrepreneurs for guidance and support.
+* Access curated learning resources on career development, leadership, and personal branding.
 
-We have an incredible network of entrepreneur, advisors and friends you can tap into. Get exposure and mentorship from some of the sharpest minds in business, education and tech.
+## Shape the Future of Mentorship
 
-#### **🌃 Flexible hours**
+* Contribute to building a vibrant community where individuals can connect, learn, and grow together.
+* Help us curate high-quality resources and experiences for our members.
+* Be a part of a team passionate about making a positive impact on the world.
 
-As long as you are available for a few core calls, it is up to you when to work. We believe you work best when it works for your life.
+## Enjoy a Rewarding Work Environment
 
-#### **👨🏻‍👩🏻‍👦🏻 Diversity**
+* **Flexible hours:** Design your workday around your life and commitments.
+* **Remote-first culture:** Work from anywhere with a strong internet connection.
+* **Competitive compensation and benefits:** Attract and retain top talent.
+* **Positive and collaborative team:** Be part of a supportive and inclusive environment.
 
-We welcome people of different backgrounds, experiences, abilities, and perspectives.
+**If you're a creative, curious, and mission-driven individual who thrives in a fast-paced environment, we want to hear from you!**
 
-#### **🦸 Inclusive**
-
-We approach everything we do in an open, curious and non judgemental way.
-
-# Apply
-
-Shot us an email over at [Hello@mentorsoutreach.org](mailto:hello@mentorsoutreach.org) to tell us how awesome you are.
+**Learn more and apply today:** [career@mentorsoutreach.org](mailto:career@mentorsoutreach.org)
