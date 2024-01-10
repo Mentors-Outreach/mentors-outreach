@@ -18,7 +18,7 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-    title: Unlock Growth with Curated Connections and Exclusive Opportunities | For professionals seeking career advancement and personal development
+    title: Accelerate Your Growth
     media_width: fourty
   - type: features_section
     title: Find Your Community and Resources
