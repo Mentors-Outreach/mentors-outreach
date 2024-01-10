@@ -2,9 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: "Discover inspiration, engage in meaningful conversations, and access exclusive resources to fuel your journey to greatness."
+    subtitle: "Accelerate your career growth through mentorship, curated resources, and a supportive community."
     actions:
-      - label: Become a member
+      - label: Get Started Now
         url: /pricing
         style: primary
         has_icon: false
@@ -18,24 +18,33 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-    title: Unlock Growth with Curated Connections and Exclusive Opportunities
+    title: Unlock Growth with Curated Connections and Exclusive Opportunities | For professionals seeking career advancement and personal development
     media_width: fourty
   - type: features_section
-    title: Find your community
+    title: Find Your Community and Resources
     features:
-      - title: Connect with like-minded people
+      - title: Connect with Like-Minded Professionals
         content: >
-          Connect with like-minded individuals who share your passions, goals, and interests. Our community provides a welcoming space where you can engage with people who understand your journey and aspirations. 
-        actions: []
+          Network with individuals who share your career goals and interests. Our community provides a welcoming space for meaningful connections and support.
+        actions:
+          - label: Browse Member Profiles
+            url: 'https://mentorsoutreach.org/pricing/'
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fourty
         image: images/3d-business-man-and-woman-working-at-the-table.png
-      - title: Access to curated learning content
+      - title: Access Exclusive Learning Opportunities
         content: >
-          Gain access to a carefully curated selection of educational content designed to inspire, inform, and enrich your knowledge. Our collection covers a wide range of subjects and is tailored to meet your specific interests and learning needs.
+          Expand your knowledge with webinars on career development topics, self-paced online courses, and expert-led workshops.
         actions:
-          - label: View our resources library
+          - label: Explore Our Resource Library
             url: 'https://mentorsoutreach.org/resource-library/'
             style: link
             has_icon: true
@@ -48,10 +57,10 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fourty
-      - title: Access exclusive opportunities.
-        content: "Unlock exclusive opportunities that open doors to unique experiences and possibilities. By being part of our community, you'll gain access to privileges and benefits that are not available elsewhere."
+      - title: Unlock Career-Boosting Opportunities
+        content: "Discover job boards, networking events, mentorship programs, and more, exclusively for our members."
         actions:
-          - label: Job Boards
+          - label: View Job Boards
             url: 'https://mentorsoutreach.org/job-board/'
             style: link
             has_icon: true
@@ -66,44 +75,47 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    subtitle: Get the kind of advice you'd never find in blog posts or online courses
+    subtitle: Get the kind of advice and support you won't find anywhere else
+  - type: testimonials_section
+    title: Hear from Our Members
+    testimonials:
+      - quote: "Mentors Outreach has been a game-changer for my career. I've found invaluable mentorship, landed my dream job, and built a network of supportive peers."
+        name: Jane Doe, Product Manager at Acme Inc.
+        title: Product Manager
+        image: images/member-testimonial-1.png
+      - quote: "I've gained so much knowledge and confidence through the resources and connections available on Mentors Outreach. It's truly a community that helps you thrive."
+        name: John Smith, Software Engineer at Tech Solutions
+        title: Software Engineer
+        image: images/member-testimonial-2.png
+    align: center
+    background_color: none
   - type: grid_section
-    title: Why join Mentors Outreach?
+    title: Engage in a Collaborative Community
     grid_items:
-      - title: Members Introductions
+      - title: Vibrant forum
         title_align: left
         content: >+
-          Through our platform, we offer hand-curated introductions to individuals who share your common interests and goals, fostering a supportive environment where like-minded individuals can come together
-
+          Share ideas, ask questions, and get support from fellow members in our active forums and discussion groups. No matter how niche the question, you’ll find answers here.
         content_align: left
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Connection
+      - title: Attend Virtual Events and Networking Sessions
         title_align: left
         content: >
-          Connect with a lively network of like-minded individuals who share your enthusiasm for personal development. Participate in meaningful conversations, exchange ideas, and establish enduring connections that will propel you further along your personal growth journey.
+          Connect with others through our engaging virtual events, including webinars, workshops, and networking meetups.
         content_align: left
         image_alt: Section item 2 icon
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Support
+      - title: Cultivate Meaningful Relationships
         title_align: left
         content: >
-          Surround yourself with a supportive community that comprehends your ambitions and hurdles. Access guidance, encouragement, and accountability, assuring that you never traverse your path to greatness in solitude.
+          Build lasting professional relationships and friendships with like-minded individuals who can help you achieve your goals.
         content_align: left
         image_alt: Section item 3 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - title: Inspiration
-        title_align: left
-        content: >+
-          Go beyond your circle and access a trusted global network of high potentials from various industries and backgrounds. Engage in a deep well of inspiration by tapping into the collective wisdom of the community, along with access to exclusive resources, recommended readings, and thought-provoking discussions.
-        content_align: left
-        image_alt: Section item 4 icon
         image_position: top
         image_align: left
         image_has_padding: true
@@ -134,7 +146,7 @@ sections:
     content: >
       Join a vibrant community dedicated to personal growth and self-improvement. Access curated learning resources, exclusive opportunities, and hand-curated introductions to like-minded individuals with shared interests and goals. 
     actions:
-      - label: Get in touch
+      - label: Get Started Now
         url: /contact
         style: primary
     actions_width: fourty
@@ -147,19 +159,19 @@ sections:
     background_image_size: cover
     background_image_opacity: 9
 seo:
-  title: Mentors Outreach - Get answers and share your expertise.
+  title: Mentors Outreach - Unlock Growth with Curated Connections and Exclusive Opportunities
   description: >
-    Join a vibrant community dedicated to personal growth and self-improvement. Access curated learning resources, exclusive opportunities, and hand-curated introductions to like-minded individuals with shared interests and goals. Let's inspire and help each other progress on our unique journeys to greatness.
+    Join a vibrant community of professionals seeking career advancement and personal development. Access curated learning resources, exclusive opportunities, and mentorship to accelerate your growth.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Mentors Outreach - Get answers and share your expertise.
+      value: Mentors Outreach - Unlock Your Career Potential
       keyName: property
     - name: 'og:description'
       value: >
-        Join a vibrant community dedicated to personal growth and self-improvement. Access curated learning resources, exclusive opportunities, and hand-curated introductions to like-minded individuals with shared interests and goals. Let's inspire and help each other progress on our unique journeys to greatness.
+        Find your community, access exclusive resources, and unlock career-boosting opportunities at Mentors Outreach. Join now!
       keyName: property
     - name: 'og:image'
       value: images/banner_11274.png
@@ -168,10 +180,10 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Mentors Outreach - Get answers and share your expertise.
+      value: Mentors Outreach - Unlock Your Career Potential
     - name: 'twitter:description'
       value: >
-        Join a vibrant community dedicated to personal growth and self-improvement. Access curated learning resources, exclusive opportunities, and hand-curated introductions to like-minded individuals with shared interests and goals. Let's inspire and help each other progress on our unique journeys to greatness.
+        Find your community, access exclusive resources, and unlock career-boosting opportunities at Mentors Outreach. Join now!
     - name: 'twitter:image'
       value: images/banner_11274.png
       relativeUrl: true
