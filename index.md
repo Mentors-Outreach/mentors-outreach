@@ -76,19 +76,6 @@ sections:
     align: center
     background_color: none
     subtitle: Get the kind of advice and support you won't find anywhere else
-  - type: testimonials_section
-    title: Hear from Our Members
-    testimonials:
-      - quote: "Mentors Outreach has been a game-changer for my career. I've found invaluable mentorship, landed my dream job, and built a network of supportive peers."
-        name: Jane Doe, Product Manager at Acme Inc.
-        title: Product Manager
-        image: images/member-testimonial-1.png
-      - quote: "I've gained so much knowledge and confidence through the resources and connections available on Mentors Outreach. It's truly a community that helps you thrive."
-        name: John Smith, Software Engineer at Tech Solutions
-        title: Software Engineer
-        image: images/member-testimonial-2.png
-    align: center
-    background_color: none
   - type: grid_section
     title: Engage in a Collaborative Community
     grid_items:
