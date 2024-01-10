@@ -79,7 +79,7 @@ sections:
   - type: grid_section
     title: Engage in a Collaborative Community
     grid_items:
-      - title: Vibrant forum
+      - title: Participate in Forums and Discussions
         title_align: left
         content: >+
           Share ideas, ask questions, and get support from fellow members in our active forums and discussion groups. No matter how niche the question, you’ll find answers here.
