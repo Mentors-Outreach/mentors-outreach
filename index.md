@@ -79,28 +79,37 @@ sections:
   - type: grid_section
     title: Engage in a Collaborative Community
     grid_items:
-      - title: Participate in Forums and Discussions
+      - title: Dive into targeted discussions
         title_align: left
         content: >+
-          Share ideas, ask questions, and get support from fellow members in our active forums and discussion groups. No matter how niche the question, you’ll find answers here.
+          Find niche communities, troubleshoot challenges, and get expert advice from peers.
         content_align: left
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Attend Virtual Events and Networking Sessions
+      - title: Spark Valuable Conversations
         title_align: left
         content: >
-          Connect with others through our engaging virtual events, including webinars, workshops, and networking meetups.
+          Ask questions, share your ideas, and learn from the experiences of real professionals.
         content_align: left
         image_alt: Section item 2 icon
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Cultivate Meaningful Relationships
+      - title: Join interactive workshops
         title_align: left
         content: >
-          Build lasting professional relationships and friendships with like-minded individuals who can help you achieve your goals.
+          Hone your skills, learn from industry leaders, and gain actionable insights from engaging virtual events.
+        content_align: left
+        image_alt: Section item 3 icon
+        image_position: top
+        image_align: left
+        image_has_padding: true
+      - title: Forge lasting connections
+        title_align: left
+        content: >
+          Build strong professional friendships, find supportive mentors, and collaborate with like-minded individuals on impactful projects.
         content_align: left
         image_alt: Section item 3 icon
         image_position: top
