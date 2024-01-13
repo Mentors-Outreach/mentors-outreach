@@ -1,11 +1,10 @@
 ---
-title: Pricing
+title: Mentors Outreach Pricing
 sections:
   - type: hero_section
-    title: Mentors Outreach Membership
+    title: Mentors Outreach Pricing
     subtitle: >-
-      Join now to participate in thoughtful conversations, attend events, and
-      access exclusive deals and content.
+      Mentors Outreach offers a variety of membership plans to suit your needs and budget. Whether you're a student, explorer, creator, knowledge worker, or entrepreneur, there's a plan that's right for you.
     align: center
     padding_top: large
     padding_bottom: small
@@ -18,9 +17,10 @@ sections:
 
           ### $0
 
-          per month, billed yearly
+          The Free plan is perfect for those who want to get a taste of what Mentors Outreach has to offer. With the Free plan, you'll have access to:
 
-          *   For students, explorers, and creators.
+          * Thoughtful conversations with other members
+          * Exclusive deals and content
         content_align: left
         actions:
           - label: Get Started for Free
@@ -35,10 +35,8 @@ sections:
 
           ### $9
 
-          per month, billed yearly
-
-          *   For students, explorers, and creators.
-
+          The Young Professional plan is ideal for students, explorers, and creators who want to take their learning and networking to the next level. With the Young Professional plan, you'll have access to everything in the Free plan, plus:
+        
           *   Live events & meetups
         content_align: left
         actions:
@@ -54,17 +52,12 @@ sections:
 
           ### $25
 
-          per month, billed yearly
+          The Business plan is designed for knowledge workers and entrepreneurs who want to grow their businesses and reach their full potential. With the Business plan, you'll have access to everything in the Young Professional plan, plus:
 
-          *   For knowledge workers and entrepreneurs.
-
-          *   Courses & workshops
-
-          *   Members-only newsletter.
-
-          *   Virtual events.
-
-          *   Special offers.
+          * Courses & workshops
+          * Members-only newsletter
+          * Virtual events
+          * Special offers
         content_align: left
         actions:
           - label: Coming soon
@@ -99,10 +92,9 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
 seo:
-  title: Pricing
+  title: Mentors Outreach Pricing
   description: >-
-    Join now to participate in thoughtful conversations, attend events, and
-    access exclusive deals and content.
+    Unlock exclusive benefits, events, and resources with Mentors Outreach membership plans. Find the perfect fit for students, creators, entrepreneurs, and more! 
   extra:
     - name: 'og:type'
       value: website
@@ -112,8 +104,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Join now to participate in thoughtful conversations, attend events, and
-        access exclusive deals and content.
+        Unlock exclusive benefits, events, and resources with Mentors Outreach membership plans. Find the perfect fit for students, creators, entrepreneurs, and more! 
       keyName: property
     - name: 'og:image'
       value: images/brooke-cagle-uhvrvdr7pg-unsplash.jpeg
@@ -125,8 +116,7 @@ seo:
       value: Pricing
     - name: 'twitter:description'
       value: >-
-        Join now to participate in thoughtful conversations, attend events, and
-        access exclusive deals and content.
+        Unlock exclusive benefits, events, and resources with Mentors Outreach membership plans. Find the perfect fit for students, creators, entrepreneurs, and more! 
     - name: 'twitter:image'
       value: images/brooke-cagle-uhvrvdr7pg-unsplash.jpeg
       relativeUrl: true
