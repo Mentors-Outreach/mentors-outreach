@@ -9,7 +9,7 @@ sections:
     form_layout: stacked
     enable_card: true
     form_id: contact-form
-    form_action: /thank-you
+    form_action: https://formspree.io/f/xleqdoav
     form_fields:
       - input_type: text
         name: Name
