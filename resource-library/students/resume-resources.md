@@ -43,7 +43,7 @@ sections:
         content: "A Cover letter is utilized in your job search to give an introduction of who you are, what relevant experiences and skills you have, and passions you hold.\_\n"
         actions:
           - label: Download Templates
-            url: '#'
+            url: 'https://mentorsoutreach.org/resource-library/job-search-resources/cover-letter-sample.docx'
             style: primary
             has_icon: false
             icon: arrow-left
