@@ -28,7 +28,7 @@ sections:
           out and feel free to download!
         actions:
           - label: Download Templates
-            url: '#'
+            url: 'https://myfuture.edu.au/docs/default-source/job-search-resources/resume-sample-graduate.doc?sfvrsn=f638c3d8\_2'
             style: primary
             has_icon: false
             icon: arrow-left
