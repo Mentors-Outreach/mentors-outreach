@@ -62,12 +62,12 @@ sections:
 
 
 
-          Fill out our quick and easy form in 3 minutes. The info used will help
+          Fill out our quick and easy form in 10 minutes. The info used will help
           us provide feedback on your resume and continue to support your
           journey.
         actions:
           - label: Fill the form
-            url: /contact
+            url: 'https://forms.gle/RcsR3CJ4EV6AjPAQ7'
             style: secondary
             has_icon: true
             icon: arrow-left
