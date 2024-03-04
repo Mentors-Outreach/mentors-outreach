@@ -27,9 +27,6 @@ seo:
 layout: page
 ---
 
-
-**Mentors Outreach Acceptable Use Policy (AUP)**
-
 _Last updated: March 04, 2024_
 
 This Acceptable Use Policy (the "AUP") governs the use of services provided by Mentors Outreach (referred to as "we," "our," or "Mentors Outreach"). By using our services, you agree to comply with this AUP. We reserve the right to modify this AUP at any time, and it is your responsibility to regularly check for updates.
@@ -73,6 +70,8 @@ Users are prohibited from:
 - Using the services in a manner that negatively affects other users or impairing functionality.
 - Attempting to gain unauthorized access to the services.
 
+If you violate any of the foregoing restrictions, your right to use the Services will immediately and automatically terminate.
+
 **Feedback:**
 
 Any feedback provided regarding the services becomes Mentors Outreach's property, and users waive any rights to such feedback.
@@ -81,8 +80,5 @@ Any feedback provided regarding the services becomes Mentors Outreach's property
 
 Services provided do not constitute therapy or medical advice. Users must consult with a medical professional for medical decisions. Mentors Outreach Care user programs involving mental health providers are separate from the AUP.
 
-**Conclusion:**
-
-This AUP ensures a safe, respectful, and professional environment for users. Violations may result in account termination. Users are encouraged to regularly review the AUP for updates.
 
 
