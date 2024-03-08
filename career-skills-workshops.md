@@ -42,12 +42,7 @@ sections:
       - title: Personal Branding Workshop
         title_align: left
         content: >
-          Craft a Distinctive Identity to Propel Your Career Forward. In this engaging workshop, discover the power of Personal Branding and learn how to:
-
-          - Define and articulate your unique value proposition
-          - Enhance your online presence and visibility
-          - Develop a consistent and authentic personal brand
-          - Leverage your brand for professional growth and opportunities
+          Discover the art of defining and articulating your unique value proposition, enhancing your online presence, and crafting an authentic personal brand. Join our workshop to unlock the secrets of leveraging social media to elevate your career profile and expand your network within the industry.
         content_align: left
         actions:
           - label: Get in touch
@@ -70,12 +65,7 @@ sections:
       - title: Art of Negotiation Workshop
         title_align: left
         content: >
-          Master the Skills to Achieve Win-Win Outcomes. Join our Art of Negotiation Workshop and acquire the techniques to:
-
-          - Effectively prepare for negotiations
-          - Understand and influence the negotiation process
-          - Handle difficult conversations with confidence
-          - Secure favorable outcomes for both parties
+          Master the art of negotiation with Mentors Outreach! Discover effective strategies, delve into the psychology of successful negotiation, and hone your skills through practical, real-life scenarios. 
         content_align: left
         actions:
           - label: Get in touch
@@ -99,12 +89,7 @@ sections:
       - title: Growth Mindset & Building Resilience Workshop
         title_align: left
         content: >
-          Cultivate a Mindset for Success and Navigate Challenges. In this empowering workshop, participants will:
-
-          - Embrace a Growth Mindset for continuous learning and improvement
-          - Develop resilience in the face of setbacks and challenges
-          - Foster a positive and adaptable attitude towards personal and professional development
-          - Learn strategies to bounce back stronger from adversity
+          In this workshop, explore the latest research on growth mindset, acquire mental frameworks for handling setbacks, and master the resilience needed to navigate uncertainties. Be prepared to respond effectively to any situation and turn setbacks into stepping stones for success.
         content_align: left
         actions:
           - label: Get in touch
@@ -141,8 +126,7 @@ sections:
 seo:
   title: Career Skills Workshops - Mentors Outreach
   description: >-
-    Join like-minded people around the world come together to talk, listen and
-    learn from each other in real-time.
+    Unlock Your Potential and Elevate Your Career with Our Dynamic Workshops
   robots: []
   extra:
     - name: 'og:description'
