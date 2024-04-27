@@ -33,15 +33,15 @@ sections:
         content: |
           ***
 
-          ### $9
+          ### $12
 
           The Young Professional plan is ideal for students, explorers, and creators who want to take their learning and networking to the next level. With the Young Professional plan, you'll have access to everything in the Free plan, plus:
         
           *   Live events & meetups
         content_align: left
         actions:
-          - label: Coming soon
-            url: '#'
+          - label: Free 14-day trial
+            url: 'https://social.mentorsoutreach.org/checkout/professional'
             style: primary
         actions_align: left
         actions_width: full-width
@@ -50,7 +50,7 @@ sections:
         content: |
           ***
 
-          ### $25
+          ### $49
 
           The Business plan is designed for knowledge workers and entrepreneurs who want to grow their businesses and reach their full potential. With the Business plan, you'll have access to everything in the Young Professional plan, plus:
 
@@ -60,8 +60,8 @@ sections:
           * Special offers
         content_align: left
         actions:
-          - label: Coming soon
-            url: '#'
+          - label: Free 14-day trial
+            url: 'https://social.mentorsoutreach.org/checkout/professional'
             style: primary
         actions_align: left
         actions_width: full-width
