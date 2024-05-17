@@ -31,8 +31,6 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## We're Dedicated to Fostering Personal and Professional Development
-
 We're dedicated to fostering personal and professional development through community support and engagement. Whether you're looking to share knowledge, learn from others, or simply connect with like-minded individuals, there are numerous ways to get involved and make a meaningful impact.
 
 ## Ways to Get Involved
