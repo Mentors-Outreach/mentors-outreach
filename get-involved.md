@@ -62,7 +62,7 @@ Engage with other community members through our forums and discussion groups. Sh
 - **Supportive Environment:** Be part of a community that values growth, learning, and mutual support.
 
 Ready to Get Started?
-Join us today and start making a difference! Visit our [Pricing](mentorsoutreach.org/pricing) to sign up, or [Contact Us](mentorsoutreach.org/contact) if you have any questions.
+Join us today and start making a difference! Visit our [Pricing](/pricing) to sign up, or [Contact Us](/contact) if you have any questions.
 
 
 
