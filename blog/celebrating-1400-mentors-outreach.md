@@ -53,7 +53,7 @@ seo:
 layout: post
 author: _data/team/person-bjfmxhc5b.json
 thumb_image: images/Mentors_Outreach_Milestone_4232.png
-image: images/introducing-membership.png
+image: images/Mentors_Outreach_Milestone_4232.png
 ---
 # We did it! 🎉
 
